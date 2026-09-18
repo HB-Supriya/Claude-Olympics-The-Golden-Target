@@ -1,0 +1,1240 @@
+target_name,species,uniprot_id,gene_symbol,assay_count,binding_type
+NAD(P)H dehydrogenase [quinone] 1,Homo sapiens,P15559,NQO1,85,Kd
+PGA4,Homo sapiens,P0DJD7,PGA4,180,EC50
+excitatory amino acid transporter 2,H. sapiens,P43004,SLC1A2,156,Kd
+sodium/glucose cotransporter 2,human,P31639,SLC5A2,212,Ki
+Immunoglobulin lambda variable 3-9,Human,A0A075B6K5,IGLV3-9,375,Ki
+Elongation factor 1 gamma,human,P26641,EEF1G,208,Ki
+Cytochrome P450 2D7 (CYP2D7),Human,A0A087X1C5,CYP2D7,171,Ki
+TNFRSF10A protein,human,O00220,TNFRSF10A,357,Ki
+srsf protein kinase 1,H. sapiens,Q96SB4,SRPK1,132,Kd
+Metastasis-suppressor KiSS-1,Homo sapiens,Q15726,KISS1,6,EC50
+ACE protein,H. sapiens,P12821,ACE,119,Ki
+Protein lin-7 homolog A (LIN7A),H. sapiens,O14910,LIN7A,371,IC50
+Carbonic anhydrase 2 (CA2),H. sapiens,P00918,CA2,241,Kd
+ZNF500 protein,Homo sapiens,O60304,ZNF500,39,IC50
+Inhibitor of nuclear factor kappa-B kinase subunit beta,Homo sapiens,O14920,IKBKB,247,EC50
+Immunoglobulin lambda variable 1 44,human,P01699,IGLV1-44,384,Kd
+Ubiquitin carboxyl-terminal hydrolase 46,H. sapiens,P62068,USP46,393,Kd
+T cell receptor alpha variable 9-1 (TRAV9-1),Human,A0A075B6T8,TRAV9-1,283,IC50
+Testis-specific Y-encoded protein 10 (TSPY10),H. sapiens,P0CW01,TSPY10,155,EC50
+protein deacetylase hdac6,Human,Q9UBN7,HDAC6,126,Ki
+Immunoglobulin lambda variable 2-11,H. sapiens,P01706,IGLV2-11,283,Ki
+IGHV3-9,Human,P01782,IGHV3-9,12,Ki
+RND3 protein,human,P61587,RND3,47,IC50
+Non-receptor tyrosine-protein kinase TYK2 (TYK2),Homo sapiens,P29597,TYK2,317,Ki
+hepatocyte nuclear factor 4-alpha,human,P41235,HNF4A,72,Ki
+Tyrosine-protein kinase receptor TYRO3 (TYRO3),Human,Q06418,TYRO3,107,Kd
+Dipeptidase 1,human,P16444,DPEP1,78,Kd
+deuterosome assembly protein 1,Homo sapiens,Q05D60,DEUP1,396,IC50
+TBC1 domain family member 3K,H. sapiens,A0A087X1G2,TBC1D3K,250,IC50
+immunoglobulin kappa variable 1-39,H. sapiens,P01597,IGKV1-39,170,Kd
+H(+)/Cl(-) exchange transporter 6,human,P51797,CLCN6,173,Kd
+Neuronal membrane glycoprotein M6-b,Human,Q13491,GPM6B,327,Ki
+ALDH3A2,human,P51648,ALDH3A2,392,Ki
+baculoviral iap repeat-containing protein 2,human,Q13490,BIRC2,90,EC50
+IGLV1-47 protein,Human,P01700,IGLV1-47,385,Kd
+DNA repair nuclease/redox regulator APEX1 (APEX1),Human,P27695,APEX1,393,EC50
+YWHAQ protein,human,P27348,YWHAQ,355,IC50
+EGR4,H. sapiens,Q05215,EGR4,14,EC50
+MYL12B,H. sapiens,O14950,MYL12B,288,IC50
+LRRIQ3 protein,human,A6PVS8,LRRIQ3,135,IC50
+prolyl endopeptidase,Homo sapiens,P48147,PREP,94,IC50
+IGKV2D-30 protein,Human,A0A075B6S6,IGKV2D-30,147,IC50
+TRAV23DV6,H. sapiens,A0A075B6W5,TRAV23DV6,324,Ki
+Immunoglobulin lambda variable 2-14 (IGLV2-14),Homo sapiens,P01704,IGLV2-14,355,Ki
+"Cytochrome b c1 complex subunit 6 like, mitochondrial",Human,A0A096LP55,UQCRHL,52,Ki
+IL3RA protein,Human,P26951,IL3RA,105,Ki
+Dolichyl diphosphooligosaccharide  protein glycosyltransferase subunit DAD1,human,P61803,DAD1,284,Ki
+LIN7A,Homo sapiens,O14910,LIN7A,334,Ki
+SFI1,human,A8K8P3,SFI1,388,Kd
+T cell receptor alpha variable 27 (TRAV27),Human,A0A087WT01,TRAV27,355,Kd
+Disintegrin and metalloproteinase domain-containing protein 17,H. sapiens,O60226,CSVP,16,IC50
+IGLV1-40 protein,human,P01703,IGLV1-40,61,EC50
+Immunoglobulin kappa constant (IGKC),human,P01834,IGKC,393,Ki
+AIM2 protein,Human,O14862,AIM2,291,Ki
+Stathmin,Human,P16949,STMN1,89,EC50
+DNA binding protein inhibitor ID 1,Homo sapiens,P41134,ID1,396,IC50
+U6 snRNA-associated Sm-like protein LSm6 (LSM6),Homo sapiens,P62312,LSM6,101,Kd
+"3 beta hydroxysteroid Delta(8),Delta(7) isomerase",Human,Q15125,EBP,394,EC50
+Interferon alpha-5,Homo sapiens,P01569,IFNA5,45,IC50
+KDR,human,P35968,KDR,326,Ki
+Small ribosomal subunit protein uS17,human,P62280,RPS11,152,EC50
+Carboxypeptidase E (CPE),Human,P16870,CPE,67,EC50
+Orexin receptor type 2,H. sapiens,Q5VTM0,ORXR2,90,IC50
+Beta-galactosidase (GLB1),H. sapiens,P16278,GLB1,131,IC50
+Probable non-functional T cell receptor gamma variable (TRGV1),H. sapiens,A0A0A0MS02,TRGV1,39,IC50
+tgf-beta receptor type-1,H. sapiens,P36897,TGFBR1,64,Ki
+STAT3 protein,human,P40763,STAT3,271,EC50
+MAPK11,Homo sapiens,Q15759,MAPK11,202,IC50
+TRBC1,Homo sapiens,P01850,TRBC1,86,IC50
+CCL11 protein,H. sapiens,P51671,CCL11,119,Ki
+Transcription factor Sp9 (SP9),human,P0CG40,SP9,203,IC50
+Fibroblast growth factor 18 (FGF18),H. sapiens,O76093,FGF18,51,EC50
+PGA4 protein,human,P0DJD7,PGA4,291,EC50
+ST18 protein,Homo sapiens,O60284,ST18,93,EC50
+IGLV4-69 protein,Human,A0A075B6H9,IGLV4-69,195,Ki
+Ubiquitin carboxyl-terminal hydrolase 11 (USP11),human,P51784,USP11,287,EC50
+Immunoglobulin lambda variable 4 69,Human,A0A075B6H9,IGLV4-69,158,IC50
+Immunoglobulin kappa variable 1-17 (IGKV1-17),H. sapiens,P01599,IGKV1-17,231,IC50
+ABTB3,Human,A6QL63,ABTB3,294,IC50
+Gastrin,Human,P01350,GAST,273,EC50
+Protein unc-119 homolog A (UNC119),Human,Q13432,UNC119,37,IC50
+e3 ubiquitin-protein ligase mdm2,human,Q00987,MDM2,160,IC50
+Ubiquitin-conjugating enzyme E2 D1 (UBE2D1),H. sapiens,P51668,UBE2D1,231,EC50
+interleukin-7 receptor subunit alpha,Human,P16871,IL7R,186,EC50
+Peptidyl-prolyl cis-trans isomerase A-like 4H,human,A0A075B767,PPIAL4H,377,EC50
+AN1-type zinc finger protein 5,Human,O76080,ZFAND5,299,Ki
+Ras-related protein R-Ras2,Homo sapiens,P62070,RRAS2,7,Kd
+Voltage-gated inwardly rectifying potassium channel KCNH2,Homo sapiens,Q12809,KCNH2,165,EC50
+PICALM protein,human,Q13492,PICALM,171,Ki
+EBP,human,Q15125,EBP,320,Ki
+estrogen receptor beta,Homo sapiens,Q92731,ESR2,60,Kd
+HTR1B protein,human,P28222,HTR1B,63,IC50
+V-type proton ATPase 16 kDa proteolipid subunit c,human,P27449,ATP6V0C,259,Ki
+IRAK1 protein,human,P51617,IRAK1,33,EC50
+rab proteins geranylgeranyltransferase component a 2,Homo sapiens,P26374,CHML,150,EC50
+Interferon beta (IFNB1),Homo sapiens,P01574,IFNB1,139,EC50
+E3 ubiquitin-protein ligase Mdm2,human,Q00987,MDM2,197,Ki
+TRGV11 protein,Human,A0A075B6L2,TRGV11,125,Kd
+Vascular endothelial growth factor receptor 2 (KDR),H. sapiens,P35968,KDR,363,Kd
+Interleukin-1 alpha,H. sapiens,P01583,IL1A,285,Kd
+ID1 protein,Human,P41134,ID1,33,EC50
+transcription factor sox-15,human,O60248,SOX15,26,EC50
+Chloride channel protein 2,Homo sapiens,P51788,CLCN2,207,EC50
+GIPC1,H. sapiens,O14908,GIPC1,314,Ki
+PTGS2 protein,human,P35354,PTGS2,143,Ki
+Eukaryotic translation initiation factor 4H,human,Q15056,EIF4H,111,Ki
+Neuronal membrane glycoprotein M6 b,Human,Q13491,GPM6B,216,Ki
+SLIT-ROBO Rho GTPase-activating protein 2C,human,P0DJJ0,,35,IC50
+5-hydroxytryptamine receptor 7 (HTR7),H. sapiens,P34969,HTR7,191,Ki
+Phospholipid-transporting ATPase VA,human,O60312,ATP10A,297,Ki
+IFNA17 protein,Human,P01571,IFNA17,109,Kd
+tyrosine-protein kinase receptor ufo,Human,P30530,AXL,250,Kd
+Insulin-like growth factor 2,H. sapiens,P01344,IGF2,49,IC50
+Early growth response protein 4 (EGR4),Human,Q05215,EGR4,51,EC50
+Serine/threonine-protein kinase D1 (PRKD1),Homo sapiens,Q15139,PRKD1,387,Ki
+Poly [ADP-ribose] polymerase 1 (PARP1),human,P09874,PARP1,29,Ki
+MAP/microtubule affinity-regulating kinase 3,Homo sapiens,P27448,MARK3,323,Kd
+Testis-specific Y-encoded protein 4 (TSPY4),Human,P0CV99,TSPY4,251,EC50
+PPARG protein,H. sapiens,P37231,PPARG,185,Kd
+ELAVL4 protein,H. sapiens,P26378,ELAVL4,341,Kd
+histone deacetylase 4,human,P56524,HDAC4,146,Kd
+Prostaglandin-H2 D-isomerase,Human,P41222,PTGDS,327,IC50
+Astrocytic phosphoprotein PEA 15,Homo sapiens,Q15121,PEA15,76,EC50
+Prostaglandin H2 D isomerase,H. sapiens,P41222,PTGDS,216,Ki
+Pepsin A 4,Human,P0DJD7,PGA4,254,IC50
+U6 snRNA-associated Sm-like protein LSm6,human,P62312,LSM6,27,Kd
+Immunoglobulin heavy variable 1-46 (IGHV1-46),H. sapiens,P01743,IGHV1-46,185,IC50
+Immunoglobulin kappa variable 1-27 (IGKV1-27),human,A0A075B6S5,IGKV1-27,171,IC50
+Immunoglobulin kappa variable 3D 15,H. sapiens,A0A087WSY6,IGKV3D-15,240,EC50
+putative uncharacterized protein ccdc28a-as1,human,A0A096LPI5,CCDC28A-AS1,204,Ki
+PDIA6,H. sapiens,Q15084,PDIA6,8,Ki
+inhibitor of nuclear factor kappa-b kinase subunit beta,Human,O14920,IKBKB,210,Kd
+Mitochondrial import inner membrane translocase subunit Tim23 (TIMM23),Homo sapiens,O14925,TIMM23,375,IC50
+Leucine zipper putative tumor suppressor 3,Homo sapiens,O60299,LZTS3,315,EC50
+HER2,human,P04626,ERBB2,183,IC50
+PRKD1,Homo sapiens,Q15139,PRKD1,350,EC50
+GHSR protein,Human,Q92847,GHSR,107,Ki
+Histone deacetylase 4,Human,P56524,HDAC4,72,Kd
+H(+)/Cl(-) exchange transporter 5 (CLCN5),human,P51795,CLCN5,307,IC50
+Golgin subfamily A member 8A,H. sapiens,A7E2F4,GOLGA8A,225,Ki
+Tumor necrosis factor receptor superfamily member 10A,H. sapiens,O00220,TNFRSF10A,320,IC50
+GPC3 protein,Homo sapiens,P51654,GPC3,227,IC50
+GALR1 protein,H. sapiens,P47211,GALR1,33,EC50
+protocadherin gamma-a12,Human,O60330,PCDHGA12,92,IC50
+Tyrosine-protein kinase receptor UFO,H. sapiens,Q8N5L2,UFO,64,Ki
+Neurocalcin delta,H. sapiens,P61601,NCALD,42,Kd
+Immunoglobulin heavy variable 4 39,human,P01824,IGHV4-39,306,Kd
+G antigen 7,Homo sapiens,O76087,GAGE7,285,Kd
+SMAD4 protein,human,Q13485,SMAD4,95,Kd
+Probable non-functional immunoglobulin kappa variable 2D-24 (IGKV2D-24),H. sapiens,A0A075B6R9,IGKV2D-24,47,IC50
+Glutamate decarboxylase 2 (GAD2),Human,Q05329,GAD2,329,Kd
+chloride channel protein 2,H. sapiens,P51788,CLCN2,170,IC50
+IFNB1 protein,Homo sapiens,P01574,IFNB1,213,EC50
+PTGDS protein,Homo sapiens,P41222,PTGDS,253,Kd
+FAM157B,human,P0CG42,FAM157B,294,IC50
+AKAP3 protein,human,O75969,AKAP3,329,IC50
+Mitogen-activated protein kinase 11,H. sapiens,A8K730,PRKM11,178,IC50
+Annexin A13 (ANXA13),Human,P27216,ANXA13,145,IC50
+GPR55 protein,H. sapiens,Q9Y2T6,GPR55,43,Kd
+IGLV1-50,human,A0A075B6I6,IGLV1-50,286,EC50
+IGHV3-7 protein,H. sapiens,P01780,IGHV3-7,341,IC50
+Interleukin-1 receptor-associated kinase 1,human,P51617,IRAK1,107,EC50
+PGA3 protein,Homo sapiens,P0DJD8,PGA3,281,Ki
+Histone H1.3,H. sapiens,P16402,H1-3,270,Kd
+Alpha-2A adrenergic receptor (ADRA2A),Human,P08913,ADRA2A,95,IC50
+EPB42 protein,H. sapiens,P16452,EPB42,275,Ki
+G antigen 12G,human,P0CL81,GAGE12G,277,IC50
+mbt domain-containing protein 1,Human,Q05BQ5,MBTD1,174,Ki
+STAG3L3,human,P0CL85,STAG3L3,56,IC50
+Interleukin-15 (IL15),H. sapiens,P40933,IL15,187,Kd
+ETS translocation variant 5 (ETV5),H. sapiens,P41161,ETV5,27,Ki
+Tyrosine protein kinase ABL1,H. sapiens,P00519,ABL1,246,IC50
+Natural cytotoxicity triggering receptor 3 (NCR3),human,O14931,NCR3,347,EC50
+RPS13,Human,P62277,RPS13,380,EC50
+organic cation/carnitine transporter 2,H. sapiens,O76082,SLC22A5,306,IC50
+Valine--tRNA ligase,human,P26640,VARS1,169,IC50
+TGR5,human,Q8TDU6,GPBAR1,66,IC50
+IGKV1-39 protein,Homo sapiens,P01597,IGKV1-39,133,Kd
+XDH,Human,P47989,XDH,12,EC50
+Fatty-acid amide hydrolase 1 (FAAH),H. sapiens,O00519,FAAH,119,Ki
+H(+)/Cl(-) exchange transporter 3,H. sapiens,P51790,CLCN3,73,Kd
+ZFAND5 protein,Human,O76080,ZFAND5,225,Ki
+T cell receptor beta variable 18,H. sapiens,A0A087X0M5,TRBV18,109,IC50
+IGLV2-14,H. sapiens,P01704,IGLV2-14,318,IC50
+Cystic fibrosis transmembrane conductance regulator (CFTR),Homo sapiens,P13569,CFTR,27,EC50
+GPM6B protein,human,Q13491,GPM6B,253,Ki
+BMX protein,H. sapiens,P51813,BMX,83,Kd
+Serine/threonine-protein kinase TBK1,Homo sapiens,Q9UHD2,TBK1,191,EC50
+Growth hormone secretagogue receptor type 1,human,Q92847,GHSR,70,Kd
+Histone H1.2,Homo sapiens,P16403,H1-2,27,Kd
+IL7R protein,human,P16871,IL7R,149,IC50
+Tyrosine-protein kinase Mer (MERTK),Human,Q12866,MERTK,267,EC50
+Bromodomain testis-specific protein (BRDT),Human,Q58F21,BRDT,291,Kd
+CLCN3,human,P51790,CLCN3,110,Ki
+Immunoglobulin J chain (JCHAIN),Homo sapiens,P01591,JCHAIN,403,Ki
+carbonyl reductase [nadph] 1,Human,P16152,CBR1,188,Ki
+5 hydroxytryptamine receptor 7,human,P34969,HTR7,228,Ki
+FAM90A27P protein,Human,A6NNH2,FAM90A27P,241,Kd
+IKZF1 protein,Human,Q13422-3,IKZF1,339,IC50
+TIMM10 protein,H. sapiens,P62072,TIMM10,171,Ki
+Estrogen receptor,Human,P03372,ESR1,149,EC50
+IGKV3D-15 protein,Human,A0A087WSY6,IGKV3D-15,277,Kd
+26S proteasome regulatory subunit 10B,Homo sapiens,P62333,PSMC6,251,Kd
+Probable non-functional immunoglobulin lambda variable 3-32,human,A0A0A0MS00,IGLV3-32,67,IC50
+"10 kDa heat shock protein, mitochondrial",H. sapiens,P61604,HSPE1,349,EC50
+"keratin, type i cuticular ha3-i",Human,O76009,KRT33A,190,EC50
+VIP peptides,human,P01282,,86,IC50
+H(+)/Cl( ) exchange transporter 4,human,P51793,CLCN4,336,Kd
+STAG3L1,human,P0CL83,STAG3L1,224,Kd
+Non receptor tyrosine protein kinase TYK2,Homo sapiens,P29597,TYK2,354,IC50
+IGKV1-17,Human,P01599,IGKV1-17,194,EC50
+NR3C2 protein,Human,P08235,NR3C2,403,EC50
+Histone deacetylase 4,human,E9PGB9,KIAA0288,174,Ki
+stathmin,H. sapiens,P16949,STMN1,52,Kd
+NEBL protein,human,O76041,NEBL,397,IC50
+Small ribosomal subunit protein uS15,human,P62277,RPS13,54,IC50
+RPS13 protein,human,P62277,RPS13,91,Kd
+Interferon alpha-7,Human,P01567,IFNA7,173,Ki
+interleukin-1 alpha,human,P01583,IL1A,248,Kd
+large ribosomal subunit protein ul13,Human,P40429,RPL13A,334,EC50
+chorionic somatomammotropin hormone 1,H. sapiens,P0DML2,CSH1,248,IC50
+TYK2 protein,Homo sapiens,P29597,TYK2,391,EC50
+"10 kDa heat shock protein, mitochondrial (HSPE1)",human,P61604,HSPE1,23,Ki
+Neuronal calcium sensor 1 (NCS1),Homo sapiens,P62166,NCS1,99,EC50
+NKG2 D type II integral membrane protein,Human,P26718,KLRK1,66,Ki
+Phospholipase D2,Homo sapiens,O14939,PLD2,150,Kd
+Immunoglobulin heavy variable 3-23,Homo sapiens,P01764,IGHV3-23,97,Ki
+HCFC1,Homo sapiens,P51610,HCFC1,136,Kd
+Interleukin 7 receptor subunit alpha,H. sapiens,P16871,IL7R,112,EC50
+EZH2 protein,Human,Q15910,EZH2,107,Ki
+HSD3B2 protein,Human,P26439,HSD3B2,205,EC50
+RNASEL,H. sapiens,Q05823,RNASEL,218,Kd
+Coiled-coil domain-containing protein 169 (CCDC169),human,A6NNP5,CCDC169,285,Kd
+2-5A-dependent ribonuclease (RNASEL),Human,Q05823,RNASEL,255,Kd
+PLD2,human,O14939,PLD2,76,EC50
+Aldehyde dehydrogenase family 3 member A2,Human,P51648,ALDH3A2,355,Kd
+Disintegrin and metalloproteinase domain containing protein 9,Human,Q13443,ADAM9,60,Kd
+C-C chemokine receptor type 5,Human,P51681,CCR5,71,Ki
+Plexin-A3,Human,P51805,PLXNA3,195,Kd
+Protein FAM106C (FAM106C),human,P0CH98,FAM106C,351,Ki
+CCDC28A-AS1 protein,Human,A0A096LPI5,CCDC28A-AS1,167,EC50
+RPS16 protein,Homo sapiens,P62249,RPS16,245,Ki
+SRSF11 protein,Human,Q05519,SRSF11,201,IC50
+Tyrosine-protein phosphatase non-receptor type 11 (PTPN11),H. sapiens,Q06124,PTPN11,345,Ki
+GAGE12F,Human,P0CL80,GAGE12F,96,Kd
+IL15,Human,P40933,IL15,150,Ki
+SPEG neighbor protein,Homo sapiens,A0A087WV53,SPEGNB,348,EC50
+tumor necrosis factor receptor superfamily member 10a,Human,O00220,TNFRSF10A,394,Ki
+CCNF protein,human,P41002,CCNF,7,Kd
+Immunoglobulin heavy variable 3 53,Homo sapiens,P01767,IGHV3-53,258,IC50
+Probable non-functional immunoglobulin lambda variable 1-50 (IGLV1-50),Human,A0A075B6I6,IGLV1-50,323,Kd
+DAD1 protein,Homo sapiens,P61803,DAD1,321,Ki
+Tyrosine-protein kinase Mer,human,Q12866,MERTK,193,Kd
+GALR2,H. sapiens,O43603,GALR2,368,EC50
+FFAR4,Homo sapiens,Q5NUL3,FFAR4,156,IC50
+somatoliberin,Human,P01286,GHRH,86,Kd
+Protein smoothened,Homo sapiens,Q99835,SMO,196,Ki
+CNTF,H. sapiens,P26441,CNTF,294,EC50
+KISS1R protein,Human,Q969F8,KISS1R,275,IC50
+Mitochondrial import inner membrane translocase subunit Tim10,Homo sapiens,P62072,TIMM10,134,EC50
+UQCRHL protein,Human,A0A096LP55,UQCRHL,89,IC50
+G protein coupled receptor 55,Human,Q9Y2T6,GPR55,6,Kd
+Immunoglobulin lambda variable 6 57,Human,P01721,IGLV6-57,370,EC50
+Serum amyloid A-2 protein,Human,P0DJI9,SAA2,95,Kd
+IGKV2D-30,H. sapiens,A0A075B6S6,IGKV2D-30,36,Kd
+Immunoglobulin kappa variable 1D-33 (IGKV1D-33),Homo sapiens,P01593,IGKV1D-33,79,IC50
+PAFAH1B3,Homo sapiens,Q15102,PAFAH1B3,290,IC50
+Hepatocyte nuclear factor 4-alpha,H. sapiens,P41235,HNF4A,109,IC50
+Immunoglobulin lambda variable 1 47,H. sapiens,P01700,IGLV1-47,348,Ki
+protein transport protein sec61 subunit alpha isoform 1,human,P61619,SEC61A1,58,EC50
+"Keratin, type I cuticular Ha4 (KRT34)",Human,O76011,KRT34,223,IC50
+Small ribosomal subunit protein uS17 (RPS11),human,P62280,RPS11,115,Ki
+TSPY10,H. sapiens,P0CW01,TSPY10,118,Kd
+MAPKBP1,H. sapiens,O60336,MAPKBP1,174,IC50
+MERTK,human,Q12866,MERTK,230,Kd
+syntaxin-binding protein 1,human,P61764,STXBP1,384,Ki
+"cgmp-specific 3',5'-cyclic phosphodiesterase",human,O76074,PDE5A,250,IC50
+immunoglobulin lambda variable 8-61,Homo sapiens,A0A075B6I0,IGLV8-61,164,IC50
+EXOSC9 protein,Human,Q06265,EXOSC9,165,Ki
+IFNA2,Human,P01563,IFNA2,26,Kd
+Immunoglobulin kappa variable 3D-15,human,A0A087WSY6,IGKV3D-15,351,Kd
+"Interferon alpha inducible protein 27, mitochondrial",Human,P40305,IFI27,130,Ki
+Proto-oncogene tyrosine-protein kinase ROS (ROS1),human,P08922,ROS1,225,Kd
+PLD2 protein,Homo sapiens,O14939,PLD2,187,Kd
+Mast/stem cell growth factor receptor Kit (KIT),Homo sapiens,P10721,KIT,25,Kd
+Tubulin polyglutamylase TTLL13 (TTLL13),Homo sapiens,A6NNM8,TTLL13,143,Kd
+OR2J2 protein,Human,O76002,OR2J2,9,EC50
+PTPN11,H. sapiens,Q06124,PTPN11,308,Kd
+Mitogen-activated protein kinase 10,human,A6NFS3,JNK3,24,IC50
+Delta(14)-sterol reductase TM7SF2 (TM7SF2),human,O76062,TM7SF2,89,EC50
+IGLV4-3 protein,Human,A0A075B6K6,IGLV4-3,193,Ki
+Protein 4.2,Homo sapiens,P16452,EPB42,238,Kd
+GAGE7 protein,H. sapiens,O76087,GAGE7,211,Ki
+CBR1,Human,P16152,CBR1,262,Ki
+Carbonic anhydrase 12,Homo sapiens,O43570,CA12,168,IC50
+DHRS7C protein,human,A6NNS2,DHRS7C,393,Kd
+c-x-c chemokine receptor type 4,H. sapiens,P61073,CXCR4,182,EC50
+Galanin receptor type 1,Homo sapiens,Q4VBL7,GALNR,121,IC50
+COX-2,human,P35354,PTGS2,134,IC50
+HTR7 protein,H. sapiens,P34969,HTR7,265,Ki
+RAC alpha serine/threonine protein kinase,Homo sapiens,P31749,AKT1,92,Ki
+Ubiquitin conjugating enzyme E2 D1,Human,P51668,UBE2D1,268,Kd
+Cyclin-dependent kinase 6 (CDK6),Homo sapiens,Q00534,CDK6,33,Kd
+Carbonyl reductase [NADPH] 1,Human,P16152,CBR1,225,Ki
+Interleukin-1 beta,human,P01584,,112,IC50
+Estrogen receptor beta (ESR2),human,Q92731,ESR2,171,EC50
+SNCG,human,O76070,SNCG,220,EC50
+Mast/stem cell growth factor receptor Kit,H. sapiens,P10721,KIT,351,Kd
+Platelet-derived growth factor receptor alpha (PDGFRA),human,P16234,PDGFRA,281,Ki
+chymotrypsin-like protease ctrl-1,H. sapiens,P40313,CTRL,72,EC50
+Inhibitor of nuclear factor kappa B kinase subunit epsilon,Homo sapiens,Q14164,IKBKE,196,Kd
+FAAH protein,Human,O00519,FAAH,193,Ki
+transient receptor potential cation channel subfamily m member 8,human,Q7Z2W7,TRPM8,210,Ki
+probable non-functional immunoglobulin lambda variable 1-50,Human,A0A075B6I6,IGLV1-50,212,Kd
+Tubulin polyglutamylase TTLL13,Human,A6NNM8,TTLL13,69,Ki
+Immunoglobulin lambda variable 3-22,human,A0A075B6J6,IGLV3-22,301,IC50
+G protein-coupled receptor 55 (GPR55),human,Q9Y2T6,GPR55,369,EC50
+CA9 protein,H. sapiens,Q16790,CA9,97,Ki
+"Cytochrome b-c1 complex subunit 6-like, mitochondrial",H. sapiens,A0A096LP55,UQCRHL,163,IC50
+receptor-interacting serine/threonine-protein kinase 1,human,Q13546,RIPK1,88,EC50
+Mitogen-activated protein kinase-binding protein 1 (MAPKBP1),H. sapiens,O60336,MAPKBP1,211,IC50
+Beta-galactosidase,Human,P16278,GLB1,57,Kd
+Immunoglobulin heavy variable 4-4,human,A0A075B6R2,IGHV4-4,187,Ki
+putative e3 ubiquitin-protein ligase makorin-4,H. sapiens,Q13434,MKRN4P,24,Ki
+DDR1 protein,human,Q08345,DDR1,49,Ki
+immunoglobulin kappa variable 6d-21,H. sapiens,A0A0A0MT36,IGKV6D-21,272,IC50
+Phosphatidylinositol 4-phosphate 5-kinase type-1 gamma,human,O60331,PIP5K1C,181,IC50
+IL1A protein,Human,P01583,IL1A,211,Kd
+TANK binding kinase 1 binding protein 1,Human,A7MCY6,TBKBP1,250,IC50
+Interleukin-7 receptor subunit alpha,Homo sapiens,P16871,IL7R,223,Kd
+Glypican 3,H. sapiens,P51654,GPC3,190,IC50
+Nuclear transition protein 2,human,Q05952,TNP2,272,Ki
+trna wybutosine-synthesizing protein 4,Homo sapiens,O60294,LCMT2,282,Ki
+"10 kda heat shock protein, mitochondrial",H. sapiens,P61604,HSPE1,312,Kd
+TRAV27,Human,A0A087WT01,TRAV27,318,Ki
+UBE2D1 protein,Human,P51668,UBE2D1,305,IC50
+Intermediate conductance calcium-activated potassium channel protein 4,human,O15554,KCNN4,119,Ki
+ROS1,human,P08922,ROS1,188,Ki
+BDNF/NT-3 growth factors receptor,Human,Q16620,NTRK2,395,Ki
+Prostate specific antigen,Human,P07288,KLK3,360,Ki
+Putative uncharacterized protein encoded by ERC2 IT1,human,O76042,ERC2-IT1,8,Ki
+Hepatocyte growth factor-regulated tyrosine kinase substrate,human,O14964,,76,IC50
+RIIa domain-containing protein 1,Homo sapiens,A6NNX1,RIIAD1,111,Kd
+early endosome antigen 1,human,Q15075,EEA1,124,Ki
+FHF complex subunit HOOK-interacting protein 1A,Human,Q05DH4,FHIP1A,293,Ki
+Elongation factor 1 alpha 2,Homo sapiens,Q05639,EEF1A2,388,Ki
+VARS1,H. sapiens,P26640,VARS1,206,Kd
+interferon alpha-5,human,P01569,IFNA5,8,IC50
+Early endosome antigen 1,Human,Q15075,EEA1,161,IC50
+TRAC protein,human,P01848,TRAC,117,Ki
+ZNF146 protein,human,Q15072,ZNF146,373,Kd
+T cell receptor alpha variable 23/delta variable 6,Human,A0A075B6W5,TRAV23DV6,287,IC50
+TBKBP1 protein,Human,A7MCY6,TBKBP1,287,IC50
+KCNQ2,Human,O43526,KCNQ2,208,EC50
+Serine/threonine-protein kinase Nek7,Homo sapiens,Q8TDX7,NEK7,165,Kd
+"ATP synthase F(0) complex subunit g, mitochondrial",H. sapiens,O75964,ATP5MG,291,EC50
+TGF-beta receptor type-1,Homo sapiens,P36897,TGFBR1,101,EC50
+IGLV6-57 protein,H. sapiens,P01721,IGLV6-57,7,Kd
+PRKCD protein,human,Q05655,PRKCD,303,Kd
+"nuclear factor of activated t-cells, cytoplasmic 2",H. sapiens,Q13469,NFATC2,288,Ki
+IGKV1D-33,human,P01593,IGKV1D-33,42,Ki
+snRNA-activating protein complex subunit 2 (SNAPC2),Homo sapiens,Q13487,SNAPC2,87,EC50
+Carbonic anhydrase 9,H. sapiens,Q5T4R1,G250,72,IC50
+Astrocytic phosphoprotein PEA-15,Human,Q15121,PEA15,187,Ki
+Protein kinase C delta type,human,Q05655,PRKCD,266,IC50
+Immunoglobulin lambda variable 1-47 (IGLV1-47),human,P01700,IGLV1-47,311,Kd
+Lysine-specific demethylase 5C,human,P41229,KDM5C,137,Ki
+Ubiquitin C-terminal hydrolase 7,human,Q93009,USP7,305,Kd
+Beta-2 adrenergic receptor,Homo sapiens,P07550,ADRB2,345,Kd
+EBP protein,Homo sapiens,Q15125,EBP,31,EC50
+NUTF2,Human,P61970,NUTF2,366,EC50
+Ciliary neurotrophic factor (CNTF),H. sapiens,P26441,CNTF,331,Ki
+HIPK2 protein,human,Q9H2X6,HIPK2,43,EC50
+PDZ domain-containing protein GIPC1 (GIPC1),H. sapiens,O14908,GIPC1,351,IC50
+ABL1 protein,Homo sapiens,P00519,ABL1,283,Ki
+Cytoplasmic tyrosine protein kinase BMX,H. sapiens,P51813,BMX,46,Kd
+H(+)/Cl(-) exchange transporter 4,Homo sapiens,P51793,CLCN4,47,Ki
+"Ras related protein Rab 34, isoform NARR",human,P0DI83,RAB34,220,Kd
+Protein SFI1 homolog (SFI1),human,A8K8P3,SFI1,25,Kd
+ras-related protein r-ras2,Homo sapiens,P62070,RRAS2,370,EC50
+C-C chemokine receptor type 5 (CCR5),human,P51681,CCR5,145,EC50
+NCS1 protein,Human,P62166,NCS1,173,IC50
+TSPY4 protein,human,P0CV99,TSPY4,325,EC50
+USP11,H. sapiens,P51784,USP11,250,IC50
+Small nuclear ribonucleoprotein Sm D3,H. sapiens,P62318,SNRPD3,91,EC50
+Small ribosomal subunit protein uS9,H. sapiens,P62249,RPS16,208,Ki
+D(2) dopamine receptor,Human,P14416,DRD2,219,Kd
+MXD1,H. sapiens,Q05195,MXD1,396,Ki
+LSM6,Homo sapiens,P62312,LSM6,64,Ki
+"keratin, type i cuticular ha4",Human,O76011,KRT34,112,EC50
+HDAC6 protein,Human,Q9UBN7,HDAC6,89,EC50
+Small ribosomal subunit protein eS7,Homo sapiens,P62081,RPS7,85,EC50
+Ubiquitin carboxyl-terminal hydrolase 14 (USP14),human,P54578,USP14,97,EC50
+Exosome complex component RRP45,H. sapiens,Q06265,EXOSC9,128,IC50
+Chloride channel protein ClC Ka,H. sapiens,P51800,CLCNKA,118,EC50
+Amine oxidase [flavin-containing] A (MAOA),Homo sapiens,P21397,MAOA,311,Ki
+HSPE1,Human,P61604,HSPE1,386,Ki
+interferon-inducible protein aim2,human,O14862,AIM2,328,Ki
+AN1 type zinc finger protein 5,H. sapiens,O76080,ZFAND5,188,Ki
+intermediate conductance calcium-activated potassium channel protein 4,H. sapiens,O15554,KCNN4,82,EC50
+PLK4 protein,human,O00444,PLK4,121,Kd
+Fatty acid amide hydrolase 1,Human,O00519,FAAH,156,Kd
+Large ribosomal subunit protein eL13,Homo sapiens,P26373,RPL13,211,Ki
+Dual specificity tyrosine-phosphorylation-regulated kinase 1A (DYRK1A),H. sapiens,Q13627,DYRK1A,83,Ki
+tubulin beta 8b,Homo sapiens,A6NNZ2,TUBB8B,350,Ki
+Immunoglobulin heavy variable 3 9,human,P01782,IGHV3-9,86,IC50
+glucocorticoid receptor,Human,P04150,NR3C1,370,EC50
+TBKBP1,Homo sapiens,A7MCY6,TBKBP1,176,IC50
+interleukin-18 receptor 1,Homo sapiens,Q13478,IL18R1,394,IC50
+Nuclear receptor subfamily 4immunitygroup A member 1,human,B4DML7,GFRP1,125,Kd
+Transcription factor Sp9,H. sapiens,P0CG40,SP9,129,IC50
+Putative STAG3-like protein 1 (STAG3L1),Human,P0CL83,STAG3L1,261,EC50
+TGFBR1 protein,H. sapiens,P36897,TGFBR1,27,EC50
+sodium channel protein type 10 subunit alpha,Homo sapiens,Q9Y5Y9,SCN10A,92,Ki
+mitogen-activated protein kinase 10,Human,P53779,MAPK10,188,Kd
+"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase (EBP)",Human,Q15125,EBP,357,Ki
+"NAD-dependent protein deacetylase sirtuin-3, mitochondrial",human,Q9NTG7,SIRT3,295,EC50
+5-hydroxytryptamine receptor 6 (HTR6),H. sapiens,P50406,HTR6,351,Ki
+PDIA6 protein,Homo sapiens,Q15084,PDIA6,119,Ki
+STAG3-like protein 3 (STAG3L3),human,P0CL85,STAG3L3,93,EC50
+MAST3 protein,Human,O60307,MAST3,43,Kd
+IGLV4-60 protein,Homo sapiens,A0A075B6I1,IGLV4-60,247,IC50
+Disintegrin and metalloproteinase domain-containing protein 9,Homo sapiens,Q13443,ADAM9,171,Kd
+Fibroblast growth factor receptor 2,human,P21802,FGFR2,321,IC50
+histone h1.2,Homo sapiens,P16403,H1-2,390,EC50
+TTLL13,Homo sapiens,A6NNM8,TTLL13,106,Kd
+CXCR4 protein,Homo sapiens,P61073,CXCR4,145,EC50
+Nuclear envelope pore membrane protein POM 121C,Homo sapiens,A8CG34,POM121C,105,EC50
+Tubulin beta 8B,human,A6NNZ2,TUBB8B,387,EC50
+riia domain-containing protein 1,H. sapiens,A6NNX1,RIIAD1,74,IC50
+BDNF/NT-3 growth factors receptor (NTRK2),Homo sapiens,Q16620,NTRK2,69,Ki
+Interleukin-18 receptor 1,human,Q13478,IL18R1,31,Ki
+Homeodomain interacting protein kinase 2,human,Q9H2X6,HIPK2,6,IC50
+Angiotensin-converting enzyme,Human,P12821,ACE,193,Kd
+Aurora kinase A,human,O14965,AURKA,325,Kd
+Calcium-activated chloride channel regulator 1 (CLCA1),human,A8K7I4,CLCA1,307,IC50
+Host cell factor 1 (HCFC1),Homo sapiens,P51610,HCFC1,173,IC50
+Interferon alpha 17,H. sapiens,P01571,IFNA17,72,Kd
+Pre-B-cell leukemia transcription factor 1,Human,P40424,PBX1,181,Kd
+Histone-lysine N-methyltransferase EZH2,H. sapiens,Q15910,EZH2,181,Kd
+Tyrosine-protein kinase SYK (SYK),Human,P43405,SYK,153,Kd
+GPR55,H. sapiens,Q9Y2T6,GPR55,332,EC50
+Receptor-type tyrosine-protein kinase FLT3 (FLT3),H. sapiens,P36888,FLT3,305,IC50
+Prostate-specific antigen,Homo sapiens,P07288,KLK3,71,Ki
+Ubiquitin/ISG15-conjugating enzyme E2 L6 (UBE2L6),H. sapiens,O14933,UBE2L6,357,Kd
+G antigen 12F,human,P0CL80,GAGE12F,59,EC50
+RPL13,human,P26373,RPL13,248,Kd
+valine--trna ligase,H. sapiens,P26640,VARS1,132,EC50
+PEA15 protein,Homo sapiens,Q15121,PEA15,113,Kd
+Rho related GTP binding protein RhoE,Human,P61587,RND3,10,EC50
+Mitochondrial inner membrane protein OXA1L,H. sapiens,Q15070,OXA1L,149,EC50
+Interferon alpha 13,Homo sapiens,A0A087WWS6,IFNA13,230,EC50
+Bestrophin 1,human,O76090,BEST1,392,Kd
+FAM106C protein,human,P0CH98,FAM106C,25,EC50
+TBC1 domain family member 3I (TBC1D3I),H. sapiens,A0A087WXS9,TBC1D3I,181,Ki
+enolase 4,Human,A6NNW6,ENO4,70,EC50
+FLT3 protein,Human,P36888,FLT3,379,Kd
+tubulin polyglutamylase ttll13,Human,A6NNM8,TTLL13,32,IC50
+D(2) dopamine receptor,H. sapiens,P14416,DRD2,108,Kd
+Thyroid hormone receptor beta (THRB),human,P10828,THRB,295,Kd
+probable non-functional immunoglobulin lambda variable 3-32,Homo sapiens,A0A0A0MS00,IGLV3-32,30,IC50
+Dual specificity tyrosine phosphorylation regulated kinase 1B,Homo sapiens,Q9Y463,DYRK1B,312,Kd
+DYRK1A,Human,Q13627,DYRK1A,46,Ki
+Protein JTB,Human,O76095,JTB,219,EC50
+Kinesin heavy chain isoform 5C,Homo sapiens,O60282,KIF5C,197,Ki
+Tyrosine-protein phosphatase non-receptor type 11,Human,Q06124,PTPN11,271,Kd
+Orexin receptor type 2 (HCRTR2),Human,O43614,HCRTR2,389,Ki
+IGKV3-20 protein,H. sapiens,P01619,IGKV3-20,229,Kd
+Histone deacetylase 1 (HDAC1),Human,Q13547,HDAC1,367,Ki
+STMN1 protein,Homo sapiens,P16949,STMN1,15,EC50
+Elongation factor 1-gamma,Human,P26641,EEF1G,319,EC50
+MAP3K5 protein,Homo sapiens,Q99683,MAP3K5,151,EC50
+NEK2 protein,H. sapiens,P51955,NEK2,109,Ki
+KISS1,Human,Q969F8,KISS1,8,EC50
+regulator of g protein signaling 20,human,O76081,RGS20,70,Ki
+h(+)/cl(-) exchange transporter 4,Homo sapiens,P51793,CLCN4,10,IC50
+BRDT protein,H. sapiens,Q58F21,BRDT,365,EC50
+Epithelial discoidin domain-containing receptor 1 (DDR1),Human,Q08345,DDR1,375,Ki
+early growth response protein 4,H. sapiens,Q05215,EGR4,340,EC50
+Lysine-specific histone demethylase 1A (KDM1A),Homo sapiens,O60341,KDM1A,339,IC50
+Immunoglobulin kappa constant,H. sapiens,P01834,IGKC,30,Ki
+voltage-gated inwardly rectifying potassium channel kcnh2,human,Q12809,KCNH2,128,EC50
+Annexin A13,H. sapiens,P27216,ANXA13,182,Kd
+NR3C1 protein,Human,P04150,NR3C1,333,IC50
+IGKV1-27,Homo sapiens,A0A075B6S5,IGKV1-27,134,Kd
+CNR1 protein,Homo sapiens,P21554,CNR1,73,EC50
+Deoxycytidine kinase,Human,P27707,DCK,309,Ki
+Serine/threonine-protein kinase TBK1,Homo sapiens,A8K4S4,NAK,48,IC50
+SMAD family member 4,human,Q13485,SMAD4,169,EC50
+Receptor-interacting serine/threonine-protein kinase 2 (RIPK2),human,O43353,RIPK2,329,IC50
+Alpha-2A adrenergic receptor,human,B0LPF6,ADRA2R,58,IC50
+DDB1- and CUL4-associated factor 7,H. sapiens,P61962,DCAF7,157,Kd
+dna-binding protein inhibitor id-1,Human,P41134,ID1,70,EC50
+Tyrosine-protein kinase receptor UFO,Human,P30530,AXL,287,EC50
+IGLV3-9,Human,A0A075B6K5,IGLV3-9,12,IC50
+Prolyl endopeptidase,human,P48147,PREP,131,Ki
+ZAR1L protein,human,A6NP61,ZAR1L,17,IC50
+Cyclin F,Human,P41002,CCNF,370,Ki
+Organic cation/carnitine transporter 2,Human,O76082,SLC22A5,232,IC50
+ADRA2A protein,Human,P08913,ADRA2A,169,EC50
+"camp and camp-inhibited cgmp 3',5'-cyclic phosphodiesterase 10a",H. sapiens,Q9Y233,PDE10A,246,IC50
+"cGMP-specific 3',5'-cyclic phosphodiesterase",human,O76074,PDE5A,287,Kd
+Sodium-dependent noradrenaline transporter,H. sapiens,P23975,SLC6A2,91,Ki
+puromycin-sensitive aminopeptidase,Human,P55786,NPEPPS,356,EC50
+Putative E3 ubiquitin-protein ligase makorin-4,Human,Q13434,MKRN4P,61,EC50
+immunoglobulin heavy variable 3-30,Human,P01768,IGHV3-30,188,Kd
+Replication factor C subunit 3,human,P40938,RFC3,185,Kd
+NCALD protein,Homo sapiens,P61601,NCALD,79,Ki
+KLK3 protein,H. sapiens,P07288,KLK3,397,EC50
+RIIa domain containing protein 1,Human,A6NNX1,RIIAD1,400,Kd
+prefoldin subunit 3,Human,P61758,VBP1,192,Kd
+E3 ubiquitin-protein ligase MGRN1 (MGRN1),human,O60291,MGRN1,25,EC50
+Transcription factor SOX-15,human,O60248,SOX15,63,Ki
+THRB,human,P10828,THRB,258,Ki
+PLCG2 protein,H. sapiens,P16885,PLCG2,275,Kd
+Coatomer subunit zeta-1 (COPZ1),human,P61923,COPZ1,395,Kd
+Mitogen-activated protein kinase kinase kinase 5,Homo sapiens,A6NIA0,ASK1,35,Ki
+DUX4L5 protein,Human,P0CJ88,DUX4L5,391,Ki
+RFC3 protein,human,P40938,RFC3,111,IC50
+Tumor necrosis factor receptor superfamily member 10A,human,O00220,TNFRSF10A,31,EC50
+IGLV1-44 protein,human,P01699,IGLV1-44,21,EC50
+protein wnt-9b,Homo sapiens,O14905,WNT9B,246,Kd
+t cell receptor alpha chain constant,human,P01848,TRAC,154,Ki
+Large ribosomal subunit protein eL8 (RPL7A),Human,P62424,RPL7A,289,Ki
+Coagulation factor XI,Homo sapiens,P03951,F11,89,Kd
+Serum paraoxonase/arylesterase 2,H. sapiens,Q15165,PON2,30,EC50
+Polyunsaturated fatty acid lipoxygenase ALOX15,human,P16050,ALOX15,229,IC50
+d(2) dopamine receptor,human,P14416,DRD2,182,Ki
+serine/arginine repetitive matrix protein 4,human,A7MD48,SRRM4,214,IC50
+TRAV9-2 protein,Homo sapiens,A0A087WT02,TRAV9-2,245,EC50
+RIIAD1 protein,H. sapiens,A6NNX1,RIIAD1,37,IC50
+Natural cytotoxicity triggering receptor 3,H. sapiens,O14931,NCR3,384,Ki
+TRAV9-1,H. sapiens,A0A075B6T8,TRAV9-1,246,EC50
+FLT3,Human,P36888,FLT3,268,Ki
+Max dimerization protein 1 (MXD1),human,Q05195,MXD1,33,Ki
+FGFR2 protein,H. sapiens,P21802,FGFR2,247,EC50
+immunoglobulin lambda variable 2-11,H. sapiens,P01706,IGLV2-11,246,Ki
+SRC protein,Human,P12931,SRC,237,Kd
+Interleukin 1 receptor associated kinase 1,Human,P51617,IRAK1,396,EC50
+immunoglobulin kappa variable 3d-15,Homo sapiens,A0A087WSY6,IGKV3D-15,314,Ki
+Chorionic somatomammotropin hormone 1,human,P0DML2,CSH1,285,Ki
+eukaryotic translation initiation factor 4h,H. sapiens,Q15056,EIF4H,74,Kd
+Mitochondrial coenzyme A transporter SLC25A16 (SLC25A16),H. sapiens,P16260,SLC25A16,369,Ki
+FAP,human,Q12884,FAP,54,Ki
+CAMKK2 protein,Human,Q96RR4,CAMKK2,5,EC50
+IGHV3-9 protein,H. sapiens,P01782,IGHV3-9,123,Kd
+Sine oculis-binding protein homolog (SOBP),human,A7XYQ1,SOBP,167,Kd
+ER-alpha,human,P03372,ESR1,132,IC50
+transcription factor sp9,human,P0CG40,SP9,92,EC50
+Myosin regulatory light chain 12B,Homo sapiens,O14950,MYL12B,362,IC50
+ABO protein,H. sapiens,P16442,ABO,361,EC50
+MGRN1,human,O60291,MGRN1,388,IC50
+IGHG3 protein,Homo sapiens,P01860,IGHG3,69,IC50
+"atp synthase f(0) complex subunit g, mitochondrial",Human,O75964,ATP5MG,254,IC50
+Serine/threonine-protein kinase pim-3,H. sapiens,Q86V86,PIM3,81,IC50
+ADAM9 protein,Human,Q13443,ADAM9,97,EC50
+DPP8 protein,human,Q6V1X1,DPP8,91,EC50
+Probable proton-coupled zinc antiporter SLC30A4 (SLC30A4),Human,O14863,SLC30A4,13,IC50
+ARHGEF6 protein,Human,Q15052,ARHGEF6,49,Kd
+POU class 2 homeobox associating factor 3,H. sapiens,A8K830,POU2AF3,235,IC50
+Probable non-functional immunoglobulin lambda variable 11-55,human,A0A075B6I3,,8,IC50
+IGKV2D-24,H. sapiens,A0A075B6R9,IGKV2D-24,10,Ki
+Extracellular calcium-sensing receptor,Human,P41180,CASR,111,EC50
+IGKV6D-21 protein,Homo sapiens,A0A0A0MT36,IGKV6D-21,235,Ki
+Splicing factor 3B subunit 2,Homo sapiens,Q13435,SF3B2,40,EC50
+Interferon alpha-21,Homo sapiens,P01568,IFNA21,293,Kd
+Neuromedin-U receptor 2,H. sapiens,Q7LC54,NMU2,172,IC50
+Protein SFI1 homolog,H. sapiens,A8K8P3,SFI1,351,EC50
+IGKC,Human,P01834,IGKC,356,IC50
+Interleukin-2 receptor subunit alpha (IL2RA),Human,P01589,IL2RA,213,Kd
+Sodium/glucose cotransporter 2,human,P31639,SLC5A2,249,Kd
+Potassium voltage-gated channel subfamily KQT member 2 (KCNQ2),H. sapiens,O43526,KCNQ2,245,Ki
+Calreticulin,human,P27797,CALR,383,EC50
+Collagenase 3,Human,P45452,MMP13,283,Ki
+SETSIP protein,Human,P0DME0,SETSIP,369,EC50
+NPEPPS protein,H. sapiens,P55786,NPEPPS,319,Ki
+Growth hormone secretagogue receptor type 1 (GHSR),Homo sapiens,Q92847,GHSR,33,Ki
+Double homeobox protein 4 like protein 5,Homo sapiens,P0CJ88,DUX4L5,354,Ki
+Prolyl endopeptidase FAP (FAP),H. sapiens,Q12884,FAP,91,Kd
+IDH2 protein,Human,P48735,IDH2,365,Kd
+interleukin-15,human,P40933,IL15,76,IC50
+CSNK2A1 protein,Human,P68400,CSNK2A1,265,Kd
+SLC1A2 protein,H. sapiens,P43004,SLC1A2,119,Kd
+LRRC37A3,Human,O60309,LRRC37A3,128,Ki
+Leucine zipper putative tumor suppressor 3 (LZTS3),Homo sapiens,O60299,LZTS3,389,Ki
+Probable non functional T cell receptor gamma variable,human,A0A0A0MS02,TRGV1,76,EC50
+IGHV3-30 protein,human,P01768,IGHV3-30,151,IC50
+SRSF protein kinase 1,Homo sapiens,Q96SB4,SRPK1,169,Kd
+HDAC4 protein,Human,P56524,HDAC4,109,IC50
+IL2RA,Human,P01589,IL2RA,176,EC50
+Neurotensin receptor type 2,Human,O95665,NTSR2,147,Kd
+NTSR2 protein,H. sapiens,O95665,NTSR2,73,EC50
+REG3A protein,human,Q06141,REG3A,145,IC50
+TBK1 protein,Homo sapiens,Q9UHD2,TBK1,117,IC50
+Myeloid cell nuclear differentiation antigen,human,P41218,MNDA,309,Kd
+Macrophage mannose receptor 1,human,P22897,MRC1,127,Kd
+JTB,H. sapiens,O76095,JTB,256,Ki
+Polyunsaturated fatty acid 5-lipoxygenase,Human,P09917,ALOX5,117,Kd
+Dipeptidyl peptidase 9 (DPP9),human,Q86TI2,DPP9,291,IC50
+Interferon beta,Human,P01574,IFNB1,176,IC50
+3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 2 (HSD3B2),human,P26439,HSD3B2,131,EC50
+cyclic amp-responsive element-binding protein 1,Human,P16220,CREB1,116,EC50
+Immunoglobulin lambda variable 1-40 (IGLV1-40),human,P01703,IGLV1-40,387,IC50
+AP-1 complex subunit sigma-1A (AP1S1),Homo sapiens,P61966,AP1S1,395,EC50
+Signal induced proliferation associated 1 like protein 3,Homo sapiens,O60292,SIPA1L3,246,EC50
+Beta crystallin B3,H. sapiens,P26998,CRYBB3,192,EC50
+fibroblast growth factor receptor 2,Human,P21802,FGFR2,284,IC50
+SNAPC2,Human,Q13487,SNAPC2,50,Kd
+"cytochrome b-c1 complex subunit 6-like, mitochondrial",human,A0A096LP55,UQCRHL,126,Ki
+Histone-lysine N-methyltransferase SETD2 (SETD2),human,Q9BYW2,SETD2,397,EC50
+Aldehyde dehydrogenase family 3 member A2 (ALDH3A2),human,P51648,ALDH3A2,29,EC50
+SF3B2 protein,H. sapiens,Q13435,SF3B2,77,Ki
+"Ras-related protein Rab-34, isoform NARR",H. sapiens,P0DI83,RAB34,331,Kd
+BCL2 protein,H. sapiens,P10415,BCL2,141,IC50
+VBP1 protein,Human,P61758,VBP1,155,EC50
+Gamma-synuclein (SNCG),human,O76070,SNCG,257,IC50
+Host cell factor 1,human,P51610,HCFC1,99,IC50
+Chymotrypsin-like protease CTRL-1,Human,P40313,CTRL,109,Kd
+Immunoglobulin kappa variable 2D-40,human,P01614,IGKV2D-40,257,Kd
+ATP6V0C,human,P27449,ATP6V0C,296,Kd
+TNP2 protein,H. sapiens,Q05952,TNP2,309,IC50
+Mitogen-activated protein kinase 11,human,Q15759,MAPK11,165,Kd
+Phosphatidylinositol binding clathrin assembly protein,Human,Q13492,PICALM,134,Ki
+HSP90AA1 protein,human,P07900,HSP90AA1,135,EC50
+Matrix metalloproteinase-9,Human,P14780,MMP9,149,Kd
+DNA repair protein XRCC4,Homo sapiens,Q13426,XRCC4,314,EC50
+NEK7 protein,H. sapiens,Q8TDX7,NEK7,91,IC50
+Thyroid hormone receptor beta,Homo sapiens,B3KU79,ERBA2,16,Kd
+IGLV5-52,Homo sapiens,A0A0A0MRZ9,IGLV5-52,128,EC50
+Receptor-interacting serine/threonine-protein kinase 3,H. sapiens,B4DJL9,RIP3,163,Kd
+Ankyrin repeat- and BTB/POZ domain-containing protein 3 (ABTB3),human,A6QL63,ABTB3,331,EC50
+IGKV1D-12 protein,human,P01611,IGKV1D-12,79,Kd
+Large ribosomal subunit protein eL8,Homo sapiens,P62424,RPL7A,326,IC50
+Serum amyloid A-2 protein (SAA2),H. sapiens,P0DJI9,SAA2,169,IC50
+SLC26A3 protein,Homo sapiens,P40879,SLC26A3,253,IC50
+Immunoglobulin lambda variable 5-52 (IGLV5-52),Homo sapiens,A0A0A0MRZ9,IGLV5-52,165,EC50
+plasma kallikrein,Human,P03952,KLKB1,358,Kd
+Dipeptidyl peptidase 8,Human,Q6V1X1,DPP8,54,IC50
+Immunoglobulin lambda variable 1 40,Human,P01703,IGLV1-40,24,Kd
+GALR2 protein,human,O43603,GALR2,79,Ki
+Leucine-rich repeat-containing protein 37A3 (LRRC37A3),Homo sapiens,O60309,LRRC37A3,165,Kd
+Tripartite motif containing protein 49,human,P0CI25,TRIM49,136,EC50
+Immunoglobulin lambda variable 2 11,human,P01706,IGLV2-11,172,Ki
+IGHV1-45 protein,Homo sapiens,A0A0A0MS14,IGHV1-45,351,IC50
+calreticulin,Homo sapiens,P27797,CALR,346,Kd
+Immunoglobulin kappa variable 1-27,H. sapiens,A0A075B6S5,IGKV1-27,97,IC50
+Glucocorticoid receptor,Human,P04150,NR3C1,7,Ki
+KiSS-1 receptor,Human,Q969F8,KISS1R,349,Ki
+CD300LB protein,Homo sapiens,A8K4G0,CD300LB,301,Kd
+5 hydroxytryptamine receptor 1B,Homo sapiens,P28222,HTR1B,26,Kd
+Large ribosomal subunit protein uL13,human,P40429,RPL13A,371,IC50
+Leucine-rich repeat-containing protein 37A3,human,O60309,LRRC37A3,91,Ki
+EPO protein,Homo sapiens,P01588,EPO,95,IC50
+Immunoglobulin kappa variable 1-39,human,P01597,IGKV1-39,207,Ki
+IGHE protein,Human,P01854,IGHE,373,Ki
+T cell receptor alpha chain constant,Human,P01848,TRAC,191,Ki
+SCTR protein,H. sapiens,P47872,SCTR,317,EC50
+Beta-crystallin B3,Human,P26998,CRYBB3,303,Ki
+Platelet-activating factor acetylhydrolase IB subunit alpha1 (PAFAH1B3),Homo sapiens,Q15102,PAFAH1B3,327,IC50
+snrna-activating protein complex subunit 2,H. sapiens,Q13487,SNAPC2,376,Kd
+SPEG neighbor protein (SPEGNB),H. sapiens,A0A087WV53,SPEGNB,311,Ki
+CTRL,Homo sapiens,P40313,CTRL,146,Ki
+NUDT4B protein,Human,A0A024RBG1,NUDT4B,355,Ki
+Receptor type tyrosine protein kinase FLT3,human,P36888,FLT3,342,EC50
+"Vascular endothelial growth factor A, long form (VEGFA)",Human,P15692,VEGFA,111,EC50
+GHSR,Human,Q92847,GHSR,396,EC50
+NCR3 protein,Homo sapiens,O14931,NCR3,21,EC50
+Sodium channel protein type 10 subunit alpha,Homo sapiens,Q9Y5Y9,SCN10A,129,IC50
+Zinc finger protein 705D,Homo sapiens,P0CH99,ZNF705D,271,Kd
+Tripartite motif-containing protein 49 (TRIM49),human,P0CI25,TRIM49,99,Ki
+SAA2,Homo sapiens,P0DJI9,SAA2,132,EC50
+Paired box protein Pax-6 (PAX6),Human,P26367,PAX6,273,Kd
+POU class 2 homeobox associating factor 3 (POU2AF3),H. sapiens,A8K830,POU2AF3,309,IC50
+26S proteasome regulatory subunit 8 (PSMC5),Human,P62195,PSMC5,77,IC50
+Zinc finger protein 888,human,P0CJ79,ZNF888,233,IC50
+Immunoglobulin kappa variable 1 33,H. sapiens,P01594,IGKV1-33,272,IC50
+tyrosine-protein kinase mer,human,Q12866,MERTK,156,EC50
+carbonic anhydrase 12,Human,O43570,CA12,242,Kd
+Splicing factor U2AF 65 kDa subunit (U2AF2),Homo sapiens,P26368,U2AF2,309,Ki
+SPDYE6 protein,H. sapiens,P0CI01,SPDYE6,369,Kd
+SRPK1,human,Q96SB4,SRPK1,206,EC50
+Protein ZAR1-like,Homo sapiens,A6NP61,ZAR1L,91,Ki
+RAB34 protein,H. sapiens,P0DI83,RAB34,257,Ki
+ubiquitin carboxyl-terminal hydrolase 46,H. sapiens,P62068,USP46,356,Kd
+"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2",Homo sapiens,P16885,PLCG2,349,Kd
+Interferon alpha-17,Human,P01571,IFNA17,183,EC50
+KIAA0040 protein,human,Q15053,KIAA0040,357,Ki
+"Succinate-semialdehyde dehydrogenase, mitochondrial",H. sapiens,P51649,ALDH5A1,281,EC50
+Potassium voltage-gated channel subfamily KQT member 2,Human,O43526,KCNQ2,171,IC50
+Branched-chain alpha-ketoacid dehydrogenase kinase (BCKDK),H. sapiens,O14874,BCKDK,113,Ki
+All trans retinol dehydrogenase [NAD(+)] ADH7,Human,P40394,ADH7,150,IC50
+Regulator of G protein signaling 20,Homo sapiens,O76081,RGS20,396,Kd
+Immunoglobulin lambda variable 3-9 (IGLV3-9),Human,A0A075B6K5,IGLV3-9,49,IC50
+Sodium channel protein type 10 subunit alpha (SCN10A),Human,Q9Y5Y9,SCN10A,203,EC50
+GOLGA4 protein,human,Q13439,GOLGA4,253,Kd
+EEF1A2 protein,Homo sapiens,Q05639,EEF1A2,25,Ki
+Immunoglobulin heavy variable 3-30,Homo sapiens,P01768,IGHV3-30,225,IC50
+exosome complex component rrp45,human,Q06265,EXOSC9,202,Kd
+Procollagen C-endopeptidase enhancer 1,human,Q15113,PCOLCE,61,Ki
+"Dihydroorotate dehydrogenase (quinone), mitochondrial",human,Q02127,DHODH,291,Ki
+SOBP,human,A7XYQ1,SOBP,130,Kd
+RAC-alpha serine/threonine-protein kinase,human,P31749,AKT1,203,Kd
+EEA1 protein,Homo sapiens,Q15075,EEA1,87,Ki
+SUOX protein,Homo sapiens,P51687,SUOX,7,Kd
+Cyclin-dependent kinase 5 activator 1,H. sapiens,Q15078,CDK5R1,9,Kd
+Potassium voltage-gated channel subfamily A member 2,H. sapiens,P16389,KCNA2,137,EC50
+"Keratin, type I cuticular Ha4",Human,O76011,KRT34,149,IC50
+ETV5,Human,P41161,ETV5,390,EC50
+SNAPC5 protein,Homo sapiens,O75971,SNAPC5,245,Kd
+STXBP1 protein,Homo sapiens,P61764,STXBP1,347,Kd
+Tyrosine-protein kinase receptor TYRO3,Human,Q06418,TYRO3,33,IC50
+26s proteasome regulatory subunit 10b,H. sapiens,P62333,PSMC6,214,Kd
+angiotensin-converting enzyme,human,P12821,ACE,156,EC50
+Immunoglobulin lambda variable 8-61,human,A0A075B6I0,IGLV8-61,201,EC50
+interferon alpha-2,human,P01563,IFNA2,352,IC50
+Inhibitor of nuclear factor kappa B kinase subunit beta,Homo sapiens,O14920,IKBKB,136,Kd
+CA12 protein,H. sapiens,O43570,CA12,205,Ki
+T cell receptor beta constant 1 (TRBC1),Homo sapiens,P01850,TRBC1,123,Kd
+Putative uncharacterized protein encoded by ERC2-IT1,H. sapiens,O76042,ERC2-IT1,119,IC50
+Nuclear transport factor 2 (NUTF2),human,P61970,NUTF2,403,IC50
+PTH protein,Human,P01270,PTH,13,Ki
+FFAR4 protein,Human,Q5NUL3,FFAR4,267,IC50
+KCNH2,Homo sapiens,Q12809,KCNH2,202,EC50
+Isoform Ik3 of DNA-binding protein Ikaros,Homo sapiens,Q13422-3,IKZF1,13,Kd
+URB1 protein,Homo sapiens,O60287,URB1,115,Kd
+Immunoglobulin kappa variable 1D-12,H. sapiens,P01611,IGKV1D-12,153,Kd
+nociceptin receptor,human,P41146,OPRL1,110,Ki
+IFNA5,human,P01569,IFNA5,82,Kd
+Immunoglobulin lambda variable 4 3,Human,A0A075B6K6,IGLV4-3,156,EC50
+Interferon alpha-2,Human,P01563,IFNA2,389,Kd
+Protein JTB (JTB),Human,O76095,JTB,293,IC50
+Histone-lysine N-methyltransferase EZH2,human,B2RAQ1,KMT6,71,IC50
+Transmembrane 4 L6 family member 5 (TM4SF5),human,O14894,TM4SF5,5,Kd
+an1-type zinc finger protein 5,H. sapiens,O76080,ZFAND5,262,Ki
+"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2",Human,P16885,PLCG2,312,IC50
+coagulation factor xii,Homo sapiens,P00748,F12,50,IC50
+TNF-alpha,human,P01375,TNF,167,IC50
+Phosphatidylinositol-binding clathrin assembly protein (PICALM),Human,Q13492,PICALM,97,Kd
+elongation factor 1-gamma,Homo sapiens,P26641,EEF1G,282,Kd
+Carboxypeptidase E,Human,P16870,CPE,104,Ki
+STAT3,human,P40763,STAT3,160,Ki
+YJEFN3 protein,H. sapiens,A6XGL0,YJEFN3,277,EC50
+Triple functional domain protein,Human,O75962,TRIO,169,Ki
+IGLV8-61 protein,human,A0A075B6I0,IGLV8-61,127,EC50
+GPM6A protein,H. sapiens,P51674,GPM6A,111,IC50
+PPEF1 protein,human,O14829,PPEF1,301,Kd
+Interleukin-15,H. sapiens,P40933,IL15,113,Ki
+JCHAIN,human,P01591,JCHAIN,366,EC50
+Valine--tRNA ligase (VARS1),human,P26640,VARS1,243,Kd
+Melanocyte protein PMEL,Human,P40967,PMEL,97,Ki
+BEST1 protein,Homo sapiens,O76090,BEST1,29,Ki
+ANXA13,H. sapiens,P27216,ANXA13,108,EC50
+CTSL protein,Homo sapiens,P07711,CTSL,9,EC50
+Neurocalcin-delta (NCALD),H. sapiens,P61601,NCALD,5,IC50
+Zinc finger protein 157,H. sapiens,P51786,ZNF157,235,EC50
+Xanthine dehydrogenase/oxidase (XDH),Human,P47989,XDH,49,Kd
+"ras-related protein rab-34, isoform narr",human,P0DI83,RAB34,294,EC50
+VEGFR2,human,P35968,KDR,130,IC50
+Lysine specific histone demethylase 1A,Human,O60341,KDM1A,376,Ki
+aurora kinase a,Homo sapiens,O14965,AURKA,288,Ki
+TRPM8 protein,human,Q7Z2W7,TRPM8,173,Kd
+14 3 3 protein theta,Homo sapiens,P27348,YWHAQ,318,Kd
+interferon alpha-17,H. sapiens,P01571,IFNA17,146,IC50
+ARSD,human,P51689,ARSD,70,Kd
+DNA-binding protein inhibitor ID-1,human,P41134,ID1,107,Kd
+Transforming protein RhoA,H. sapiens,P61586,RHOA,394,Ki
+interleukin-1 receptor-associated kinase 1,H. sapiens,P51617,IRAK1,70,EC50
+"Keratin, type I cuticular Ha3-I",Human,O76009,KRT33A,227,Ki
+FGF18,Homo sapiens,O76093,FGF18,14,Kd
+Rho GTPase-activating protein 10 (ARHGAP10),H. sapiens,A1A4S6,ARHGAP10,91,Ki
+Neuronal calcium sensor 1,Human,P62166,NCS1,136,IC50
+disintegrin and metalloproteinase domain-containing protein 9,H. sapiens,Q13443,ADAM9,134,IC50
+MKRN4P protein,Human,Q13434,MKRN4P,387,Kd
+Immunoglobulin heavy constant gamma 2,Human,P01859,IGHG2,378,IC50
+C16orf96 protein,Human,A6NNT2,C16orf96,261,IC50
+SNCG protein,human,O76070,SNCG,331,Ki
+T cell receptor alpha variable 9-1,Homo sapiens,A0A075B6T8,TRAV9-1,209,IC50
+Wee1-like protein kinase,Human,P30291,WEE1,9,IC50
+Receptor-interacting serine/threonine-protein kinase 1 (RIPK1),Human,Q13546,RIPK1,199,Ki
+Small ribosomal subunit protein uS15 (RPS13),Homo sapiens,P62277,RPS13,17,IC50
+astrocytic phosphoprotein pea-15,Human,Q15121,PEA15,150,Kd
+kiss-1 receptor,H. sapiens,Q969F8,KISS1R,312,EC50
+Galanin receptor type 2,H. sapiens,O43603,GALR2,42,Ki
+HCRTR2,Human,O43614,HCRTR2,352,Kd
+Free fatty acid receptor 3,human,O14843,FFAR3,310,Kd
+Bestrophin-1 (BEST1),H. sapiens,O76090,BEST1,355,EC50
+CREB1 protein,Human,P16220,CREB1,79,Kd
+t cell receptor alpha variable 9-2,Homo sapiens,A0A087WT02,TRAV9-2,282,IC50
+Natriuretic peptides B,H. sapiens,P16860,NPPB,189,Ki
+Plasma kallikrein,H. sapiens,P03952,KLKB1,395,IC50
+Dual specificity tyrosine-phosphorylation-regulated kinase 1B (DYRK1B),H. sapiens,Q9Y463,DYRK1B,275,Kd
+IGLV5-52 protein,Human,A0A0A0MRZ9,IGLV5-52,239,Kd
+Large ribosomal subunit protein eL13 (RPL13),Human,P26373,RPL13,285,Kd
+Chymotrypsin-like protease CTRL-1 (CTRL),Human,P40313,CTRL,183,Kd
+Regulator of G protein signaling 2 (RGS2),Human,P41220,RGS2,385,IC50
+Multifunctional protein CAD,human,P27708,CAD,403,IC50
+nadph--cytochrome p450 reductase,Homo sapiens,P16435,POR,306,EC50
+IGLV2-18 protein,Homo sapiens,A0A075B6J9,IGLV2-18,161,IC50
+SH2/SH3 adapter protein NCK1,Homo sapiens,P16333,NCK1,261,Ki
+NCR1 protein,H. sapiens,O76036,NCR1,87,Ki
+isoform ik3 of dna-binding protein ikaros,Homo sapiens,Q13422-3,IKZF1,376,Kd
+Heat shock protein HSP 90 alpha,H. sapiens,P07900,HSP90AA1,98,Ki
+ADRB2 protein,H. sapiens,P07550,ADRB2,271,EC50
+NFATC2 protein,Homo sapiens,Q13469,NFATC2,251,Ki
+Polymeric immunoglobulin receptor (PIGR),H. sapiens,P01833,PIGR,259,EC50
+Nociceptin receptor,Homo sapiens,P41146,OPRL1,147,IC50
+Zinc finger and BTB domain-containing protein 16 (ZBTB16),Human,Q05516,ZBTB16,73,IC50
+PCDHGA12 protein,H. sapiens,O60330,PCDHGA12,55,Kd
+IGLV6-57,human,P01721,IGLV6-57,296,Kd
+snRNA-activating protein complex subunit 2,human,Q13487,SNAPC2,13,IC50
+Phospholipase D2 (PLD2),Human,O14939,PLD2,113,EC50
+IGLV3-19 protein,Human,P01714,IGLV3-19,219,EC50
+H1-3 protein,H. sapiens,P16402,H1-3,307,Ki
+SIPA1L3 protein,Human,O60292,SIPA1L3,283,Ki
+Protein deacetylase HDAC6,human,Q9UBN7,HDAC6,163,Ki
+Deuterosome assembly protein 1,H. sapiens,Q05D60,DEUP1,33,Kd
+HNF4A,Human,P41235,HNF4A,146,Kd
+TANK-binding kinase 1-binding protein 1 (TBKBP1),Homo sapiens,A7MCY6,TBKBP1,213,Ki
+Protein Wnt-9b,Homo sapiens,O14905,WNT9B,283,IC50
+Nuclear transition protein 2,Homo sapiens,Q05952,TNP2,383,IC50
+Proprotein convertase 9,human,Q8NBP7,PCSK9,67,IC50
+IKBKE protein,Human,Q14164,IKBKE,233,Ki
+T cell receptor alpha variable 23/delta variable 6 (TRAV23DV6),human,A0A075B6W5,TRAV23DV6,361,Kd
+prostate-specific antigen,human,P07288,KLK3,34,EC50
+KATNIP protein,H. sapiens,O60303,KATNIP,93,IC50
+KLRC1 protein,Homo sapiens,P26715,KLRC1,201,EC50
+Orexin receptor type 2,human,O43614,HCRTR2,315,IC50
+Interleukin-2 receptor subunit alpha,human,P01589,IL2RA,139,EC50
+3-hydroxy-3-methylglutaryl-coenzyme A reductase (HMGCR),Human,P04035,HMGCR,365,IC50
+immunoglobulin kappa variable 1d-12,human,P01611,IGKV1D-12,116,Kd
+MYL12B protein,human,O14950,MYL12B,399,EC50
+26S proteasome non-ATPase regulatory subunit 7,human,P51665,PSMD7,135,IC50
+NADPH--cytochrome P450 reductase,human,P16435,POR,343,EC50
+Prostaglandin G/H synthase 2,Homo sapiens,P35354,PTGS2,106,IC50
+IGLV2-11 protein,Human,P01706,IGLV2-11,209,IC50
+VDR protein,H. sapiens,P11473,VDR,125,EC50
+Immunoglobulin lambda variable 1-44 (IGLV1-44),H. sapiens,P01699,IGLV1-44,347,EC50
+Rab proteins geranylgeranyltransferase component A 2,Human,P26374,CHML,187,Ki
+HDAC1,Homo sapiens,Q13547,HDAC1,330,IC50
+Dual specificity mitogen-activated protein kinase kinase 7,human,O14733,MAP2K7,285,Kd
+Immunoglobulin lambda variable 5 52,Human,A0A0A0MRZ9,IGLV5-52,202,Ki
+Protein ZAR1 like,human,A6NP61,ZAR1L,380,IC50
+Neuronal membrane glycoprotein M6 a,H. sapiens,P51674,GPM6A,74,Ki
+RPS11 protein,human,P62280,RPS11,189,IC50
+Zinc finger protein 728 (ZNF728),H. sapiens,P0DKX0,ZNF728,27,IC50
+Immunoglobulin kappa variable 6D-21,human,A0A0A0MT36,IGKV6D-21,309,Kd
+Somatoliberin,H. sapiens,P01286,GHRH,123,EC50
+PON2 protein,H. sapiens,Q15165,PON2,67,Kd
+G antigen 12F (GAGE12F),H. sapiens,P0CL80,GAGE12F,133,IC50
+ZNF728,Human,P0DKX0,ZNF728,390,Kd
+Histone deacetylase 4,H. sapiens,P56524,HDAC4,183,Ki
+Cilia-and flagella-associated protein 96 (CFAP96),Human,A7E2U8,CFAP96,97,IC50
+Putative aquaporin-7B,Human,A0A075B734,AQP7B,313,IC50
+Coagulation factor XII,Human,P00748,F12,87,EC50
+Protein disulfide isomerase A6,human,Q15084,PDIA6,82,Ki
+Galanin receptor type 2 (GALR2),H. sapiens,O43603,GALR2,5,Kd
+FFAR3 protein,Human,O14843,FFAR3,347,Kd
+small ribosomal subunit protein us9,H. sapiens,P62249,RPS16,282,Ki
+Voltage-dependent L-type calcium channel subunit alpha-1C (CACNA1C),H. sapiens,Q13936,CACNA1C,27,Kd
+MDM2,Homo sapiens,Q00987,MDM2,234,IC50
+Macrophage mannose receptor 1 (MRC1),Homo sapiens,P22897,MRC1,201,EC50
+Inhibitor of nuclear factor kappa-B kinase subunit epsilon (IKBKE),Human,Q14164,IKBKE,159,Ki
+VEGFA protein,H. sapiens,P15692,VEGFA,185,IC50
+Eotaxin,H. sapiens,P51671,CCL11,82,IC50
+Bromodomain testis specific protein,H. sapiens,Q58F21,BRDT,328,IC50
+IGKV1-33 protein,Homo sapiens,P01594,IGKV1-33,309,Kd
+Advanced glycation end product-specific receptor (AGER),H. sapiens,Q15109,AGER,353,IC50
+LCMT2 protein,Human,O60294,LCMT2,245,Kd
+Cyclin-F (CCNF),Human,P41002,CCNF,333,EC50
+Protein monoglycylase TTLL8 (TTLL8),Homo sapiens,A6PVC2,TTLL8,253,Kd
+Estrogen receptor beta,Human,Q92731,ESR2,97,IC50
+Immunoglobulin heavy constant gamma 1 (IGHG1),human,P01857,IGHG1,37,EC50
+Syntaxin-binding protein 1,Homo sapiens,P61764,STXBP1,21,IC50
+Nuclear receptor subfamily 4immunitygroup A member 1,human,P22736,NR4A1,98,IC50
+KNCN protein,H. sapiens,A6PVL3,KNCN,113,IC50
+Regenerating islet derived protein 3 alpha,Human,Q06141,REG3A,108,IC50
+IGHV4-39 protein,Homo sapiens,P01824,IGHV4-39,343,Kd
+hepatocyte growth factor receptor,Homo sapiens,P08581,MET,12,Kd
+Signal transducer and activator of transcription 3,Homo sapiens,P40763,STAT3,234,Kd
+KCNN4 protein,Human,O15554,KCNN4,45,IC50
+Motilin receptor,human,O43193,MLNR,309,IC50
+Sodium/glucose cotransporter 2 (SLC5A2),Human,P31639,SLC5A2,323,IC50
+IL6 protein,Human,P05231,IL6,373,EC50
+Xanthine dehydrogenase/oxidase,human,P47989,XDH,375,Kd
+CCNF,human,P41002,CCNF,296,Kd
+Protein transport protein Sec61 subunit alpha isoform 1,Homo sapiens,P61619,SEC61A1,95,IC50
+BMPR1A protein,Human,P36894,BMPR1A,105,Kd
+ANXA13 protein,human,P27216,ANXA13,219,Ki
+"dihydroorotate dehydrogenase (quinone), mitochondrial",Human,Q02127,DHODH,254,Ki
+Histone deacetylase 1,Homo sapiens,Q13547,HDAC1,293,Ki
+Zinc finger protein 292 (ZNF292),Homo sapiens,O60281,ZNF292,89,EC50
+Serine/threonine-protein kinase PLK4,human,B2RAL0,SAK,190,IC50
+GPC3,Human,P51654,GPC3,116,EC50
+smad family member 4,Homo sapiens,Q13485,SMAD4,132,IC50
+CDK6,human,Q00534,CDK6,396,EC50
+IGHV3-48 protein,human,P01763,IGHV3-48,297,EC50
+Immunoglobulin kappa variable 1-33 (IGKV1-33),Homo sapiens,P01594,IGKV1-33,235,Kd
+IKBKB protein,Human,O14920,IKBKB,173,Ki
+DUX4L3 protein,H. sapiens,P0CJ86,DUX4L3,45,Kd
+zinc finger protein 500,Human,O60304,ZNF500,76,Kd
+Mitogen-activated protein kinase kinase kinase 7,H. sapiens,O43318,MAP3K7,149,Kd
+ARHGAP10,H. sapiens,A1A4S6,ARHGAP10,54,EC50
+CRYBB3 protein,H. sapiens,P26998,CRYBB3,229,Kd
+AURKA protein,Homo sapiens,O14965,AURKA,251,Kd
+XRCC4 protein,Homo sapiens,Q13426,XRCC4,351,Kd
+Cystic fibrosis transmembrane conductance regulator,H. sapiens,P13569,CFTR,64,IC50
+LSM3 protein,Homo sapiens,P62310,LSM3,325,Ki
+RIMS-binding protein 3B (RIMBP3B),Human,A6NNM3,RIMBP3B,357,EC50
+NUTM2B protein,Human,A6NNL0,NUTM2B,101,EC50
+Sodium dependent noradrenaline transporter,human,P23975,SLC6A2,380,Kd
+GRIN1,Homo sapiens,Q05586,GRIN1,14,EC50
+USP46 protein,Human,P62068,USP46,319,Kd
+MAOA,H. sapiens,P21397,MAOA,274,EC50
+ABL1,Homo sapiens,P00519,ABL1,172,Kd
+Neurotensin receptor type 2,Human,O95665,NTSR2,36,EC50
+Testis-specific Y-encoded protein 8,Homo sapiens,P0CW00,TSPY8,251,IC50
+MNDA protein,H. sapiens,P41218,MNDA,235,Ki
+Immunoglobulin heavy variable 1 45,human,A0A0A0MS14,IGHV1-45,314,Kd
+IGLV3-19,Human,P01714,IGLV3-19,108,EC50
+KDM1A protein,H. sapiens,O60341,KDM1A,13,IC50
+Katanin-interacting protein (KATNIP),Human,O60303,KATNIP,19,Ki
+elongation factor 1-alpha 2,Homo sapiens,Q05639,EEF1A2,62,Ki
+RGS20 protein,Human,O76081,RGS20,33,Ki
+Polymeric immunoglobulin receptor,human,P01833,PIGR,296,IC50
+V-type proton ATPase 16 kDa proteolipid subunit c (ATP6V0C),Human,P27449,ATP6V0C,333,IC50
+ADH7 protein,Homo sapiens,P40394,ADH7,187,EC50
+beta-galactosidase,human,P16278,GLB1,20,EC50
+replication factor c subunit 3,Homo sapiens,P40938,RFC3,148,EC50
+Proprotein convertase subtilisin/kexin type 9 (PCSK9),human,Q8NBP7,PCSK9,397,IC50
+T cell receptor alpha variable 9 2,Human,A0A087WT02,TRAV9-2,208,EC50
+AKT1 protein,Human,P31749,AKT1,129,Ki
+UCHL1,H. sapiens,P09936,UCHL1,88,Kd
+IGHV3-53 protein,Homo sapiens,P01767,IGHV3-53,295,Ki
+NR4A1 protein,Homo sapiens,P22736,NR4A1,135,Kd
+Peroxisomal multifunctional enzyme type 2 (HSD17B4),H. sapiens,P51659,HSD17B4,329,EC50
+Regenerating islet-derived protein 3-alpha (REG3A),Human,Q06141,REG3A,71,EC50
+E3 ubiquitin-protein ligase Mdm2 (MDM2),human,Q00987,MDM2,271,EC50
+Serine/threonine protein kinase TBK1,Homo sapiens,Q9UHD2,TBK1,80,EC50
+COPZ1,Homo sapiens,P61923,COPZ1,358,IC50
+Zinc finger protein 157 (ZNF157),Human,P51786,ZNF157,309,EC50
+IFI27 protein,H. sapiens,P40305,IFI27,167,IC50
+Immunoglobulin kappa variable 2D-30 (IGKV2D-30),H. sapiens,A0A075B6S6,IGKV2D-30,73,IC50
+RPL13A protein,Homo sapiens,P40429,RPL13A,297,IC50
+histone-lysine n-methyltransferase ezh2,H. sapiens,Q15910,EZH2,144,Ki
+Testis specific Y encoded protein 4,Homo sapiens,P0CV99,TSPY4,288,Ki
+ESR2,Human,Q92731,ESR2,134,IC50
+calmegin,H. sapiens,O14967,CLGN,178,EC50
+Carbonyl reductase [NADPH] 1 (CBR1),Human,P16152,CBR1,299,IC50
+SIPA1L3,H. sapiens,O60292,SIPA1L3,172,Ki
+SP9,H. sapiens,P0CG40,SP9,166,EC50
+KRT34,Homo sapiens,O76011,KRT34,186,IC50
+Probable non-functional T cell receptor gamma variable 10,Homo sapiens,A0A0A0MS01,TRGV10,89,EC50
+Large ribosomal subunit protein uL13,Human,P40429,RPL13A,260,Ki
+MET protein,Human,P08581,MET,375,Ki
+KLRK1 protein,human,P26718,KLRK1,103,Kd
+Signal-induced proliferation-associated 1-like protein 3 (SIPA1L3),H. sapiens,O60292,SIPA1L3,209,Kd
+immunoglobulin kappa variable 1-27,Homo sapiens,A0A075B6S5,IGKV1-27,60,EC50
+PDE9A protein,H. sapiens,O76083,PDE9A,149,Ki
+POU2AF3,human,A8K830,POU2AF3,272,IC50
+3 beta hydroxysteroid dehydrogenase/Delta 5  >4 isomerase type 2,Homo sapiens,P26439,HSD3B2,168,EC50
+Alpha-2-macroglobulin-like protein 1 (A2ML1),Human,A8K2U0,A2ML1,177,EC50
+NCALD,human,P61601,NCALD,368,IC50
+Mitogen activated protein kinase kinase kinase 5,human,Q99683,MAP3K5,114,EC50
+Immunoglobulin kappa variable 1 39,Homo sapiens,P01597,IGKV1-39,96,Kd
+Calmegin,Human,O14967,CLGN,215,Kd
+Elongation factor 1-alpha 2,Human,Q05639,EEF1A2,99,Kd
+TBC1D3K protein,human,A0A087X1G2,TBC1D3K,287,IC50
+Ankyrin repeat domain-containing protein 36A (ANKRD36),Human,A6QL64,ANKRD36,231,EC50
+Immunoglobulin heavy variable 4-30-2 (IGHV4-30-2),human,A0A087WSY4,IGHV4-30-2,245,Ki
+IGKC protein,Human,P01834,IGKC,67,EC50
+Puromycin-sensitive aminopeptidase,Human,P55786,NPEPPS,393,EC50
+Nucleolar pre ribosomal associated protein 1,H. sapiens,O60287,URB1,78,Kd
+MBT domain-containing protein 1,Human,Q05BQ5,MBTD1,211,Kd
+SOX3 protein,H. sapiens,P41225,SOX3,137,Ki
+multifunctional protein cad,Human,P27708,CAD,366,EC50
+myeloid cell nuclear differentiation antigen,Homo sapiens,P41218,MNDA,272,Kd
+sodium-dependent noradrenaline transporter,H. sapiens,P23975,SLC6A2,54,Ki
+t cell receptor alpha variable 9-1,Human,A0A075B6T8,TRAV9-1,172,Ki
+CDK5R1,Human,Q15078,CDK5R1,46,EC50
+WASH complex subunit 1 (WASHC1),human,A8K0Z3,WASHC1,141,EC50
+Cyclic AMP-responsive element-binding protein 1,Homo sapiens,P16220,CREB1,153,Ki
+Ubiquitin carboxyl terminal hydrolase isozyme L1,Homo sapiens,P09936,UCHL1,162,EC50
+h(+)/cl(-) exchange transporter 3,Homo sapiens,P51790,CLCN3,36,Ki
+rac-alpha serine/threonine-protein kinase,H. sapiens,P31749,AKT1,166,IC50
+testis-specific y-encoded protein 8,Human,P0CW00,TSPY8,214,Kd
+tyrosine-protein kinase receptor tyro3,Human,Q06418,TYRO3,396,IC50
+"Sulfite oxidase, mitochondrial",Human,P51687,SUOX,370,IC50
+SMO protein,human,Q99835,SMO,233,EC50
+Putative STAG3-like protein 1,H. sapiens,P0CL83,STAG3L1,187,Ki
+H(+)/Cl(-) exchange transporter 3 (CLCN3),Human,P51790,CLCN3,147,Kd
+Glypican-3 (GPC3),Homo sapiens,P51654,GPC3,153,Ki
+Plexin-A3 (PLXNA3),human,P51805,PLXNA3,269,Kd
+Katanin interacting protein,Human,O60303,KATNIP,56,IC50
+Zinc finger protein 500,Human,O60304,ZNF500,113,Ki
+Signal transducer and activator of transcription 3 (STAT3),human,P40763,STAT3,197,Kd
+Protein FAM106C,human,P0CH98,FAM106C,388,Ki
+Dual specificity tyrosine-phosphorylation-regulated kinase 1B,human,O75258,MIRK,110,Ki
+CLCNKA protein,Human,P51800,CLCNKA,155,EC50
+MRC1,human,P22897,MRC1,164,EC50
+TRAV7 protein,human,A0A075B6U4,TRAV7,109,Kd
+TYRO3,human,Q06418,TYRO3,70,EC50
+p53,human,P04637,TP53,194,IC50
+HTR6,Homo sapiens,P50406,HTR6,314,EC50
+neurotensin receptor type 2,Human,O95665,NTSR2,110,IC50
+Immunoglobulin heavy variable 4-4 (IGHV4-4),human,A0A075B6R2,IGHV4-4,261,Ki
+Neuromedin-U receptor 2 (NMUR2),H. sapiens,Q9GZQ4,NMUR2,385,EC50
+EGFR protein,human,P00533,EGFR,345,Kd
+Early growth response protein 4,Human,Q05215,EGR4,377,Ki
+Myosin regulatory light chain 12B (MYL12B),human,O14950,MYL12B,325,IC50
+vascular endothelial growth factor receptor 2,human,P35968,KDR,252,IC50
+E3 ubiquitin-protein ligase MGRN1,H. sapiens,O60291,MGRN1,351,IC50
+Immunoglobulin kappa variable 2D 30,Homo sapiens,A0A075B6S6,IGKV2D-30,110,Ki
+"nad-dependent protein deacetylase sirtuin-3, mitochondrial",Human,Q9NTG7,SIRT3,258,Kd
+probable cytosolic iron-sulfur protein assembly protein ciao1,human,O76071,CIAO1,24,Ki
+extracellular calcium-sensing receptor,Human,P41180,CASR,74,IC50
+T cell receptor beta variable 16,Homo sapiens,A0A087WV62,TRBV16,389,Ki
+Bile acid receptor,Homo sapiens,Q96RI1,NR1H4,298,Kd
+Serum amyloid A-1 protein,Homo sapiens,P0DJI8,SAA1,89,IC50
+splicing factor 3b subunit 2,H. sapiens,Q13435,SF3B2,114,EC50
+Voltage-gated inwardly rectifying potassium channel KCNH2 (KCNH2),H. sapiens,Q12809,KCNH2,239,IC50
+CLCA1,H. sapiens,A8K7I4,CLCA1,270,Kd
+Cytochrome b-c1 complex subunit 8,Human,O14949,UQCRQ,313,Kd
+CACNA1C,Human,Q13936,CACNA1C,390,Kd
+Protein dispatched homolog 2 (DISP2),human,A7MBM2,DISP2,357,IC50
+Myosin-7B,human,A7E2Y1,MYH7B,249,Ki
+g antigen 7,Homo sapiens,O76087,GAGE7,248,IC50
+IGHG2 protein,H. sapiens,P01859,IGHG2,15,Kd
+Immunoglobulin kappa variable 1D-33,H. sapiens,P01593,IGKV1D-33,5,IC50
+ETV6 protein,human,P41212,ETV6,327,Ki
+protein zar1-like,Homo sapiens,A6NP61,ZAR1L,54,EC50
+Carbonic anhydrase 12,H. sapiens,O43570,CA12,279,Kd
+Cathepsin K (CTSK),Homo sapiens,P43235,CTSK,297,Kd
+SRSF protein kinase 1 (SRPK1),H. sapiens,Q96SB4,SRPK1,243,Ki
+peptidyl-prolyl cis-trans isomerase a-like 4h,Homo sapiens,A0A075B767,PPIAL4H,340,Ki
+immunoglobulin kappa variable 1-17,H. sapiens,P01599,IGKV1-17,120,IC50
+Immunoglobulin lambda variable 4 60,human,A0A075B6I1,IGLV4-60,210,EC50
+MAPK10 protein,H. sapiens,P53779,MAPK10,151,EC50
+RND3,Homo sapiens,P61587,RND3,336,Kd
+"Glutamate receptor ionotropic, NMDA 1",H. sapiens,Q05586,GRIN1,377,Kd
+beta-crystallin b3,H. sapiens,P26998,CRYBB3,266,Kd
+Immunoglobulin heavy variable 3-9 (IGHV3-9),H. sapiens,P01782,IGHV3-9,49,Ki
+PLXNA3,H. sapiens,P51805,PLXNA3,232,IC50
+Max dimerization protein 1,human,Q05195,MXD1,359,IC50
+Hepatocyte nuclear factor 4-alpha (HNF4A),Homo sapiens,P41235,HNF4A,183,Ki
+SCN10A,Homo sapiens,Q9Y5Y9,SCN10A,166,Ki
+Immunoglobulin kappa variable 3D-11,human,A0A0A0MRZ8,IGKV3D-11,109,Kd
+IGLV5-37 protein,Human,A0A075B6J1,IGLV5-37,285,EC50
+RNA helicase aquarius,human,O60306,AQR,209,Ki
+Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3 (GNB3),H. sapiens,P16520,GNB3,329,EC50
+Eotaxin (CCL11),Human,P51671,CCL11,45,IC50
+G antigen 12I (GAGE12I),Homo sapiens,P0CL82,GAGE12I,257,Kd
+Baculoviral IAP repeat-containing protein 2,human,Q13490,BIRC2,127,IC50
+UCHL1 protein,Homo sapiens,P09936,UCHL1,199,Kd
+Proto-oncogene tyrosine-protein kinase ROS,human,P08922,ROS1,151,Ki
+Transient receptor potential cation channel subfamily M member 8,Human,Q7Z2W7,TRPM8,247,IC50
+E-selectin,Human,P16581,SELE,269,EC50
+Chorionic somatomammotropin hormone 2,Human,P0DML3,CSH2,245,EC50
+PIM1 protein,H. sapiens,P11309,PIM1,385,EC50
+CFTR protein,human,P13569,CFTR,101,Kd
+Diphosphoinositol polyphosphate phosphohydrolase NUDT4B,H. sapiens,A0A024RBG1,NUDT4B,318,Kd
+26s proteasome non-atpase regulatory subunit 7,Homo sapiens,P51665,PSMD7,98,EC50
+MAPK12 protein,human,P53778,MAPK12,401,Kd
+Zinc finger protein 292,Homo sapiens,O60281,ZNF292,15,EC50
+tRNA wybutosine-synthesizing protein 4,human,O60294,LCMT2,319,IC50
+DYRK1B protein,H. sapiens,Q9Y463,DYRK1B,349,EC50
+SLC6A2 protein,H. sapiens,P23975,SLC6A2,17,IC50
+neuronal acetylcholine receptor subunit beta-3,Human,Q05901,CHRNB3,354,Kd
+Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit DAD1 (DAD1),Human,P61803,DAD1,247,Kd
+RPL7A protein,Human,P62424,RPL7A,363,EC50
+Excitatory amino acid transporter 2,H. sapiens,P43004,SLC1A2,193,EC50
+Thyrotropin receptor (TSHR),human,P16473,TSHR,121,Kd
+Organic cation/carnitine transporter 2,human,O76082,SLC22A5,343,Kd
+Immunoglobulin lambda variable 3 19,human,P01714,IGLV3-19,182,EC50
+SLC5A2,Human,P31639,SLC5A2,286,IC50
+Prefoldin subunit 3,Homo sapiens,P61758,VBP1,229,EC50
+Free fatty acid receptor 4 (FFAR4),Homo sapiens,Q5NUL3,FFAR4,193,Ki
+STAG3-like protein 3,human,P0CL85,STAG3L3,19,IC50
+Ubiquitin C-terminal hydrolase 7,human,A6NMY8,HAUSP,80,IC50
+RPL7A,Homo sapiens,P62424,RPL7A,252,EC50
+DRD2 protein,H. sapiens,P14416,DRD2,145,Kd
+TRGV1 protein,H. sapiens,A0A0A0MS02,TRGV1,113,Ki
+"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",human,Q9Y233,PDE10A,283,IC50
+map/microtubule affinity-regulating kinase 3,Human,P27448,MARK3,286,Ki
+Immunoglobulin lambda variable 6-57 (IGLV6-57),Human,P01721,IGLV6-57,333,Kd
+Procathepsin L,Human,P07711,CTSL,372,IC50
+Immunoglobulin kappa variable 1-17,Homo sapiens,P01599,IGKV1-17,157,IC50
+prostaglandin-h2 d-isomerase,Human,P41222,PTGDS,290,Ki
+polyubiquitin-c,H. sapiens,P0CG48,UBC,146,IC50
+Cyclin-dependent kinase 5 activator 1 (CDK5R1),H. sapiens,Q15078,CDK5R1,83,Ki
+C-X-C chemokine receptor type 4,Homo sapiens,P61073,CXCR4,219,Kd
+nuclear transport factor 2,H. sapiens,P61970,NUTF2,292,IC50
+interferon alpha-21,human,P01568,IFNA21,256,Ki
+C15orf62 protein,human,A8K5M9,C15orf62,321,EC50
+NTRK2,Homo sapiens,Q16620,NTRK2,32,EC50
+PTPN12 protein,human,Q05209,PTPN12,317,Kd
+collagenase 3,H. sapiens,P45452,MMP13,246,IC50
+ZNF157,Homo sapiens,P51786,ZNF157,272,Kd
+CTDSPL2 protein,Human,Q05D32,CTDSPL2,197,IC50
+Receptor-interacting serine/threonine-protein kinase 1,Human,Q13546,RIPK1,125,EC50
+CCR6 protein,human,P51684,CCR6,333,Ki
+CLCN4 protein,H. sapiens,P51793,CLCN4,373,IC50
+T cell receptor alpha chain constant,Homo sapiens,P01848,TRAC,80,Kd
+TIMM23,Homo sapiens,O14925,TIMM23,338,IC50
+"Glutamate receptor ionotropic, NMDA 1 (GRIN1)",human,Q05586,GRIN1,51,IC50
+ZNF292,Human,O60281,ZNF292,52,Kd
+Protein S100-A4,human,P26447,,68,IC50
+SMIM18 protein,H. sapiens,P0DKX4,SMIM18,301,IC50
+Procathepsin L (CTSL),H. sapiens,P07711,CTSL,335,Ki
+KIT,H. sapiens,P10721,KIT,388,IC50
+TMEM265 protein,human,A0A087WTH1,TMEM265,301,Ki
+ESRRA,human,P11474,ESRRA,266,Ki
+Microtubule associated serine/threonine protein kinase 3,H. sapiens,O60307,MAST3,6,Ki
+IFNA13 protein,H. sapiens,A0A087WWS6,IFNA13,267,IC50
+Secretagogin (SCGN),human,O76038,SCGN,143,Kd
+Vascular endothelial growth factor receptor 2,Human,P35968,KDR,289,EC50
+H1-5 protein,Homo sapiens,P16401,H1-5,81,IC50
+Transcription factor ETV6,H. sapiens,P41212,ETV6,290,EC50
+Zinc finger protein 728,Human,P0DKX0,ZNF728,353,EC50
+TYK2,Homo sapiens,P29597,TYK2,280,Ki
+CIAO1 protein,Human,O76071,CIAO1,387,Kd
+immunoglobulin kappa variable 1d-33,H. sapiens,P01593,IGKV1D-33,368,EC50
+Gamma synuclein,Homo sapiens,O76070,SNCG,294,Ki
+Alpha 2A adrenergic receptor,human,P08913,ADRA2A,132,Kd
+Polyubiquitin-C,Human,P0CG48,UBC,183,EC50
+Protocadherin gamma-A12,Human,O60330,PCDHGA12,129,IC50
+Bromodomain-containing protein 2,human,A2AAU0,KIAA9001,114,IC50
+"glutamate receptor ionotropic, nmda 1",Homo sapiens,Q05586,GRIN1,340,IC50
+DPEP1 protein,Homo sapiens,P16444,DPEP1,115,EC50
+Tyrosine-protein kinase ABL1 (ABL1),H. sapiens,P00519,ABL1,209,EC50
+CCL11,Homo sapiens,P51671,CCL11,8,EC50
+Fumarylacetoacetase,Human,P16930,FAH,177,Kd
+TBC1 domain family member 3I,H. sapiens,A0A087WXS9,TBC1D3I,107,Ki
+amine oxidase [flavin-containing] a,H. sapiens,P21397,MAOA,200,IC50
+Exosome complex component RRP45,human,Q06265,EXOSC9,239,Ki
+Epithelial discoidin domain containing receptor 1,human,Q08345,DDR1,12,Kd
+PPAR-gamma,human,P37231,PPARG,176,IC50
+PTK2 protein,human,Q05397,PTK2,173,IC50
+CCR5,Human,P51681,CCR5,108,Ki
+Cyclin-dependent kinase 6,H. sapiens,Q00534,CDK6,359,EC50
+SLC22A5 protein,Homo sapiens,O76082,SLC22A5,269,IC50
+Probable non-functional immunoglobulin lambda variable 1-50,Human,A0A075B6I6,IGLV1-50,249,Ki
+Rho-related GTP-binding protein RhoE (RND3),human,P61587,RND3,373,EC50
+zinc finger protein 728,H. sapiens,P0DKX0,ZNF728,316,EC50
+CPE protein,H. sapiens,P16870,CPE,141,IC50
+Erythropoietin,Human,P01588,EPO,58,Ki
+Mitogen-activated protein kinase 11 (MAPK11),Human,Q15759,MAPK11,239,Ki
+SCGN,Homo sapiens,O76038,SCGN,106,IC50
+Pepsin A-4 (PGA4),Human,P0DJD7,PGA4,217,IC50
+DEUP1 protein,Human,Q05D60,DEUP1,359,IC50
+zinc finger protein 705d,human,P0CH99,ZNF705D,234,Ki
+neuronal membrane glycoprotein m6-b,Homo sapiens,Q13491,GPM6B,290,IC50
+RHOA protein,Human,P61586,RHOA,31,Ki
+Small ribosomal subunit protein uS9,H. sapiens,P62249,RPS16,319,Kd
+PIGR protein,Human,P01833,PIGR,333,IC50
+Immunoglobulin kappa variable 2-40,Homo sapiens,A0A087WW87,IGKV2-40,221,Ki
+Probable cytosolic iron-sulfur protein assembly protein CIAO1,human,O76071,CIAO1,61,Kd
+CYP2D7,H. sapiens,A0A087X1C5,CYP2D7,134,Kd
+Enolase 4,Homo sapiens,A6NNW6,ENO4,107,Kd
+CLCN5,H. sapiens,P51795,CLCN5,270,Kd
+PPIAL4H,H. sapiens,A0A075B767,PPIAL4H,14,EC50
+Putative uncharacterized protein CCDC28A-AS1,H. sapiens,A0A096LPI5,CCDC28A-AS1,241,Kd
+Amine oxidase [flavin-containing] A,H. sapiens,P21397,MAOA,237,Kd
+"Nuclear factor of activated T-cells, cytoplasmic 2",Human,Q13469,NFATC2,325,Kd
+Arylsulfatase D (ARSD),Human,P51689,ARSD,107,IC50
+Neuronal acetylcholine receptor subunit beta-3,Human,Q05901,CHRNB3,391,Ki
+T cell receptor alpha variable 9-2,H. sapiens,A0A087WT02,TRAV9-2,319,Ki
+Ubiquitin carboxyl-terminal hydrolase isozyme L1 (UCHL1),Homo sapiens,P09936,UCHL1,125,Ki
+Hepatocyte growth factor receptor,Human,P08581,MET,49,IC50
+SPEGNB protein,Homo sapiens,A0A087WV53,SPEGNB,385,Ki
+ANKRD36,H. sapiens,A6QL64,ANKRD36,194,Ki
+Splicing factor 3B subunit 2,Homo sapiens,Q13435,SF3B2,151,EC50
+"Vascular endothelial growth factor A, long form",Homo sapiens,P15692,VEGFA,148,Ki
+IGHV4-4,human,A0A075B6R2,IGHV4-4,224,Kd
+histone deacetylase 1,Human,Q13547,HDAC1,256,IC50
+CASQ2 protein,Human,O14958,CASQ2,253,Ki
+Interferon gamma,human,P01579,IFNG,37,Ki
+Free fatty acid receptor 4,Human,Q5NUL3,FFAR4,230,Kd
+small nuclear ribonucleoprotein sm d3,Homo sapiens,P62318,SNRPD3,54,IC50
+Serine/arginine repetitive matrix protein 4,human,A7MD48,SRRM4,251,Kd
+CASK protein,human,O14936,CASK,89,EC50
+Interferon alpha-5 (IFNA5),Homo sapiens,P01569,IFNA5,119,EC50
+Immunoglobulin lambda variable 3-19 (IGLV3-19),Homo sapiens,P01714,IGLV3-19,145,Kd
+Steroid hormone receptor ERR1 (ESRRA),Human,P11474,ESRRA,303,Ki
+TBC1D3I,Homo sapiens,A0A087WXS9,TBC1D3I,144,Kd
+Inactive phospholipase C-like protein 1 (PLCL1),Homo sapiens,Q15111,PLCL1,389,Ki
+Glucocorticoid receptor,Human,P04150,NR3C1,296,EC50
+Mitogen-activated protein kinase 10,Homo sapiens,P53779,MAPK10,225,IC50
+Regulator of G protein signaling 20,H. sapiens,O76081,RGS20,107,IC50
+NR1H4 protein,Homo sapiens,Q96RI1,NR1H4,335,EC50
+Tumor necrosis factor (TNF),H. sapiens,P01375,TNF,77,Kd
+Limbic system-associated membrane protein (LSAMP),Homo sapiens,Q13449,LSAMP,105,Ki
+LZTS3,H. sapiens,O60299,LZTS3,352,Ki
+Protein smoothened (SMO),Human,Q99835,SMO,159,IC50
+Protein disulfide-isomerase A6 (PDIA6),human,Q15084,PDIA6,45,IC50
+monoglyceride lipase,human,Q99685,MGLL,330,Kd
+Nuclear transport factor 2,H. sapiens,P61970,NUTF2,329,EC50
+MELK protein,Human,Q14680,MELK,237,IC50
+IL-6,human,P05231,IL6,90,IC50
+EEF1G protein,human,P26641,EEF1G,245,Ki
+large ribosomal subunit protein ul16,human,P27635,RPL10,214,Kd
+Intermediate conductance calcium activated potassium channel protein 4,Human,O15554,KCNN4,8,EC50
+serine/threonine-protein kinase nek7,H. sapiens,Q8TDX7,NEK7,128,EC50
+Protein deacetylase HDAC6,Homo sapiens,Q9UBN7,HDAC6,52,Ki
+Inter-alpha-trypsin inhibitor heavy chain H3 (ITIH3),Homo sapiens,Q06033,ITIH3,325,Kd
+ACAP2 protein,Homo sapiens,Q15057,ACAP2,109,IC50
+AP1S1,Homo sapiens,P61966,AP1S1,358,Ki
+PICALM,Human,Q13492,PICALM,60,Kd
+nuclear transition protein 2,human,Q05952,TNP2,346,Kd
+Large ribosomal subunit protein uL16,H. sapiens,P27635,RPL10,251,EC50
+Interferon alpha-2 (IFNA2),human,P01563,IFNA2,63,Kd
+GIMD1 protein,human,P0DJR0,GIMD1,333,IC50
+Natural cytotoxicity triggering receptor 1,human,O76036,NCR1,50,Kd
+Transient receptor potential cation channel subfamily M member 8,human,Q7Z2W7,TRPM8,136,Ki
+TRIM49 protein,Homo sapiens,P0CI25,TRIM49,173,IC50
+26S proteasome regulatory subunit 4,Human,P62191,PSMC1,21,Ki
+IFNA21 protein,human,P01568,IFNA21,219,Kd
+beta-2 adrenergic receptor,Human,P07550,ADRB2,308,IC50
+ERC2-IT1 protein,H. sapiens,O76042,ERC2-IT1,45,Ki
+DPP9,H. sapiens,Q86TI2,DPP9,254,EC50
+Immunoglobulin lambda variable 4-3 (IGLV4-3),Homo sapiens,A0A075B6K6,IGLV4-3,119,EC50
+PIM2 protein,human,Q9P1W9,PIM2,353,Kd
+Putative protein FAM157B (FAM157B),human,P0CG42,FAM157B,331,Ki
+"High affinity 3',5'-cyclic-AMP phosphodiesterase 7A (PDE7A)",Human,Q13946,PDE7A,289,Ki
+CSH1 protein,Homo sapiens,P0DML2,CSH1,211,Ki
+Monoglyceride lipase,Human,Q99685,MGLL,367,IC50
+serine/threonine-protein kinase tbk1,Human,Q9UHD2,TBK1,154,Kd
+Peptidyl-prolyl cis-trans isomerase A-like 4H (PPIAL4H),human,A0A075B767,PPIAL4H,51,Kd
+Germinal-center associated nuclear protein (MCM3AP),human,O60318,MCM3AP,365,EC50
+Leucine rich repeat and IQ domain containing protein 3,Human,A6PVS8,LRRIQ3,98,Ki
+Mineralocorticoid receptor,human,P08235,NR3C2,366,IC50
+Interferon-inducible protein AIM2,Homo sapiens,O14862,AIM2,365,IC50
+RIPK1,Homo sapiens,Q13546,RIPK1,162,Kd
+cyclin-dependent kinase 5 activator 1,H. sapiens,Q15078,CDK5R1,372,IC50
+tRNA wybutosine synthesizing protein 4,Homo sapiens,O60294,LCMT2,208,Ki
+GLB1,H. sapiens,P16278,GLB1,94,Ki
+C X C chemokine receptor type 4,Homo sapiens,P61073,CXCR4,108,IC50
+Pre-B-cell leukemia transcription factor 2,human,P40425,PBX2,177,Kd
+mitogen-activated protein kinase 11,H. sapiens,Q15759,MAPK11,128,IC50
+putative uncharacterized protein encoded by erc2-it1,human,O76042,ERC2-IT1,82,Ki

@@ -1,0 +1,611 @@
+accession,entry_name,gene_names,protein_name,organism,reviewed,length,database
+A0A087X0M5,TVB18_HUMAN,TRBV18,T cell receptor beta variable 18,Homo sapiens (Human),reviewed,115,Swiss-Prot
+A0A087WW87,KV240_HUMAN,IGKV2-40,Immunoglobulin kappa variable 2-40,Homo sapiens (Human),reviewed,121,Swiss-Prot
+Q06418,TYRO3_HUMAN,TYRO3,Tyrosine-protein kinase receptor TYRO3,Homo sapiens (Human),reviewed,890,Swiss-Prot
+P51665,PSMD7_HUMAN,PSMD7,26S proteasome non-ATPase regulatory subunit 7,Homo sapiens (Human),reviewed,324,Swiss-Prot
+Q93009,UBP7_HUMAN,USP7,Ubiquitin C-terminal hydrolase 7,Homo sapiens (Human),reviewed,1102,Swiss-Prot
+P09936,UCHL1_HUMAN,UCHL1,Ubiquitin carboxyl-terminal hydrolase isozyme L1,Homo sapiens (Human),reviewed,223,Swiss-Prot
+Q12809,KCNH2_HUMAN,KCNH2,Voltage-gated inwardly rectifying potassium channel KCNH2,Homo sapiens (Human),reviewed,1159,Swiss-Prot
+P15559,NQO1_HUMAN,NQO1,NAD(P)H dehydrogenase [quinone] 1,Homo sapiens (Human),reviewed,274,Swiss-Prot
+P00748,FA12_HUMAN,F12,Coagulation factor XII,Homo sapiens (Human),reviewed,615,Swiss-Prot
+O76031,CLPX_HUMAN,CLPX,"ATP-dependent clpX-like chaperone, mitochondrial",Homo sapiens (Human),reviewed,633,Swiss-Prot
+P62333,PRS10_HUMAN,PSMC6,26S proteasome regulatory subunit 10B,Homo sapiens (Human),reviewed,389,Swiss-Prot
+O75969,AKAP3_HUMAN,AKAP3,A-kinase anchor protein 3,Homo sapiens (Human),reviewed,853,Swiss-Prot
+Q9Y572,RIPK3_HUMAN,RIPK3,Receptor-interacting serine/threonine-protein kinase 3,Homo sapiens (Human),reviewed,518,Swiss-Prot
+P0DJR0,GIMD1_HUMAN,GIMD1,GTPase IMAP family member GIMD1,Homo sapiens (Human),reviewed,217,Swiss-Prot
+Q15125,EBP_HUMAN,EBP,"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase",Homo sapiens (Human),reviewed,230,Swiss-Prot
+P0CJ86,DU4L3_HUMAN,DUX4L3,Double homeobox protein 4-like protein 3,Homo sapiens (Human),reviewed,424,Swiss-Prot
+O76009,KT33A_HUMAN,KRT33A,"Keratin, type I cuticular Ha3-I",Homo sapiens (Human),reviewed,404,Swiss-Prot
+Q05940,VMAT2_HUMAN,SLC18A2,Synaptic vesicular amine transporter,Homo sapiens (Human),reviewed,514,Swiss-Prot
+Q15072,OZF_HUMAN,ZNF146,Zinc finger protein OZF,Homo sapiens (Human),reviewed,292,Swiss-Prot
+P51659,DHB4_HUMAN,HSD17B4,Peroxisomal multifunctional enzyme type 2,Homo sapiens (Human),reviewed,736,Swiss-Prot
+P41161,ETV5_HUMAN,ETV5,ETS translocation variant 5,Homo sapiens (Human),reviewed,510,Swiss-Prot
+O14843,FFAR3_HUMAN,FFAR3,Free fatty acid receptor 3,Homo sapiens (Human),reviewed,346,Swiss-Prot
+O76036,NCTR1_HUMAN,NCR1,Natural cytotoxicity triggering receptor 1,Homo sapiens (Human),reviewed,304,Swiss-Prot
+A0A075B6W5,TVA23_HUMAN,TRAV23DV6,T cell receptor alpha variable 23/delta variable 6,Homo sapiens (Human),reviewed,121,Swiss-Prot
+P34969,5HT7R_HUMAN,HTR7,5-hydroxytryptamine receptor 7,Homo sapiens (Human),reviewed,479,Swiss-Prot
+P04150,GCR_HUMAN,NR3C1,Glucocorticoid receptor,Homo sapiens (Human),reviewed,777,Swiss-Prot
+P26439,3BHS2_HUMAN,HSD3B2,3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 2,Homo sapiens (Human),reviewed,372,Swiss-Prot
+Q15113,PCOC1_HUMAN,PCOLCE,Procollagen C-endopeptidase enhancer 1,Homo sapiens (Human),reviewed,449,Swiss-Prot
+Q15052,ARHG6_HUMAN,ARHGEF6,Rho guanine nucleotide exchange factor 6,Homo sapiens (Human),reviewed,776,Swiss-Prot
+O14894,T4S5_HUMAN,TM4SF5,Transmembrane 4 L6 family member 5,Homo sapiens (Human),reviewed,197,Swiss-Prot
+P01848,TRAC_HUMAN,TRAC,T cell receptor alpha chain constant,Homo sapiens (Human),reviewed,140,Swiss-Prot
+Q969F8,KISSR_HUMAN,KISS1R,KiSS-1 receptor,Homo sapiens (Human),reviewed,398,Swiss-Prot
+P51686,CCR9_HUMAN,CCR9,C-C chemokine receptor type 9,Homo sapiens (Human),reviewed,369,Swiss-Prot
+Q13485,SMAD4_HUMAN,SMAD4,SMAD family member 4,Homo sapiens (Human),reviewed,552,Swiss-Prot
+Q05BV3,EMAL5_HUMAN,EML5,Echinoderm microtubule-associated protein-like 5,Homo sapiens (Human),reviewed,1969,Swiss-Prot
+P40429,RL13A_HUMAN,RPL13A,Large ribosomal subunit protein uL13,Homo sapiens (Human),reviewed,203,Swiss-Prot
+P40394,ADH7_HUMAN,ADH7,All-trans-retinol dehydrogenase [NAD(+)] ADH7,Homo sapiens (Human),reviewed,386,Swiss-Prot
+P51654,GPC3_HUMAN,GPC3,Glypican-3,Homo sapiens (Human),reviewed,580,Swiss-Prot
+Q96SB4,SRPK1_HUMAN,SRPK1,SRSF protein kinase 1,Homo sapiens (Human),reviewed,655,Swiss-Prot
+P01583,IL1A_HUMAN,IL1A,Interleukin-1 alpha,Homo sapiens (Human),reviewed,271,Swiss-Prot
+P61586,RHOA_HUMAN,RHOA,Transforming protein RhoA,Homo sapiens (Human),reviewed,193,Swiss-Prot
+Q8TDU6,GPBAR_HUMAN,GPBAR1,G protein-coupled bile acid receptor 1,Homo sapiens (Human),reviewed,330,Swiss-Prot
+Q12866,MERTK_HUMAN,MERTK,Tyrosine-protein kinase Mer,Homo sapiens (Human),reviewed,999,Swiss-Prot
+P27469,G0S2_HUMAN,G0S2,G0/G1 switch protein 2,Homo sapiens (Human),reviewed,103,Swiss-Prot
+O60307,MAST3_HUMAN,MAST3,Microtubule-associated serine/threonine-protein kinase 3,Homo sapiens (Human),reviewed,1309,Swiss-Prot
+P01857,IGHG1_HUMAN,IGHG1,Immunoglobulin heavy constant gamma 1,Homo sapiens (Human),reviewed,399,Swiss-Prot
+Q00987,MDM2_HUMAN,MDM2,E3 ubiquitin-protein ligase Mdm2,Homo sapiens (Human),reviewed,491,Swiss-Prot
+P68400,CSK21_HUMAN,CSNK2A1,Casein kinase II subunit alpha,Homo sapiens (Human),reviewed,391,Swiss-Prot
+P47211,GALR1_HUMAN,GALR1,Galanin receptor type 1,Homo sapiens (Human),reviewed,349,Swiss-Prot
+P54578,UBP14_HUMAN,USP14,Ubiquitin carboxyl-terminal hydrolase 14,Homo sapiens (Human),reviewed,494,Swiss-Prot
+A0A075B6R9,KVD24_HUMAN,IGKV2D-24,Probable non-functional immunoglobulin kappa variable 2D-24,Homo sapiens (Human),reviewed,120,Swiss-Prot
+P0CL83,ST3L1_HUMAN,STAG3L1,Putative STAG3-like protein 1,Homo sapiens (Human),reviewed,205,Swiss-Prot
+O60337,MARH6_HUMAN,MARCHF6,E3 ubiquitin-protein ligase MARCHF6,Homo sapiens (Human),reviewed,910,Swiss-Prot
+A6NNW6,ENO4_HUMAN,ENO4,Enolase 4,Homo sapiens (Human),reviewed,625,Swiss-Prot
+A6NNX1,RIAD1_HUMAN,RIIAD1,RIIa domain-containing protein 1,Homo sapiens (Human),reviewed,92,Swiss-Prot
+A0A075B6S4,KVD17_HUMAN,IGKV1D-17,Immunoglobulin kappa variable 1D-17,Homo sapiens (Human),reviewed,117,Swiss-Prot
+P01569,IFNA5_HUMAN,IFNA5,Interferon alpha-5,Homo sapiens (Human),reviewed,189,Swiss-Prot
+P26718,NKG2D_HUMAN,KLRK1,NKG2-D type II integral membrane protein,Homo sapiens (Human),reviewed,216,Swiss-Prot
+P31749,AKT1_HUMAN,AKT1,RAC-alpha serine/threonine-protein kinase,Homo sapiens (Human),reviewed,480,Swiss-Prot
+P27797,CALR_HUMAN,CALR,Calreticulin,Homo sapiens (Human),reviewed,417,Swiss-Prot
+P11474,ERR1_HUMAN,ESRRA,Steroid hormone receptor ERR1,Homo sapiens (Human),reviewed,423,Swiss-Prot
+O00519,FAAH1_HUMAN,FAAH,Fatty-acid amide hydrolase 1,Homo sapiens (Human),reviewed,579,Swiss-Prot
+P62424,RL7A_HUMAN,RPL7A,Large ribosomal subunit protein eL8,Homo sapiens (Human),reviewed,266,Swiss-Prot
+P09681,GIP_HUMAN,GIP,Gastric inhibitory polypeptide,Homo sapiens (Human),reviewed,153,Swiss-Prot
+A0A075B6U4,TVA7_HUMAN,TRAV7,T cell receptor alpha variable 7,Homo sapiens (Human),reviewed,112,Swiss-Prot
+P62068,UBP46_HUMAN,USP46,Ubiquitin carboxyl-terminal hydrolase 46,Homo sapiens (Human),reviewed,366,Swiss-Prot
+O43614,OX2R_HUMAN,HCRTR2,Orexin receptor type 2,Homo sapiens (Human),reviewed,444,Swiss-Prot
+P16401,H15_HUMAN,H1-5,Histone H1.5,Homo sapiens (Human),reviewed,226,Swiss-Prot
+O14967,CLGN_HUMAN,CLGN,Calmegin,Homo sapiens (Human),reviewed,610,Swiss-Prot
+Q15910,EZH2_HUMAN,EZH2,Histone-lysine N-methyltransferase EZH2,Homo sapiens (Human),reviewed,746,Swiss-Prot
+P28222,5HT1B_HUMAN,HTR1B,5-hydroxytryptamine receptor 1B,Homo sapiens (Human),reviewed,390,Swiss-Prot
+A0A075B6S6,KVD30_HUMAN,IGKV2D-30,Immunoglobulin kappa variable 2D-30,Homo sapiens (Human),reviewed,120,Swiss-Prot
+O76087,GAGE7_HUMAN,GAGE7,G antigen 7,Homo sapiens (Human),reviewed,117,Swiss-Prot
+A0A075B6K6,LV403_HUMAN,IGLV4-3,Immunoglobulin lambda variable 4-3,Homo sapiens (Human),reviewed,122,Swiss-Prot
+P0DME0,SETLP_HUMAN,SETSIP,Protein SETSIP,Homo sapiens (Human),reviewed,292,Swiss-Prot
+Q13435,SF3B2_HUMAN,SF3B2,Splicing factor 3B subunit 2,Homo sapiens (Human),reviewed,895,Swiss-Prot
+Q15078,CD5R1_HUMAN,CDK5R1,Cyclin-dependent kinase 5 activator 1,Homo sapiens (Human),reviewed,307,Swiss-Prot
+P12931,SRC_HUMAN,SRC,Proto-oncogene tyrosine-protein kinase Src,Homo sapiens (Human),reviewed,536,Swiss-Prot
+Q96RR4,KKCC2_HUMAN,CAMKK2,Calcium/calmodulin-dependent protein kinase kinase 2,Homo sapiens (Human),reviewed,588,Swiss-Prot
+P14416,DRD2_HUMAN,DRD2,D(2) dopamine receptor,Homo sapiens (Human),reviewed,443,Swiss-Prot
+P36888,FLT3_HUMAN,FLT3,Receptor-type tyrosine-protein kinase FLT3,Homo sapiens (Human),reviewed,993,Swiss-Prot
+A0A075B6J1,LV537_HUMAN,IGLV5-37,Immunoglobulin lambda variable 5-37,Homo sapiens (Human),reviewed,123,Swiss-Prot
+O14863,ZNT4_HUMAN,SLC30A4,Probable proton-coupled zinc antiporter SLC30A4,Homo sapiens (Human),reviewed,429,Swiss-Prot
+Q16620,NTRK2_HUMAN,NTRK2,BDNF/NT-3 growth factors receptor,Homo sapiens (Human),reviewed,822,Swiss-Prot
+P0DML3,CSH2_HUMAN,CSH2,Chorionic somatomammotropin hormone 2,Homo sapiens (Human),reviewed,217,Swiss-Prot
+P51689,ARSD_HUMAN,ARSD,Arylsulfatase D,Homo sapiens (Human),reviewed,593,Swiss-Prot
+O60318,GANP_HUMAN,MCM3AP,Germinal-center associated nuclear protein,Homo sapiens (Human),reviewed,1980,Swiss-Prot
+O76094,SRP72_HUMAN,SRP72,Signal recognition particle subunit SRP72,Homo sapiens (Human),reviewed,671,Swiss-Prot
+P0CZ25,D10OS_HUMAN,DNAH10OS,Uncharacterized protein DNAH10OS,Homo sapiens (Human),reviewed,163,Swiss-Prot
+P01593,KVD33_HUMAN,IGKV1D-33,Immunoglobulin kappa variable 1D-33,Homo sapiens (Human),reviewed,117,Swiss-Prot
+P03372,ESR1_HUMAN,ESR1,Estrogen receptor,Homo sapiens (Human),reviewed,595,Swiss-Prot
+A7MBM2,DISP2_HUMAN,DISP2,Protein dispatched homolog 2,Homo sapiens (Human),reviewed,1401,Swiss-Prot
+Q13439,GOGA4_HUMAN,GOLGA4,Golgin subfamily A member 4,Homo sapiens (Human),reviewed,2230,Swiss-Prot
+Q05195,MAD1_HUMAN,MXD1,Max dimerization protein 1,Homo sapiens (Human),reviewed,221,Swiss-Prot
+P01834,IGKC_HUMAN,IGKC,Immunoglobulin kappa constant,Homo sapiens (Human),reviewed,107,Swiss-Prot
+P0DJD1,RGPD2_HUMAN,RGPD2,RANBP2-like and GRIP domain-containing protein 2,Homo sapiens (Human),reviewed,1756,Swiss-Prot
+A0A0A0MS01,TVG10_HUMAN,TRGV10,Probable non-functional T cell receptor gamma variable 10,Homo sapiens (Human),reviewed,119,Swiss-Prot
+Q05952,STP2_HUMAN,TNP2,Nuclear transition protein 2,Homo sapiens (Human),reviewed,138,Swiss-Prot
+O14933,UB2L6_HUMAN,UBE2L6,Ubiquitin/ISG15-conjugating enzyme E2 L6,Homo sapiens (Human),reviewed,153,Swiss-Prot
+P16152,CBR1_HUMAN,CBR1,Carbonyl reductase [NADPH] 1,Homo sapiens (Human),reviewed,277,Swiss-Prot
+Q05DH4,FHI1A_HUMAN,FHIP1A,FHF complex subunit HOOK-interacting protein 1A,Homo sapiens (Human),reviewed,1040,Swiss-Prot
+O14733,MP2K7_HUMAN,MAP2K7,Dual specificity mitogen-activated protein kinase kinase 7,Homo sapiens (Human),reviewed,419,Swiss-Prot
+P01588,EPO_HUMAN,EPO,Erythropoietin,Homo sapiens (Human),reviewed,193,Swiss-Prot
+P00918,CAH2_HUMAN,CA2,Carbonic anhydrase 2,Homo sapiens (Human),reviewed,260,Swiss-Prot
+P45452,MMP13_HUMAN,MMP13,Collagenase 3,Homo sapiens (Human),reviewed,471,Swiss-Prot
+O76074,PDE5A_HUMAN,PDE5A,"cGMP-specific 3',5'-cyclic phosphodiesterase",Homo sapiens (Human),reviewed,875,Swiss-Prot
+P16260,GDC_HUMAN,SLC25A16,Mitochondrial coenzyme A transporter SLC25A16,Homo sapiens (Human),reviewed,332,Swiss-Prot
+Q9UHD2,TBK1_HUMAN,TBK1,Serine/threonine-protein kinase TBK1,Homo sapiens (Human),reviewed,729,Swiss-Prot
+P26368,U2AF2_HUMAN,U2AF2,Splicing factor U2AF 65 kDa subunit,Homo sapiens (Human),reviewed,475,Swiss-Prot
+P61964,WDR5_HUMAN,WDR5,WD repeat-containing protein 5,Homo sapiens (Human),reviewed,334,Swiss-Prot
+Q6V1X1,DPP8_HUMAN,DPP8,Dipeptidyl peptidase 8,Homo sapiens (Human),reviewed,898,Swiss-Prot
+P01563,IFNA2_HUMAN,IFNA2,Interferon alpha-2,Homo sapiens (Human),reviewed,188,Swiss-Prot
+O76081,RGS20_HUMAN,RGS20,Regulator of G protein signaling 20,Homo sapiens (Human),reviewed,388,Swiss-Prot
+Q14680,MELK_HUMAN,MELK,Maternal embryonic leucine zipper kinase,Homo sapiens (Human),reviewed,651,Swiss-Prot
+Q05D32,CTSL2_HUMAN,CTDSPL2,CTD small phosphatase-like protein 2,Homo sapiens (Human),reviewed,466,Swiss-Prot
+A0A096LPI5,GVQW2_HUMAN,CCDC28A-AS1,Putative uncharacterized protein CCDC28A-AS1,Homo sapiens (Human),reviewed,108,Swiss-Prot
+P48147,PPCE_HUMAN,PREP,Prolyl endopeptidase,Homo sapiens (Human),reviewed,710,Swiss-Prot
+P35968,VGFR2_HUMAN,KDR,Vascular endothelial growth factor receptor 2,Homo sapiens (Human),reviewed,1356,Swiss-Prot
+P07550,ADRB2_HUMAN,ADRB2,Beta-2 adrenergic receptor,Homo sapiens (Human),reviewed,413,Swiss-Prot
+P26599,PTBP1_HUMAN,PTBP1,Polypyrimidine tract-binding protein 1,Homo sapiens (Human),reviewed,557,Swiss-Prot
+P62341,SELT_HUMAN,SELENOT,Thioredoxin reductase-like selenoprotein T,Homo sapiens (Human),reviewed,195,Swiss-Prot
+Q86TI2,DPP9_HUMAN,DPP9,Dipeptidyl peptidase 9,Homo sapiens (Human),reviewed,863,Swiss-Prot
+P26842,CD27_HUMAN,CD27,CD27 antigen,Homo sapiens (Human),reviewed,260,Swiss-Prot
+P62310,LSM3_HUMAN,LSM3,U6 snRNA-associated Sm-like protein LSm3,Homo sapiens (Human),reviewed,102,Swiss-Prot
+O60299,LZTS3_HUMAN,LZTS3,Leucine zipper putative tumor suppressor 3,Homo sapiens (Human),reviewed,673,Swiss-Prot
+P01850,TRBC1_HUMAN,TRBC1,T cell receptor beta constant 1,Homo sapiens (Human),reviewed,176,Swiss-Prot
+O14862,AIM2_HUMAN,AIM2,Interferon-inducible protein AIM2,Homo sapiens (Human),reviewed,343,Swiss-Prot
+P11802,CDK4_HUMAN,CDK4,Cyclin-dependent kinase 4,Homo sapiens (Human),reviewed,303,Swiss-Prot
+P01763,HV348_HUMAN,IGHV3-48,Immunoglobulin heavy variable 3-48,Homo sapiens (Human),reviewed,117,Swiss-Prot
+P01782,HV309_HUMAN,IGHV3-9,Immunoglobulin heavy variable 3-9,Homo sapiens (Human),reviewed,118,Swiss-Prot
+P0CJ88,DU4L5_HUMAN,DUX4L5,Double homeobox protein 4-like protein 5,Homo sapiens (Human),reviewed,424,Swiss-Prot
+Q15111,PLCL1_HUMAN,PLCL1,Inactive phospholipase C-like protein 1,Homo sapiens (Human),reviewed,1095,Swiss-Prot
+Q13469,NFAC2_HUMAN,NFATC2,"Nuclear factor of activated T-cells, cytoplasmic 2",Homo sapiens (Human),reviewed,925,Swiss-Prot
+A0A075B6S5,KV127_HUMAN,IGKV1-27,Immunoglobulin kappa variable 1-27,Homo sapiens (Human),reviewed,117,Swiss-Prot
+P27348,1433T_HUMAN,YWHAQ,14-3-3 protein theta,Homo sapiens (Human),reviewed,245,Swiss-Prot
+A8K0Z3,WASH1_HUMAN,WASHC1,WASH complex subunit 1,Homo sapiens (Human),reviewed,465,Swiss-Prot
+O43603,GALR2_HUMAN,GALR2,Galanin receptor type 2,Homo sapiens (Human),reviewed,387,Swiss-Prot
+O60330,PCDGC_HUMAN,PCDHGA12,Protocadherin gamma-A12,Homo sapiens (Human),reviewed,932,Swiss-Prot
+P51800,CLCKA_HUMAN,CLCNKA,Chloride channel protein ClC-Ka,Homo sapiens (Human),reviewed,687,Swiss-Prot
+A0A087X1G2,TBC3K_HUMAN,TBC1D3K,TBC1 domain family member 3K,Homo sapiens (Human),reviewed,549,Swiss-Prot
+A0A087WSY6,KVD15_HUMAN,IGKV3D-15,Immunoglobulin kappa variable 3D-15,Homo sapiens (Human),reviewed,115,Swiss-Prot
+P61764,STXB1_HUMAN,STXBP1,Syntaxin-binding protein 1,Homo sapiens (Human),reviewed,594,Swiss-Prot
+O00220,TR10A_HUMAN,TNFRSF10A,Tumor necrosis factor receptor superfamily member 10A,Homo sapiens (Human),reviewed,468,Swiss-Prot
+P41225,SOX3_HUMAN,SOX3,Transcription factor SOX-3,Homo sapiens (Human),reviewed,446,Swiss-Prot
+P40933,IL15_HUMAN,IL15,Interleukin-15,Homo sapiens (Human),reviewed,162,Swiss-Prot
+Q15056,IF4H_HUMAN,EIF4H,Eukaryotic translation initiation factor 4H,Homo sapiens (Human),reviewed,248,Swiss-Prot
+P16278,BGAL_HUMAN,GLB1,Beta-galactosidase,Homo sapiens (Human),reviewed,677,Swiss-Prot
+O43570,CAH12_HUMAN,CA12,Carbonic anhydrase 12,Homo sapiens (Human),reviewed,354,Swiss-Prot
+P62244,RS15A_HUMAN,RPS15A,Small ribosomal subunit protein uS8,Homo sapiens (Human),reviewed,130,Swiss-Prot
+P62314,SMD1_HUMAN,SNRPD1,Small nuclear ribonucleoprotein Sm D1,Homo sapiens (Human),reviewed,119,Swiss-Prot
+P43004,EAA2_HUMAN,SLC1A2,Excitatory amino acid transporter 2,Homo sapiens (Human),reviewed,574,Swiss-Prot
+P51793,CLCN4_HUMAN,CLCN4,H(+)/Cl(-) exchange transporter 4,Homo sapiens (Human),reviewed,760,Swiss-Prot
+O14965,AURKA_HUMAN,AURKA,Aurora kinase A,Homo sapiens (Human),reviewed,403,Swiss-Prot
+P62277,RS13_HUMAN,RPS13,Small ribosomal subunit protein uS15,Homo sapiens (Human),reviewed,151,Swiss-Prot
+A8K8P3,SFI1_HUMAN,SFI1,Protein SFI1 homolog,Homo sapiens (Human),reviewed,1242,Swiss-Prot
+Q86V86,PIM3_HUMAN,PIM3,Serine/threonine-protein kinase pim-3,Homo sapiens (Human),reviewed,326,Swiss-Prot
+Q9Y5Y9,SCNAA_HUMAN,SCN10A,Sodium channel protein type 10 subunit alpha,Homo sapiens (Human),reviewed,1956,Swiss-Prot
+P0CL81,GG12G_HUMAN,GAGE12G,G antigen 12G,Homo sapiens (Human),reviewed,117,Swiss-Prot
+P51813,BMX_HUMAN,BMX,Cytoplasmic tyrosine-protein kinase BMX,Homo sapiens (Human),reviewed,675,Swiss-Prot
+P48735,IDHP_HUMAN,IDH2,"Isocitrate dehydrogenase [NADP], mitochondrial",Homo sapiens (Human),reviewed,452,Swiss-Prot
+P40967,PMEL_HUMAN,PMEL,Melanocyte protein PMEL,Homo sapiens (Human),reviewed,661,Swiss-Prot
+B4DS61,B4DS61_HUMAN,SRPK1,SRSF protein kinase 1,Homo sapiens (Human),unreviewed,635,TrEMBL
+P07288,KLK3_HUMAN,KLK3,Prostate-specific antigen,Homo sapiens (Human),reviewed,261,Swiss-Prot
+O60331,PI51C_HUMAN,PIP5K1C,Phosphatidylinositol 4-phosphate 5-kinase type-1 gamma,Homo sapiens (Human),reviewed,668,Swiss-Prot
+O76071,CIAO1_HUMAN,CIAO1,Probable cytosolic iron-sulfur protein assembly protein CIAO1,Homo sapiens (Human),reviewed,339,Swiss-Prot
+P51687,SUOX_HUMAN,SUOX,"Sulfite oxidase, mitochondrial",Homo sapiens (Human),reviewed,545,Swiss-Prot
+O14744,ANM5_HUMAN,PRMT5,Protein arginine N-methyltransferase 5,Homo sapiens (Human),reviewed,637,Swiss-Prot
+Q15102,PA1B3_HUMAN,PAFAH1B3,Platelet-activating factor acetylhydrolase IB subunit alpha1,Homo sapiens (Human),reviewed,231,Swiss-Prot
+P01344,IGF2_HUMAN,IGF2,Insulin-like growth factor 2,Homo sapiens (Human),reviewed,180,Swiss-Prot
+A7E2F4,GOG8A_HUMAN,GOLGA8A,Golgin subfamily A member 8A,Homo sapiens (Human),reviewed,631,Swiss-Prot
+Q05639,EF1A2_HUMAN,EEF1A2,Elongation factor 1-alpha 2,Homo sapiens (Human),reviewed,463,Swiss-Prot
+A6NNH2,F90AR_HUMAN,FAM90A27P,Protein FAM90A27P,Homo sapiens (Human),reviewed,459,Swiss-Prot
+P22897,MRC1_HUMAN,MRC1,Macrophage mannose receptor 1,Homo sapiens (Human),reviewed,1456,Swiss-Prot
+P16581,LYAM2_HUMAN,SELE,E-selectin,Homo sapiens (Human),reviewed,610,Swiss-Prot
+P27539,GDF1_HUMAN,GDF1,Embryonic growth/differentiation factor 1,Homo sapiens (Human),reviewed,372,Swiss-Prot
+A0A075B6I0,LV861_HUMAN,IGLV8-61,Immunoglobulin lambda variable 8-61,Homo sapiens (Human),reviewed,122,Swiss-Prot
+Q9BYF1,ACE2_HUMAN,ACE2,Angiotensin-converting enzyme 2,Homo sapiens (Human),reviewed,805,Swiss-Prot
+P43235,CATK_HUMAN,CTSK,Cathepsin K,Homo sapiens (Human),reviewed,329,Swiss-Prot
+P01762,HV311_HUMAN,IGHV3-11,Immunoglobulin heavy variable 3-11,Homo sapiens (Human),reviewed,117,Swiss-Prot
+O76038,SEGN_HUMAN,SCGN,Secretagogin,Homo sapiens (Human),reviewed,276,Swiss-Prot
+A6NNM8,TTL13_HUMAN,TTLL13,Tubulin polyglutamylase TTLL13,Homo sapiens (Human),reviewed,815,Swiss-Prot
+P01703,LV140_HUMAN,IGLV1-40,Immunoglobulin lambda variable 1-40,Homo sapiens (Human),reviewed,118,Swiss-Prot
+Q13472,TOP3A_HUMAN,TOP3A,DNA topoisomerase 3-alpha,Homo sapiens (Human),reviewed,1001,Swiss-Prot
+P01833,PIGR_HUMAN,PIGR,Polymeric immunoglobulin receptor,Homo sapiens (Human),reviewed,764,Swiss-Prot
+O76093,FGF18_HUMAN,FGF18,Fibroblast growth factor 18,Homo sapiens (Human),reviewed,207,Swiss-Prot
+P61758,PFD3_HUMAN,VBP1,Prefoldin subunit 3,Homo sapiens (Human),reviewed,197,Swiss-Prot
+A7E2V4,ZSWM8_HUMAN,ZSWIM8,Zinc finger SWIM domain-containing protein 8,Homo sapiens (Human),reviewed,1837,Swiss-Prot
+O43353,RIPK2_HUMAN,RIPK2,Receptor-interacting serine/threonine-protein kinase 2,Homo sapiens (Human),reviewed,540,Swiss-Prot
+O14950,ML12B_HUMAN,MYL12B,Myosin regulatory light chain 12B,Homo sapiens (Human),reviewed,172,Swiss-Prot
+A6NNS2,DRS7C_HUMAN,DHRS7C,Dehydrogenase/reductase SDR family member 7C,Homo sapiens (Human),reviewed,312,Swiss-Prot
+B2RPP8,B2RPP8_HUMAN,HNF4A,Hepatocyte nuclear factor 4-alpha,Homo sapiens (Human),unreviewed,479,TrEMBL
+P0DJI8,SAA1_HUMAN,SAA1,Serum amyloid A-1 protein,Homo sapiens (Human),reviewed,122,Swiss-Prot
+P0CG40,SP9_HUMAN,SP9,Transcription factor Sp9,Homo sapiens (Human),reviewed,484,Swiss-Prot
+P0CW18,PRS56_HUMAN,PRSS56,Serine protease 56,Homo sapiens (Human),reviewed,603,Swiss-Prot
+O60281,ZN292_HUMAN,ZNF292,Zinc finger protein 292,Homo sapiens (Human),reviewed,2723,Swiss-Prot
+P40306,PSB10_HUMAN,PSMB10,Proteasome subunit beta type-10,Homo sapiens (Human),reviewed,273,Swiss-Prot
+Q13438,OS9_HUMAN,OS9,Protein OS-9,Homo sapiens (Human),reviewed,667,Swiss-Prot
+P01579,IFNG_HUMAN,IFNG,Interferon gamma,Homo sapiens (Human),reviewed,166,Swiss-Prot
+P08913,ADA2A_HUMAN,ADRA2A,Alpha-2A adrenergic receptor,Homo sapiens (Human),reviewed,465,Swiss-Prot
+P0DJD0,RGPD1_HUMAN,RGPD1,RANBP2-like and GRIP domain-containing protein 1,Homo sapiens (Human),reviewed,1748,Swiss-Prot
+P11309,PIM1_HUMAN,PIM1,Serine/threonine-protein kinase pim-1,Homo sapiens (Human),reviewed,313,Swiss-Prot
+A0A075B6K0,LV316_HUMAN,IGLV3-16,Immunoglobulin lambda variable 3-16,Homo sapiens (Human),reviewed,115,Swiss-Prot
+A0A075B6K2,LV312_HUMAN,IGLV3-12,Immunoglobulin lambda variable 3-12,Homo sapiens (Human),reviewed,115,Swiss-Prot
+Q05086-3,UBE3A_HUMAN,UBE3A,Isoform III of Ubiquitin-protein ligase E3A,Homo sapiens (Human),reviewed,872,Swiss-Prot
+P01568,IFN21_HUMAN,IFNA21,Interferon alpha-21,Homo sapiens (Human),reviewed,189,Swiss-Prot
+A6NNM3,RIM3B_HUMAN,RIMBP3B,RIMS-binding protein 3B,Homo sapiens (Human),reviewed,1639,Swiss-Prot
+P62280,RS11_HUMAN,RPS11,Small ribosomal subunit protein uS17,Homo sapiens (Human),reviewed,158,Swiss-Prot
+Q9BYW2,SETD2_HUMAN,SETD2,Histone-lysine N-methyltransferase SETD2,Homo sapiens (Human),reviewed,2564,Swiss-Prot
+P01854,IGHE_HUMAN,IGHE,Immunoglobulin heavy constant epsilon,Homo sapiens (Human),reviewed,546,Swiss-Prot
+O14944,EREG_HUMAN,EREG,Proepiregulin,Homo sapiens (Human),reviewed,169,Swiss-Prot
+P51784,UBP11_HUMAN,USP11,Ubiquitin carboxyl-terminal hydrolase 11,Homo sapiens (Human),reviewed,963,Swiss-Prot
+A0A075B6T8,TVA91_HUMAN,TRAV9-1,T cell receptor alpha variable 9-1,Homo sapiens (Human),reviewed,112,Swiss-Prot
+P00519,ABL1_HUMAN,ABL1,Tyrosine-protein kinase ABL1,Homo sapiens (Human),reviewed,1130,Swiss-Prot
+Q92847,GHSR_HUMAN,GHSR,Growth hormone secretagogue receptor type 1,Homo sapiens (Human),reviewed,366,Swiss-Prot
+O76083,PDE9A_HUMAN,PDE9A,"High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A",Homo sapiens (Human),reviewed,593,Swiss-Prot
+P13569,CFTR_HUMAN,CFTR,Cystic fibrosis transmembrane conductance regulator,Homo sapiens (Human),reviewed,1480,Swiss-Prot
+P16234,PGFRA_HUMAN,PDGFRA,Platelet-derived growth factor receptor alpha,Homo sapiens (Human),reviewed,1089,Swiss-Prot
+P62195,PRS8_HUMAN,PSMC5,26S proteasome regulatory subunit 8,Homo sapiens (Human),reviewed,406,Swiss-Prot
+P61803,DAD1_HUMAN,DAD1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit DAD1,Homo sapiens (Human),reviewed,113,Swiss-Prot
+P16871,IL7RA_HUMAN,IL7R,Interleukin-7 receptor subunit alpha,Homo sapiens (Human),reviewed,459,Swiss-Prot
+Q05655,KPCD_HUMAN,PRKCD,Protein kinase C delta type,Homo sapiens (Human),reviewed,676,Swiss-Prot
+P26951,IL3RA_HUMAN,IL3RA,Interleukin-3 receptor subunit alpha,Homo sapiens (Human),reviewed,378,Swiss-Prot
+P27540,ARNT_HUMAN,ARNT,Aryl hydrocarbon receptor nuclear translocator,Homo sapiens (Human),reviewed,789,Swiss-Prot
+Q13426,XRCC4_HUMAN,XRCC4,DNA repair protein XRCC4,Homo sapiens (Human),reviewed,336,Swiss-Prot
+P01611,KVD12_HUMAN,IGKV1D-12,Immunoglobulin kappa variable 1D-12,Homo sapiens (Human),reviewed,117,Swiss-Prot
+A0A087WSY4,HV432_HUMAN,IGHV4-30-2,Immunoglobulin heavy variable 4-30-2,Homo sapiens (Human),reviewed,118,Swiss-Prot
+P41146,OPRX_HUMAN,OPRL1,Nociceptin receptor,Homo sapiens (Human),reviewed,370,Swiss-Prot
+P01375,TNFA_HUMAN,TNF,Tumor necrosis factor,Homo sapiens (Human),reviewed,233,Swiss-Prot
+P51617,IRAK1_HUMAN,IRAK1,Interleukin-1 receptor-associated kinase 1,Homo sapiens (Human),reviewed,712,Swiss-Prot
+A6PVC2,TTLL8_HUMAN,TTLL8,Protein monoglycylase TTLL8,Homo sapiens (Human),reviewed,850,Swiss-Prot
+A0A075B767,PAL4H_HUMAN,PPIAL4H,Peptidyl-prolyl cis-trans isomerase A-like 4H,Homo sapiens (Human),reviewed,164,Swiss-Prot
+A6NC13,A6NC13_HUMAN,CCDC169,Coiled-coil domain-containing protein 169,Homo sapiens (Human),unreviewed,219,TrEMBL
+Q9UBN7,HDAC6_HUMAN,HDAC6,Protein deacetylase HDAC6,Homo sapiens (Human),reviewed,1215,Swiss-Prot
+P51674,GPM6A_HUMAN,GPM6A,Neuronal membrane glycoprotein M6-a,Homo sapiens (Human),reviewed,278,Swiss-Prot
+P27707,DCK_HUMAN,DCK,Deoxycytidine kinase,Homo sapiens (Human),reviewed,260,Swiss-Prot
+P0CV99,TSPY4_HUMAN,TSPY4,Testis-specific Y-encoded protein 4,Homo sapiens (Human),reviewed,314,Swiss-Prot
+P01767,HV353_HUMAN,IGHV3-53,Immunoglobulin heavy variable 3-53,Homo sapiens (Human),reviewed,116,Swiss-Prot
+P21397,AOFA_HUMAN,MAOA,Amine oxidase [flavin-containing] A,Homo sapiens (Human),reviewed,527,Swiss-Prot
+Q5NUL3,FFAR4_HUMAN,FFAR4,Free fatty acid receptor 4,Homo sapiens (Human),reviewed,361,Swiss-Prot
+O76090,BEST1_HUMAN,BEST1,Bestrophin-1,Homo sapiens (Human),reviewed,585,Swiss-Prot
+P41143,OPRD_HUMAN,OPRD1,Delta-type opioid receptor,Homo sapiens (Human),reviewed,372,Swiss-Prot
+P26641,EF1G_HUMAN,EEF1G,Elongation factor 1-gamma,Homo sapiens (Human),reviewed,437,Swiss-Prot
+P47989,XDH_HUMAN,XDH,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),reviewed,1333,Swiss-Prot
+P78536,ADA17_HUMAN,ADAM17,Disintegrin and metalloproteinase domain-containing protein 17,Homo sapiens (Human),reviewed,824,Swiss-Prot
+P01567,IFNA7_HUMAN,IFNA7,Interferon alpha-7,Homo sapiens (Human),reviewed,189,Swiss-Prot
+P01594,KV133_HUMAN,IGKV1-33,Immunoglobulin kappa variable 1-33,Homo sapiens (Human),reviewed,117,Swiss-Prot
+Q9Y2T6,GPR55_HUMAN,GPR55,G protein-coupled receptor 55,Homo sapiens (Human),reviewed,319,Swiss-Prot
+P51649,SSDH_HUMAN,ALDH5A1,"Succinate-semialdehyde dehydrogenase, mitochondrial",Homo sapiens (Human),reviewed,535,Swiss-Prot
+P15121,ALDR_HUMAN,AKR1B1,Aldo-keto reductase family 1 member B1,Homo sapiens (Human),reviewed,316,Swiss-Prot
+P41002,CCNF_HUMAN,CCNF,Cyclin-F,Homo sapiens (Human),reviewed,786,Swiss-Prot
+A0A024RBG1,NUD4B_HUMAN,NUDT4B,Diphosphoinositol polyphosphate phosphohydrolase NUDT4B,Homo sapiens (Human),reviewed,181,Swiss-Prot
+A0A075B6L2,TVG11_HUMAN,TRGV11,Probable non-functional T cell receptor gamma variable 11,Homo sapiens (Human),reviewed,119,Swiss-Prot
+P01732,CD8A_HUMAN,CD8A,T-cell surface glycoprotein CD8 alpha chain,Homo sapiens (Human),reviewed,235,Swiss-Prot
+P04035,HMDH_HUMAN,HMGCR,3-hydroxy-3-methylglutaryl-coenzyme A reductase,Homo sapiens (Human),reviewed,888,Swiss-Prot
+P61960,UFM1_HUMAN,UFM1,Ubiquitin-fold modifier 1,Homo sapiens (Human),reviewed,85,Swiss-Prot
+Q9GZQ4,NMUR2_HUMAN,NMUR2,Neuromedin-U receptor 2,Homo sapiens (Human),reviewed,415,Swiss-Prot
+P30530,UFO_HUMAN,AXL,Tyrosine-protein kinase receptor UFO,Homo sapiens (Human),reviewed,894,Swiss-Prot
+P01275,GLUC_HUMAN,GCG,Pro-glucagon,Homo sapiens (Human),reviewed,180,Swiss-Prot
+P53778,MK12_HUMAN,MAPK12,Mitogen-activated protein kinase 12,Homo sapiens (Human),reviewed,367,Swiss-Prot
+P01350,GAST_HUMAN,GAST,Gastrin,Homo sapiens (Human),reviewed,101,Swiss-Prot
+P01764,HV323_HUMAN,IGHV3-23,Immunoglobulin heavy variable 3-23,Homo sapiens (Human),reviewed,117,Swiss-Prot
+P01574,IFNB_HUMAN,IFNB1,Interferon beta,Homo sapiens (Human),reviewed,187,Swiss-Prot
+Q05397,FAK1_HUMAN,PTK2,Focal adhesion kinase 1,Homo sapiens (Human),reviewed,1052,Swiss-Prot
+A6NNL0,NTM2B_HUMAN,NUTM2B,NUT family member 2B,Homo sapiens (Human),reviewed,878,Swiss-Prot
+P0DJD7,PEPA4_HUMAN,PGA4,Pepsin A-4,Homo sapiens (Human),reviewed,388,Swiss-Prot
+O76062,ERG24_HUMAN,TM7SF2,Delta(14)-sterol reductase TM7SF2,Homo sapiens (Human),reviewed,418,Swiss-Prot
+P01824,HV439_HUMAN,IGHV4-39,Immunoglobulin heavy variable 4-39,Homo sapiens (Human),reviewed,125,Swiss-Prot
+Q8NBP7,PCSK9_HUMAN,PCSK9,Proprotein convertase subtilisin/kexin type 9,Homo sapiens (Human),reviewed,692,Swiss-Prot
+Q06141,REG3A_HUMAN,REG3A,Regenerating islet-derived protein 3-alpha,Homo sapiens (Human),reviewed,175,Swiss-Prot
+Q13490,BIRC2_HUMAN,BIRC2,Baculoviral IAP repeat-containing protein 2,Homo sapiens (Human),reviewed,618,Swiss-Prot
+P27708,PYR1_HUMAN,CAD,Multifunctional protein CAD,Homo sapiens (Human),reviewed,2225,Swiss-Prot
+A0A087WT02,TVA92_HUMAN,TRAV9-2,T cell receptor alpha variable 9-2,Homo sapiens (Human),reviewed,112,Swiss-Prot
+Q15057,ACAP2_HUMAN,ACAP2,"Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2",Homo sapiens (Human),reviewed,778,Swiss-Prot
+Q9H2X6,HIPK2_HUMAN,HIPK2,Homeodomain-interacting protein kinase 2,Homo sapiens (Human),reviewed,1198,Swiss-Prot
+O60336,MABP1_HUMAN,MAPKBP1,Mitogen-activated protein kinase-binding protein 1,Homo sapiens (Human),reviewed,1514,Swiss-Prot
+P01768,HV330_HUMAN,IGHV3-30,Immunoglobulin heavy variable 3-30,Homo sapiens (Human),reviewed,117,Swiss-Prot
+A0A087WSX0,LV545_HUMAN,IGLV5-45,Immunoglobulin lambda variable 5-45,Homo sapiens (Human),reviewed,123,Swiss-Prot
+A6NNZ2,TBB8B_HUMAN,TUBB8B,Tubulin beta 8B,Homo sapiens (Human),reviewed,444,Swiss-Prot
+O14936,CSKP_HUMAN,CASK,Peripheral plasma membrane protein CASK,Homo sapiens (Human),reviewed,926,Swiss-Prot
+P08581,MET_HUMAN,MET,Hepatocyte growth factor receptor,Homo sapiens (Human),reviewed,1390,Swiss-Prot
+P01714,LV319_HUMAN,IGLV3-19,Immunoglobulin lambda variable 3-19,Homo sapiens (Human),reviewed,112,Swiss-Prot
+O14901,KLF11_HUMAN,KLF11,Krueppel-like factor 11,Homo sapiens (Human),reviewed,512,Swiss-Prot
+P51684,CCR6_HUMAN,CCR6,C-C chemokine receptor type 6,Homo sapiens (Human),reviewed,374,Swiss-Prot
+A4FU41,A4FU41_HUMAN,ABTB3,Ankyrin repeat- and BTB/POZ domain-containing protein 3,Homo sapiens (Human),unreviewed,1109,TrEMBL
+P01704,LV214_HUMAN,IGLV2-14,Immunoglobulin lambda variable 2-14,Homo sapiens (Human),reviewed,120,Swiss-Prot
+A6XGL0,YJEN3_HUMAN,YJEFN3,YjeF N-terminal domain-containing protein 3,Homo sapiens (Human),reviewed,299,Swiss-Prot
+O60248,SOX15_HUMAN,SOX15,Transcription factor SOX-15,Homo sapiens (Human),reviewed,233,Swiss-Prot
+Q9Y463,DYR1B_HUMAN,DYRK1B,Dual specificity tyrosine-phosphorylation-regulated kinase 1B,Homo sapiens (Human),reviewed,629,Swiss-Prot
+Q05901,ACHB3_HUMAN,CHRNB3,Neuronal acetylcholine receptor subunit beta-3,Homo sapiens (Human),reviewed,458,Swiss-Prot
+O14905,WNT9B_HUMAN,WNT9B,Protein Wnt-9b,Homo sapiens (Human),reviewed,357,Swiss-Prot
+O76082,S22A5_HUMAN,SLC22A5,Organic cation/carnitine transporter 2,Homo sapiens (Human),reviewed,557,Swiss-Prot
+A7MCY6,TBKB1_HUMAN,TBKBP1,TANK-binding kinase 1-binding protein 1,Homo sapiens (Human),reviewed,615,Swiss-Prot
+P03952,KLKB1_HUMAN,KLKB1,Plasma kallikrein,Homo sapiens (Human),reviewed,638,Swiss-Prot
+O95665,NTR2_HUMAN,NTSR2,Neurotensin receptor type 2,Homo sapiens (Human),reviewed,410,Swiss-Prot
+P0CI25,TRI49_HUMAN,TRIM49,Tripartite motif-containing protein 49,Homo sapiens (Human),reviewed,452,Swiss-Prot
+Q06265,EXOS9_HUMAN,EXOSC9,Exosome complex component RRP45,Homo sapiens (Human),reviewed,439,Swiss-Prot
+Q14164,IKKE_HUMAN,IKBKE,Inhibitor of nuclear factor kappa-B kinase subunit epsilon,Homo sapiens (Human),reviewed,716,Swiss-Prot
+A8K7I4,CLCA1_HUMAN,CLCA1,Calcium-activated chloride channel regulator 1,Homo sapiens (Human),reviewed,914,Swiss-Prot
+P01743,HV146_HUMAN,IGHV1-46,Immunoglobulin heavy variable 1-46,Homo sapiens (Human),reviewed,117,Swiss-Prot
+Q13492,PICAL_HUMAN,PICALM,Phosphatidylinositol-binding clathrin assembly protein,Homo sapiens (Human),reviewed,652,Swiss-Prot
+P0DJI9,SAA2_HUMAN,SAA2,Serum amyloid A-2 protein,Homo sapiens (Human),reviewed,122,Swiss-Prot
+A7XYQ1,SOBP_HUMAN,SOBP,Sine oculis-binding protein homolog,Homo sapiens (Human),reviewed,873,Swiss-Prot
+O60294,TYW4_HUMAN,LCMT2,tRNA wybutosine-synthesizing protein 4,Homo sapiens (Human),reviewed,686,Swiss-Prot
+Q13627,DYR1A_HUMAN,DYRK1A,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,Homo sapiens (Human),reviewed,763,Swiss-Prot
+Q01959,SC6A3_HUMAN,SLC6A3,Sodium-dependent dopamine transporter,Homo sapiens (Human),reviewed,620,Swiss-Prot
+P62318,SMD3_HUMAN,SNRPD3,Small nuclear ribonucleoprotein Sm D3,Homo sapiens (Human),reviewed,126,Swiss-Prot
+P61923,COPZ1_HUMAN,COPZ1,Coatomer subunit zeta-1,Homo sapiens (Human),reviewed,177,Swiss-Prot
+Q05823,RN5A_HUMAN,RNASEL,2-5A-dependent ribonuclease,Homo sapiens (Human),reviewed,741,Swiss-Prot
+O60309,L37A3_HUMAN,LRRC37A3,Leucine-rich repeat-containing protein 37A3,Homo sapiens (Human),reviewed,1634,Swiss-Prot
+P29317,EPHA2_HUMAN,EPHA2,Ephrin type-A receptor 2,Homo sapiens (Human),reviewed,976,Swiss-Prot
+P40763,STAT3_HUMAN,STAT3,Signal transducer and activator of transcription 3,Homo sapiens (Human),reviewed,770,Swiss-Prot
+P10828,THB_HUMAN,THRB,Thyroid hormone receptor beta,Homo sapiens (Human),reviewed,461,Swiss-Prot
+Q9NTG7,SIR3_HUMAN,SIRT3,"NAD-dependent protein deacetylase sirtuin-3, mitochondrial",Homo sapiens (Human),reviewed,399,Swiss-Prot
+P51786,ZN157_HUMAN,ZNF157,Zinc finger protein 157,Homo sapiens (Human),reviewed,506,Swiss-Prot
+P11473,VDR_HUMAN,VDR,Vitamin D3 receptor,Homo sapiens (Human),reviewed,427,Swiss-Prot
+A6NP61,ZAR1L_HUMAN,ZAR1L,Protein ZAR1-like,Homo sapiens (Human),reviewed,321,Swiss-Prot
+A0A075B6I1,LV460_HUMAN,IGLV4-60,Immunoglobulin lambda variable 4-60,Homo sapiens (Human),reviewed,120,Swiss-Prot
+P41220,RGS2_HUMAN,RGS2,Regulator of G protein signaling 2,Homo sapiens (Human),reviewed,211,Swiss-Prot
+P00533,EGFR_HUMAN,EGFR,Epidermal growth factor receptor,Homo sapiens (Human),reviewed,1210,Swiss-Prot
+P04637,P53_HUMAN,TP53,Cellular tumor antigen p53,Homo sapiens (Human),reviewed,393,Swiss-Prot
+P27695,APEX1_HUMAN,APEX1,DNA repair nuclease/redox regulator APEX1,Homo sapiens (Human),reviewed,318,Swiss-Prot
+P16473,TSHR_HUMAN,TSHR,Thyrotropin receptor,Homo sapiens (Human),reviewed,764,Swiss-Prot
+A0A087WV62,TVB16_HUMAN,TRBV16,T cell receptor beta variable 16,Homo sapiens (Human),reviewed,115,Swiss-Prot
+O14931,NCTR3_HUMAN,NCR3,Natural cytotoxicity triggering receptor 3,Homo sapiens (Human),reviewed,201,Swiss-Prot
+P25440,BRD2_HUMAN,BRD2,Bromodomain-containing protein 2,Homo sapiens (Human),reviewed,801,Swiss-Prot
+Q06033,ITIH3_HUMAN,ITIH3,Inter-alpha-trypsin inhibitor heavy chain H3,Homo sapiens (Human),reviewed,890,Swiss-Prot
+O14929,HAT1_HUMAN,HAT1,Histone acetyltransferase type B catalytic subunit,Homo sapiens (Human),reviewed,419,Swiss-Prot
+A8K2U0,A2ML1_HUMAN,A2ML1,Alpha-2-macroglobulin-like protein 1,Homo sapiens (Human),reviewed,1454,Swiss-Prot
+Q96RI1,NR1H4_HUMAN,NR1H4,Bile acid receptor,Homo sapiens (Human),reviewed,486,Swiss-Prot
+P40938,RFC3_HUMAN,RFC3,Replication factor C subunit 3,Homo sapiens (Human),reviewed,356,Swiss-Prot
+P07900,HS90A_HUMAN,HSP90AA1,Heat shock protein HSP 90-alpha,Homo sapiens (Human),reviewed,732,Swiss-Prot
+Q05923,DUSP2_HUMAN,DUSP2,Dual specificity protein phosphatase 2,Homo sapiens (Human),reviewed,314,Swiss-Prot
+P01270,PTHY_HUMAN,PTH,Parathyroid hormone,Homo sapiens (Human),reviewed,115,Swiss-Prot
+O43526,KCNQ2_HUMAN,KCNQ2,Potassium voltage-gated channel subfamily KQT member 2,Homo sapiens (Human),reviewed,872,Swiss-Prot
+O60296,TRAK2_HUMAN,TRAK2,Trafficking kinesin-binding protein 2,Homo sapiens (Human),reviewed,914,Swiss-Prot
+P16220,CREB1_HUMAN,CREB1,Cyclic AMP-responsive element-binding protein 1,Homo sapiens (Human),reviewed,327,Swiss-Prot
+O14842,FFAR1_HUMAN,FFAR1,Free fatty acid receptor 1,Homo sapiens (Human),reviewed,300,Swiss-Prot
+O14828,SCAM3_HUMAN,SCAMP3,Secretory carrier-associated membrane protein 3,Homo sapiens (Human),reviewed,347,Swiss-Prot
+A0A0A0MS00,LV332_HUMAN,IGLV3-32,Probable non-functional immunoglobulin lambda variable 3-32,Homo sapiens (Human),reviewed,114,Swiss-Prot
+P61970,NTF2_HUMAN,NUTF2,Nuclear transport factor 2,Homo sapiens (Human),reviewed,127,Swiss-Prot
+P53779,MK10_HUMAN,MAPK10,Mitogen-activated protein kinase 10,Homo sapiens (Human),reviewed,464,Swiss-Prot
+A6NNT2,CP096_HUMAN,C16orf96,Uncharacterized protein C16orf96,Homo sapiens (Human),reviewed,1141,Swiss-Prot
+P41222,PTGDS_HUMAN,PTGDS,Prostaglandin-H2 D-isomerase,Homo sapiens (Human),reviewed,190,Swiss-Prot
+P01619,KV320_HUMAN,IGKV3-20,Immunoglobulin kappa variable 3-20,Homo sapiens (Human),reviewed,116,Swiss-Prot
+P01591,IGJ_HUMAN,JCHAIN,Immunoglobulin J chain,Homo sapiens (Human),reviewed,159,Swiss-Prot
+Q92731,ESR2_HUMAN,ESR2,Estrogen receptor beta,Homo sapiens (Human),reviewed,530,Swiss-Prot
+P43405,KSYK_HUMAN,SYK,Tyrosine-protein kinase SYK,Homo sapiens (Human),reviewed,635,Swiss-Prot
+O60304,ZN500_HUMAN,ZNF500,Zinc finger protein 500,Homo sapiens (Human),reviewed,480,Swiss-Prot
+P62312,LSM6_HUMAN,LSM6,U6 snRNA-associated Sm-like protein LSm6,Homo sapiens (Human),reviewed,80,Swiss-Prot
+Q13491,GPM6B_HUMAN,GPM6B,Neuronal membrane glycoprotein M6-b,Homo sapiens (Human),reviewed,265,Swiss-Prot
+Q9BY41,HDAC8_HUMAN,HDAC8,Histone deacetylase 8,Homo sapiens (Human),reviewed,377,Swiss-Prot
+A0A075B6H9,LV469_HUMAN,IGLV4-69,Immunoglobulin lambda variable 4-69,Homo sapiens (Human),reviewed,119,Swiss-Prot
+P40305,IFI27_HUMAN,IFI27,"Interferon alpha-inducible protein 27, mitochondrial",Homo sapiens (Human),reviewed,122,Swiss-Prot
+P51808,DYLT3_HUMAN,DYNLT3,Dynein light chain Tctex-type 3,Homo sapiens (Human),reviewed,116,Swiss-Prot
+O76041,NEBL_HUMAN,NEBL,Nebulette,Homo sapiens (Human),reviewed,1014,Swiss-Prot
+Q05516,ZBT16_HUMAN,ZBTB16,Zinc finger and BTB domain-containing protein 16,Homo sapiens (Human),reviewed,673,Swiss-Prot
+A7E2Y1,MYH7B_HUMAN,MYH7B,Myosin-7B,Homo sapiens (Human),reviewed,1983,Swiss-Prot
+P16444,DPEP1_HUMAN,DPEP1,Dipeptidase 1,Homo sapiens (Human),reviewed,411,Swiss-Prot
+P51790,CLCN3_HUMAN,CLCN3,H(+)/Cl(-) exchange transporter 3,Homo sapiens (Human),reviewed,818,Swiss-Prot
+Q9Y233,PDE10_HUMAN,PDE10A,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",Homo sapiens (Human),reviewed,1055,Swiss-Prot
+O14874,BCKD_HUMAN,BCKDK,Branched-chain alpha-ketoacid dehydrogenase kinase,Homo sapiens (Human),reviewed,412,Swiss-Prot
+O14920,IKKB_HUMAN,IKBKB,Inhibitor of nuclear factor kappa-B kinase subunit beta,Homo sapiens (Human),reviewed,756,Swiss-Prot
+P09874,PARP1_HUMAN,PARP1,Poly [ADP-ribose] polymerase 1,Homo sapiens (Human),reviewed,1014,Swiss-Prot
+P0CH98,F106C_HUMAN,FAM106C,Protein FAM106C,Homo sapiens (Human),reviewed,169,Swiss-Prot
+P16442,BGAT_HUMAN,ABO,Histo-blood group ABO system transferase,Homo sapiens (Human),reviewed,354,Swiss-Prot
+P04626,ERBB2_HUMAN,ERBB2,Receptor tyrosine-protein kinase erbB-2,Homo sapiens (Human),reviewed,1255,Swiss-Prot
+P51788,CLCN2_HUMAN,CLCN2,Chloride channel protein 2,Homo sapiens (Human),reviewed,898,Swiss-Prot
+A0A0A0MRZ9,LV552_HUMAN,IGLV5-52,Immunoglobulin lambda variable 5-52,Homo sapiens (Human),reviewed,124,Swiss-Prot
+O76095,JTB_HUMAN,JTB,Protein JTB,Homo sapiens (Human),reviewed,146,Swiss-Prot
+P10415,BCL2_HUMAN,BCL2,Apoptosis regulator Bcl-2,Homo sapiens (Human),reviewed,239,Swiss-Prot
+Q9P1W9,PIM2_HUMAN,PIM2,Serine/threonine-protein kinase pim-2,Homo sapiens (Human),reviewed,311,Swiss-Prot
+B3KXG3,B3KXG3_HUMAN,ABTB3,Ankyrin repeat- and BTB/POZ domain-containing protein 3,Homo sapiens (Human),unreviewed,1109,TrEMBL
+P16452,EPB42_HUMAN,EPB42,Protein 4.2,Homo sapiens (Human),reviewed,691,Swiss-Prot
+A6PVL3,KNCN_HUMAN,KNCN,Kinocilin,Homo sapiens (Human),reviewed,124,Swiss-Prot
+P01599,KV117_HUMAN,IGKV1-17,Immunoglobulin kappa variable 1-17,Homo sapiens (Human),reviewed,117,Swiss-Prot
+Q15121,PEA15_HUMAN,PEA15,Astrocytic phosphoprotein PEA-15,Homo sapiens (Human),reviewed,130,Swiss-Prot
+A0A087WXS9,TBC3I_HUMAN,TBC1D3I,TBC1 domain family member 3I,Homo sapiens (Human),reviewed,549,Swiss-Prot
+Q15109,RAGE_HUMAN,AGER,Advanced glycation end product-specific receptor,Homo sapiens (Human),reviewed,404,Swiss-Prot
+P01817,HV205_HUMAN,IGHV2-5,Immunoglobulin heavy variable 2-5,Homo sapiens (Human),reviewed,119,Swiss-Prot
+P01562,P01562_HUMAN,IFNA13,Interferon alpha-13,Homo sapiens (Human),unreviewed,195,TrEMBL
+Q99683,M3K5_HUMAN,MAP3K5,Mitogen-activated protein kinase kinase kinase 5,Homo sapiens (Human),reviewed,1374,Swiss-Prot
+P26717,NKG2C_HUMAN,KLRC2,NKG2-C type II integral membrane protein,Homo sapiens (Human),reviewed,231,Swiss-Prot
+A5JW41,A5JW41_HUMAN,HNF4A,Hepatocyte nuclear factor 4-alpha,Homo sapiens (Human),unreviewed,479,TrEMBL
+P26436,ASPX_HUMAN,ACRV1,Acrosomal protein SP-10,Homo sapiens (Human),reviewed,265,Swiss-Prot
+P19793,RXRA_HUMAN,RXRA,Retinoic acid receptor RXR-alpha,Homo sapiens (Human),reviewed,462,Swiss-Prot
+D4Q9M8,D4Q9M8_HUMAN,IFNA13,Interferon alpha-13,Homo sapiens (Human),unreviewed,195,TrEMBL
+A0A075B6I6,LV150_HUMAN,IGLV1-50,Probable non-functional immunoglobulin lambda variable 1-50,Homo sapiens (Human),reviewed,118,Swiss-Prot
+P01706,LV211_HUMAN,IGLV2-11,Immunoglobulin lambda variable 2-11,Homo sapiens (Human),reviewed,119,Swiss-Prot
+P01859,IGHG2_HUMAN,IGHG2,Immunoglobulin heavy constant gamma 2,Homo sapiens (Human),reviewed,395,Swiss-Prot
+O76011,KRT34_HUMAN,KRT34,"Keratin, type I cuticular Ha4",Homo sapiens (Human),reviewed,394,Swiss-Prot
+O60292,SI1L3_HUMAN,SIPA1L3,Signal-induced proliferation-associated 1-like protein 3,Homo sapiens (Human),reviewed,1781,Swiss-Prot
+P51610,HCFC1_HUMAN,HCFC1,Host cell factor 1,Homo sapiens (Human),reviewed,2035,Swiss-Prot
+P31639,SC5A2_HUMAN,SLC5A2,Sodium/glucose cotransporter 2,Homo sapiens (Human),reviewed,672,Swiss-Prot
+Q13434,MKRN4_HUMAN,MKRN4P,Putative E3 ubiquitin-protein ligase makorin-4,Homo sapiens (Human),reviewed,485,Swiss-Prot
+P16403,H12_HUMAN,H1-2,Histone H1.2,Homo sapiens (Human),reviewed,213,Swiss-Prot
+A0A075B734,AQP7B_HUMAN,AQP7B,Putative aquaporin-7B,Homo sapiens (Human),reviewed,346,Swiss-Prot
+O60269,GRIN2_HUMAN,GPRIN2,G protein-regulated inducer of neurite outgrowth 2,Homo sapiens (Human),reviewed,458,Swiss-Prot
+O76042,ERIT1_HUMAN,ERC2-IT1,Putative uncharacterized protein encoded by ERC2-IT1,Homo sapiens (Human),reviewed,136,Swiss-Prot
+P26441,CNTF_HUMAN,CNTF,Ciliary neurotrophic factor,Homo sapiens (Human),reviewed,200,Swiss-Prot
+P01286,SLIB_HUMAN,GHRH,Somatoliberin,Homo sapiens (Human),reviewed,108,Swiss-Prot
+P08922,ROS1_HUMAN,ROS1,Proto-oncogene tyrosine-protein kinase ROS,Homo sapiens (Human),reviewed,2347,Swiss-Prot
+P27448,MARK3_HUMAN,MARK3,MAP/microtubule affinity-regulating kinase 3,Homo sapiens (Human),reviewed,753,Swiss-Prot
+A8K4G0,CLM7_HUMAN,CD300LB,CMRF35-like molecule 7,Homo sapiens (Human),reviewed,201,Swiss-Prot
+P16435,NCPR_HUMAN,POR,NADPH--cytochrome P450 reductase,Homo sapiens (Human),reviewed,677,Swiss-Prot
+P07711,CATL1_HUMAN,CTSL,Procathepsin L,Homo sapiens (Human),reviewed,333,Swiss-Prot
+P51668,UB2D1_HUMAN,UBE2D1,Ubiquitin-conjugating enzyme E2 D1,Homo sapiens (Human),reviewed,147,Swiss-Prot
+O60306,AQR_HUMAN,AQR,RNA helicase aquarius,Homo sapiens (Human),reviewed,1485,Swiss-Prot
+A0A087WT01,TVA27_HUMAN,TRAV27,T cell receptor alpha variable 27,Homo sapiens (Human),reviewed,109,Swiss-Prot
+O75964,ATP5L_HUMAN,ATP5MG,"ATP synthase F(0) complex subunit g, mitochondrial",Homo sapiens (Human),reviewed,103,Swiss-Prot
+P04629,NTRK1_HUMAN,NTRK1,High affinity nerve growth factor receptor,Homo sapiens (Human),reviewed,796,Swiss-Prot
+A0A0A0MS14,HV145_HUMAN,IGHV1-45,Immunoglobulin heavy variable 1-45,Homo sapiens (Human),reviewed,117,Swiss-Prot
+Q13546,RIPK1_HUMAN,RIPK1,Receptor-interacting serine/threonine-protein kinase 1,Homo sapiens (Human),reviewed,671,Swiss-Prot
+P61619,S61A1_HUMAN,SEC61A1,Protein transport protein Sec61 subunit alpha isoform 1,Homo sapiens (Human),reviewed,476,Swiss-Prot
+P41218,MNDA_HUMAN,MNDA,Myeloid cell nuclear differentiation antigen,Homo sapiens (Human),reviewed,407,Swiss-Prot
+P26373,RL13_HUMAN,RPL13,Large ribosomal subunit protein eL13,Homo sapiens (Human),reviewed,211,Swiss-Prot
+Q13432,U119A_HUMAN,UNC119,Protein unc-119 homolog A,Homo sapiens (Human),reviewed,240,Swiss-Prot
+P51671,CCL11_HUMAN,CCL11,Eotaxin,Homo sapiens (Human),reviewed,97,Swiss-Prot
+P01597,KV139_HUMAN,IGKV1-39,Immunoglobulin kappa variable 1-39,Homo sapiens (Human),reviewed,117,Swiss-Prot
+Q13422-3,IKZF1_HUMAN,IKZF1,Isoform Ik3 of DNA-binding protein Ikaros,Homo sapiens (Human),reviewed,432,Swiss-Prot
+P26374,RAE2_HUMAN,CHML,Rab proteins geranylgeranyltransferase component A 2,Homo sapiens (Human),reviewed,656,Swiss-Prot
+A8K5M9,CO062_HUMAN,C15orf62,"Uncharacterized protein C15orf62, mitochondrial",Homo sapiens (Human),reviewed,175,Swiss-Prot
+A8K554,ZN815_HUMAN,ZNF815P,Putative protein ZNF815,Homo sapiens (Human),reviewed,130,Swiss-Prot
+P27216,ANX13_HUMAN,ANXA13,Annexin A13,Homo sapiens (Human),reviewed,316,Swiss-Prot
+O14908,GIPC1_HUMAN,GIPC1,PDZ domain-containing protein GIPC1,Homo sapiens (Human),reviewed,333,Swiss-Prot
+P26992,CNTFR_HUMAN,CNTFR,Ciliary neurotrophic factor receptor subunit alpha,Homo sapiens (Human),reviewed,372,Swiss-Prot
+O76014,KRT37_HUMAN,KRT37,"Keratin, type I cuticular Ha7",Homo sapiens (Human),reviewed,449,Swiss-Prot
+P61962,DCAF7_HUMAN,DCAF7,DDB1- and CUL4-associated factor 7,Homo sapiens (Human),reviewed,342,Swiss-Prot
+A0A0A0MT36,KVD21_HUMAN,IGKV6D-21,Immunoglobulin kappa variable 6D-21,Homo sapiens (Human),reviewed,114,Swiss-Prot
+A0A075B6K5,LV39_HUMAN,IGLV3-9,Immunoglobulin lambda variable 3-9,Homo sapiens (Human),reviewed,115,Swiss-Prot
+O14829,PPE1_HUMAN,PPEF1,Serine/threonine-protein phosphatase with EF-hands 1,Homo sapiens (Human),reviewed,653,Swiss-Prot
+P51648,AL3A2_HUMAN,ALDH3A2,Aldehyde dehydrogenase family 3 member A2,Homo sapiens (Human),reviewed,485,Swiss-Prot
+A0A087WWS6,IFNAD_HUMAN,IFNA13,Interferon alpha-13,Homo sapiens (Human),reviewed,190,Swiss-Prot
+P62249,RS16_HUMAN,RPS16,Small ribosomal subunit protein uS9,Homo sapiens (Human),reviewed,146,Swiss-Prot
+P41180,CASR_HUMAN,CASR,Extracellular calcium-sensing receptor,Homo sapiens (Human),reviewed,1078,Swiss-Prot
+P16520,GBB3_HUMAN,GNB3,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3,Homo sapiens (Human),reviewed,340,Swiss-Prot
+P16885,PLCG2_HUMAN,PLCG2,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2",Homo sapiens (Human),reviewed,1265,Swiss-Prot
+Q13487,SNPC2_HUMAN,SNAPC2,snRNA-activating protein complex subunit 2,Homo sapiens (Human),reviewed,334,Swiss-Prot
+O75962,TRIO_HUMAN,TRIO,Triple functional domain protein,Homo sapiens (Human),reviewed,3097,Swiss-Prot
+P09917,LOX5_HUMAN,ALOX5,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),reviewed,674,Swiss-Prot
+P41229,KDM5C_HUMAN,KDM5C,Lysine-specific demethylase 5C,Homo sapiens (Human),reviewed,1560,Swiss-Prot
+Q02127,PYRD_HUMAN,DHODH,"Dihydroorotate dehydrogenase (quinone), mitochondrial",Homo sapiens (Human),reviewed,395,Swiss-Prot
+Q99572,P2RX7_HUMAN,P2RX7,P2X purinoceptor 7,Homo sapiens (Human),reviewed,595,Swiss-Prot
+P16389,KCNA2_HUMAN,KCNA2,Potassium voltage-gated channel subfamily A member 2,Homo sapiens (Human),reviewed,499,Swiss-Prot
+P51681,CCR5_HUMAN,CCR5,C-C chemokine receptor type 5,Homo sapiens (Human),reviewed,352,Swiss-Prot
+P0CL85,ST3L3_HUMAN,STAG3L3,STAG3-like protein 3,Homo sapiens (Human),reviewed,134,Swiss-Prot
+Q05209,PTN12_HUMAN,PTPN12,Tyrosine-protein phosphatase non-receptor type 12,Homo sapiens (Human),reviewed,780,Swiss-Prot
+P01699,LV144_HUMAN,IGLV1-44,Immunoglobulin lambda variable 1-44,Homo sapiens (Human),reviewed,117,Swiss-Prot
+P16860,ANFB_HUMAN,NPPB,Natriuretic peptides B,Homo sapiens (Human),reviewed,134,Swiss-Prot
+O60291,MGRN1_HUMAN,MGRN1,E3 ubiquitin-protein ligase MGRN1,Homo sapiens (Human),reviewed,552,Swiss-Prot
+P0DJD8,PEPA3_HUMAN,PGA3,Pepsin A-3,Homo sapiens (Human),reviewed,388,Swiss-Prot
+O60282,KIF5C_HUMAN,KIF5C,Kinesin heavy chain isoform 5C,Homo sapiens (Human),reviewed,957,Swiss-Prot
+P62081,RS7_HUMAN,RPS7,Small ribosomal subunit protein eS7,Homo sapiens (Human),reviewed,194,Swiss-Prot
+Q99835,SMO_HUMAN,SMO,Protein smoothened,Homo sapiens (Human),reviewed,787,Swiss-Prot
+P14780,MMP9_HUMAN,MMP9,Matrix metalloproteinase-9,Homo sapiens (Human),reviewed,707,Swiss-Prot
+P62166,NCS1_HUMAN,NCS1,Neuronal calcium sensor 1,Homo sapiens (Human),reviewed,190,Swiss-Prot
+A1A4S6,RHG10_HUMAN,ARHGAP10,Rho GTPase-activating protein 10,Homo sapiens (Human),reviewed,786,Swiss-Prot
+Q15075,EEA1_HUMAN,EEA1,Early endosome antigen 1,Homo sapiens (Human),reviewed,1411,Swiss-Prot
+A6QL64,AN36A_HUMAN,ANKRD36,Ankyrin repeat domain-containing protein 36A,Homo sapiens (Human),reviewed,1915,Swiss-Prot
+P51955,NEK2_HUMAN,NEK2,Serine/threonine-protein kinase Nek2,Homo sapiens (Human),reviewed,445,Swiss-Prot
+P26367,PAX6_HUMAN,PAX6,Paired box protein Pax-6,Homo sapiens (Human),reviewed,422,Swiss-Prot
+Q58F21,BRDT_HUMAN,BRDT,Bromodomain testis-specific protein,Homo sapiens (Human),reviewed,947,Swiss-Prot
+P40424,PBX1_HUMAN,PBX1,Pre-B-cell leukemia transcription factor 1,Homo sapiens (Human),reviewed,430,Swiss-Prot
+P61966,AP1S1_HUMAN,AP1S1,AP-1 complex subunit sigma-1A,Homo sapiens (Human),reviewed,158,Swiss-Prot
+Q13547,HDAC1_HUMAN,HDAC1,Histone deacetylase 1,Homo sapiens (Human),reviewed,482,Swiss-Prot
+P41235,HNF4A_HUMAN,HNF4A,Hepatocyte nuclear factor 4-alpha,Homo sapiens (Human),reviewed,474,Swiss-Prot
+O75971,SNPC5_HUMAN,SNAPC5,snRNA-activating protein complex subunit 5,Homo sapiens (Human),reviewed,98,Swiss-Prot
+P01614,KVD40_HUMAN,IGKV2D-40,Immunoglobulin kappa variable 2D-40,Homo sapiens (Human),reviewed,121,Swiss-Prot
+P21554,CNR1_HUMAN,CNR1,Cannabinoid receptor 1,Homo sapiens (Human),reviewed,472,Swiss-Prot
+O76002,OR2J2_HUMAN,OR2J2,Olfactory receptor 2J2,Homo sapiens (Human),reviewed,312,Swiss-Prot
+P0CW00,TSPY8_HUMAN,TSPY8,Testis-specific Y-encoded protein 8,Homo sapiens (Human),reviewed,308,Swiss-Prot
+Q15759,MK11_HUMAN,MAPK11,Mitogen-activated protein kinase 11,Homo sapiens (Human),reviewed,364,Swiss-Prot
+P0CJ79,ZN888_HUMAN,ZNF888,Zinc finger protein 888,Homo sapiens (Human),reviewed,718,Swiss-Prot
+O14830,PPE2_HUMAN,PPEF2,Serine/threonine-protein phosphatase with EF-hands 2,Homo sapiens (Human),reviewed,753,Swiss-Prot
+P0CI01,SPDE6_HUMAN,SPDYE6,Speedy protein E6,Homo sapiens (Human),reviewed,402,Swiss-Prot
+Q16790,CAH9_HUMAN,CA9,Carbonic anhydrase 9,Homo sapiens (Human),reviewed,459,Swiss-Prot
+P0CL80,GG12F_HUMAN,GAGE12F,G antigen 12F,Homo sapiens (Human),reviewed,117,Swiss-Prot
+A6PVS8,LRIQ3_HUMAN,LRRIQ3,Leucine-rich repeat and IQ domain-containing protein 3,Homo sapiens (Human),reviewed,624,Swiss-Prot
+P61587,RND3_HUMAN,RND3,Rho-related GTP-binding protein RhoE,Homo sapiens (Human),reviewed,244,Swiss-Prot
+P03951,FA11_HUMAN,F11,Coagulation factor XI,Homo sapiens (Human),reviewed,625,Swiss-Prot
+P40925,MDHC_HUMAN,MDH1,"Malate dehydrogenase, cytoplasmic",Homo sapiens (Human),reviewed,334,Swiss-Prot
+A0A0A0MS05,TVB57_HUMAN,TRBV5-7,Probable non-functional T cell receptor beta variable 5-7,Homo sapiens (Human),reviewed,114,Swiss-Prot
+P12821,ACE_HUMAN,ACE,Angiotensin-converting enzyme,Homo sapiens (Human),reviewed,1306,Swiss-Prot
+P40313,CTRL_HUMAN,CTRL,Chymotrypsin-like protease CTRL-1,Homo sapiens (Human),reviewed,264,Swiss-Prot
+P51805,PLXA3_HUMAN,PLXNA3,Plexin-A3,Homo sapiens (Human),reviewed,1871,Swiss-Prot
+P21802,FGFR2_HUMAN,FGFR2,Fibroblast growth factor receptor 2,Homo sapiens (Human),reviewed,821,Swiss-Prot
+P27449,VATL_HUMAN,ATP6V0C,V-type proton ATPase 16 kDa proteolipid subunit c,Homo sapiens (Human),reviewed,155,Swiss-Prot
+P10721,KIT_HUMAN,KIT,Mast/stem cell growth factor receptor Kit,Homo sapiens (Human),reviewed,976,Swiss-Prot
+A8CG34,P121C_HUMAN,POM121C,Nuclear envelope pore membrane protein POM 121C,Homo sapiens (Human),reviewed,1229,Swiss-Prot
+Q99685,MGLL_HUMAN,MGLL,Monoglyceride lipase,Homo sapiens (Human),reviewed,303,Swiss-Prot
+O60303,KATIP_HUMAN,KATNIP,Katanin-interacting protein,Homo sapiens (Human),reviewed,1618,Swiss-Prot
+P39900,MMP12_HUMAN,MMP12,Macrophage metalloelastase,Homo sapiens (Human),reviewed,470,Swiss-Prot
+P16333,NCK1_HUMAN,NCK1,SH2/SH3 adapter protein NCK1,Homo sapiens (Human),reviewed,377,Swiss-Prot
+Q13451,FKBP5_HUMAN,FKBP5,Peptidyl-prolyl cis-trans isomerase FKBP5,Homo sapiens (Human),reviewed,457,Swiss-Prot
+P51795,CLCN5_HUMAN,CLCN5,H(+)/Cl(-) exchange transporter 5,Homo sapiens (Human),reviewed,816,Swiss-Prot
+P48546,GIPR_HUMAN,GIPR,Gastric inhibitory polypeptide receptor,Homo sapiens (Human),reviewed,466,Swiss-Prot
+Q15139,KPCD1_HUMAN,PRKD1,Serine/threonine-protein kinase D1,Homo sapiens (Human),reviewed,912,Swiss-Prot
+P0CL82,GG12I_HUMAN,GAGE12I,G antigen 12I,Homo sapiens (Human),reviewed,117,Swiss-Prot
+A0A087X1C5,CP2D7_HUMAN,CYP2D7,Cytochrome P450 2D7,Homo sapiens (Human),reviewed,515,Swiss-Prot
+A0A075B6J9,LV218_HUMAN,IGLV2-18,Immunoglobulin lambda variable 2-18,Homo sapiens (Human),reviewed,118,Swiss-Prot
+Q05215,EGR4_HUMAN,EGR4,Early growth response protein 4,Homo sapiens (Human),reviewed,589,Swiss-Prot
+A6QL63,ABTB3_HUMAN,ABTB3,Ankyrin repeat- and BTB/POZ domain-containing protein 3,Homo sapiens (Human),reviewed,1104,Swiss-Prot
+P0DI83,NARR_HUMAN,RAB34,"Ras-related protein Rab-34, isoform NARR",Homo sapiens (Human),reviewed,198,Swiss-Prot
+P26715,NKG2A_HUMAN,KLRC1,NKG2-A/NKG2-B type II integral membrane protein,Homo sapiens (Human),reviewed,233,Swiss-Prot
+O60284,ST18_HUMAN,ST18,Suppression of tumorigenicity 18 protein,Homo sapiens (Human),reviewed,1047,Swiss-Prot
+P0DML2,CSH1_HUMAN,CSH1,Chorionic somatomammotropin hormone 1,Homo sapiens (Human),reviewed,217,Swiss-Prot
+O60315,ZEB2_HUMAN,ZEB2,Zinc finger E-box-binding homeobox 2,Homo sapiens (Human),reviewed,1214,Swiss-Prot
+P16930,FAAA_HUMAN,FAH,Fumarylacetoacetase,Homo sapiens (Human),reviewed,419,Swiss-Prot
+A0A0A0MS06,TVB23_HUMAN,TRBV23-1,Probable non-functional T cell receptor beta variable 23-1,Homo sapiens (Human),reviewed,115,Swiss-Prot
+A0A087WV53,SPEGN_HUMAN,SPEGNB,SPEG neighbor protein,Homo sapiens (Human),reviewed,238,Swiss-Prot
+O14958,CASQ2_HUMAN,CASQ2,Calsequestrin-2,Homo sapiens (Human),reviewed,399,Swiss-Prot
+O60341,KDM1A_HUMAN,KDM1A,Lysine-specific histone demethylase 1A,Homo sapiens (Human),reviewed,852,Swiss-Prot
+P26640,SYVC_HUMAN,VARS1,Valine--tRNA ligase,Homo sapiens (Human),reviewed,1264,Swiss-Prot
+P29597,TYK2_HUMAN,TYK2,Non-receptor tyrosine-protein kinase TYK2,Homo sapiens (Human),reviewed,1187,Swiss-Prot
+O60287,NPA1P_HUMAN,URB1,Nucleolar pre-ribosomal-associated protein 1,Homo sapiens (Human),reviewed,2271,Swiss-Prot
+P26378,ELAV4_HUMAN,ELAVL4,ELAV-like protein 4,Homo sapiens (Human),reviewed,385,Swiss-Prot
+P50406,5HT6R_HUMAN,HTR6,5-hydroxytryptamine receptor 6,Homo sapiens (Human),reviewed,440,Swiss-Prot
+A0A075B6H8,KVD42_HUMAN,IGKV1D-42,Probable non-functional immunoglobulin kappa variable 1D-42,Homo sapiens (Human),reviewed,117,Swiss-Prot
+A8K830,OCAT2_HUMAN,POU2AF3,POU class 2 homeobox associating factor 3,Homo sapiens (Human),reviewed,251,Swiss-Prot
+Q05586,NMDZ1_HUMAN,GRIN1,"Glutamate receptor ionotropic, NMDA 1",Homo sapiens (Human),reviewed,938,Swiss-Prot
+Q05519,SRS11_HUMAN,SRSF11,Serine/arginine-rich splicing factor 11,Homo sapiens (Human),reviewed,484,Swiss-Prot
+P62072,TIM10_HUMAN,TIMM10,Mitochondrial import inner membrane translocase subunit Tim10,Homo sapiens (Human),reviewed,90,Swiss-Prot
+A6NNP5,CC169_HUMAN,CCDC169,Coiled-coil domain-containing protein 169,Homo sapiens (Human),reviewed,214,Swiss-Prot
+Q15070,OXA1L_HUMAN,OXA1L,Mitochondrial inner membrane protein OXA1L,Homo sapiens (Human),reviewed,435,Swiss-Prot
+P30291,WEE1_HUMAN,WEE1,Wee1-like protein kinase,Homo sapiens (Human),reviewed,646,Swiss-Prot
+A0A0A0MS02,TRGV1_HUMAN,TRGV1,Probable non-functional T cell receptor gamma variable,Homo sapiens (Human),reviewed,117,Swiss-Prot
+O43193,MTLR_HUMAN,MLNR,Motilin receptor,Homo sapiens (Human),reviewed,412,Swiss-Prot
+P0CG48,UBC_HUMAN,UBC,Polyubiquitin-C,Homo sapiens (Human),reviewed,685,Swiss-Prot
+O43318,M3K7_HUMAN,MAP3K7,Mitogen-activated protein kinase kinase kinase 7,Homo sapiens (Human),reviewed,606,Swiss-Prot
+P0CW01,TSPYA_HUMAN,TSPY10,Testis-specific Y-encoded protein 10,Homo sapiens (Human),reviewed,308,Swiss-Prot
+A0A096LP55,QCR6L_HUMAN,UQCRHL,"Cytochrome b-c1 complex subunit 6-like, mitochondrial",Homo sapiens (Human),reviewed,91,Swiss-Prot
+Q13443,ADAM9_HUMAN,ADAM9,Disintegrin and metalloproteinase domain-containing protein 9,Homo sapiens (Human),reviewed,819,Swiss-Prot
+P01780,HV307_HUMAN,IGHV3-7,Immunoglobulin heavy variable 3-7,Homo sapiens (Human),reviewed,117,Swiss-Prot
+A0A075B6R2,HV404_HUMAN,IGHV4-4,Immunoglobulin heavy variable 4-4,Homo sapiens (Human),reviewed,117,Swiss-Prot
+P16949,STMN1_HUMAN,STMN1,Stathmin,Homo sapiens (Human),reviewed,149,Swiss-Prot
+O76070,SYUG_HUMAN,SNCG,Gamma-synuclein,Homo sapiens (Human),reviewed,127,Swiss-Prot
+Q8TDX7,NEK7_HUMAN,NEK7,Serine/threonine-protein kinase Nek7,Homo sapiens (Human),reviewed,302,Swiss-Prot
+O14910,LIN7A_HUMAN,LIN7A,Protein lin-7 homolog A,Homo sapiens (Human),reviewed,233,Swiss-Prot
+A0A0A0MRZ8,KVD11_HUMAN,IGKV3D-11,Immunoglobulin kappa variable 3D-11,Homo sapiens (Human),reviewed,115,Swiss-Prot
+P62191,PRS4_HUMAN,PSMC1,26S proteasome regulatory subunit 4,Homo sapiens (Human),reviewed,440,Swiss-Prot
+Q06055,AT5G2_HUMAN,ATP5MC2,"ATP synthase F(0) complex subunit C2, mitochondrial",Homo sapiens (Human),reviewed,141,Swiss-Prot
+O60312,AT10A_HUMAN,ATP10A,Phospholipid-transporting ATPase VA,Homo sapiens (Human),reviewed,1499,Swiss-Prot
+A0A075B6J6,LV322_HUMAN,IGLV3-22,Immunoglobulin lambda variable 3-22,Homo sapiens (Human),reviewed,115,Swiss-Prot
+Q00534,CDK6_HUMAN,CDK6,Cyclin-dependent kinase 6,Homo sapiens (Human),reviewed,326,Swiss-Prot
+P01571,IFN17_HUMAN,IFNA17,Interferon alpha-17,Homo sapiens (Human),reviewed,189,Swiss-Prot
+Q15053,K0040_HUMAN,KIAA0040,Uncharacterized protein KIAA0040,Homo sapiens (Human),reviewed,99,Swiss-Prot
+P36894,BMR1A_HUMAN,BMPR1A,Bone morphogenetic protein receptor type-1A,Homo sapiens (Human),reviewed,532,Swiss-Prot
+P16050,LOX15_HUMAN,ALOX15,Polyunsaturated fatty acid lipoxygenase ALOX15,Homo sapiens (Human),reviewed,662,Swiss-Prot
+P0CH99,Z705D_HUMAN,ZNF705D,Zinc finger protein 705D,Homo sapiens (Human),reviewed,300,Swiss-Prot
+P01700,LV147_HUMAN,IGLV1-47,Immunoglobulin lambda variable 1-47,Homo sapiens (Human),reviewed,117,Swiss-Prot
+B5A968,B5A968_HUMAN,EPHA2,Ephrin type-A receptor 2,Homo sapiens (Human),unreviewed,956,TrEMBL
+P35354,PGH2_HUMAN,PTGS2,Prostaglandin G/H synthase 2,Homo sapiens (Human),reviewed,604,Swiss-Prot
+Q12884,SEPR_HUMAN,FAP,Prolyl endopeptidase FAP,Homo sapiens (Human),reviewed,760,Swiss-Prot
+P40879,S26A3_HUMAN,SLC26A3,Chloride anion exchanger,Homo sapiens (Human),reviewed,764,Swiss-Prot
+P51692,STA5B_HUMAN,STAT5B,Signal transducer and activator of transcription 5B,Homo sapiens (Human),reviewed,787,Swiss-Prot
+O14949,QCR8_HUMAN,UQCRQ,Cytochrome b-c1 complex subunit 8,Homo sapiens (Human),reviewed,82,Swiss-Prot
+O76080,ZFAN5_HUMAN,ZFAND5,AN1-type zinc finger protein 5,Homo sapiens (Human),reviewed,213,Swiss-Prot
+Q7Z2W7,TRPM8_HUMAN,TRPM8,Transient receptor potential cation channel subfamily M member 8,Homo sapiens (Human),reviewed,1104,Swiss-Prot
+P61601,NCALD_HUMAN,NCALD,Neurocalcin-delta,Homo sapiens (Human),reviewed,193,Swiss-Prot
+P51797,CLCN6_HUMAN,CLCN6,H(+)/Cl(-) exchange transporter 6,Homo sapiens (Human),reviewed,869,Swiss-Prot
+P16870,CBPE_HUMAN,CPE,Carboxypeptidase E,Homo sapiens (Human),reviewed,476,Swiss-Prot
+Q13470,TNK1_HUMAN,TNK1,Non-receptor tyrosine-protein kinase TNK1,Homo sapiens (Human),reviewed,666,Swiss-Prot
+P01860,IGHG3_HUMAN,IGHG3,Immunoglobulin heavy constant gamma 3,Homo sapiens (Human),reviewed,446,Swiss-Prot
+P16402,H13_HUMAN,H1-3,Histone H1.3,Homo sapiens (Human),reviewed,221,Swiss-Prot
+P01589,IL2RA_HUMAN,IL2RA,Interleukin-2 receptor subunit alpha,Homo sapiens (Human),reviewed,272,Swiss-Prot
+Q13449,LSAMP_HUMAN,LSAMP,Limbic system-associated membrane protein,Homo sapiens (Human),reviewed,338,Swiss-Prot
+P36897,TGFR1_HUMAN,TGFBR1,TGF-beta receptor type-1,Homo sapiens (Human),reviewed,503,Swiss-Prot
+Q05BQ5,MBTD1_HUMAN,MBTD1,MBT domain-containing protein 1,Homo sapiens (Human),reviewed,628,Swiss-Prot
+A0A075B6J2,LV233_HUMAN,IGLV2-33,Probable non-functional immunoglobulin lambda variable 2-33,Homo sapiens (Human),reviewed,118,Swiss-Prot
+P41134,ID1_HUMAN,ID1,DNA-binding protein inhibitor ID-1,Homo sapiens (Human),reviewed,155,Swiss-Prot
+P40425,PBX2_HUMAN,PBX2,Pre-B-cell leukemia transcription factor 2,Homo sapiens (Human),reviewed,430,Swiss-Prot
+O14939,PLD2_HUMAN,PLD2,Phospholipase D2,Homo sapiens (Human),reviewed,933,Swiss-Prot
+Q05D60,DEUP1_HUMAN,DEUP1,Deuterosome assembly protein 1,Homo sapiens (Human),reviewed,604,Swiss-Prot
+Q13936,CAC1C_HUMAN,CACNA1C,Voltage-dependent L-type calcium channel subunit alpha-1C,Homo sapiens (Human),reviewed,2221,Swiss-Prot
+P23975,SC6A2_HUMAN,SLC6A2,Sodium-dependent noradrenaline transporter,Homo sapiens (Human),reviewed,617,Swiss-Prot
+P37231,PPARG_HUMAN,PPARG,Peroxisome proliferator-activated receptor gamma,Homo sapiens (Human),reviewed,505,Swiss-Prot
+P05231,IL6_HUMAN,IL6,Interleukin-6,Homo sapiens (Human),reviewed,212,Swiss-Prot
+P55786,PSA_HUMAN,NPEPPS,Puromycin-sensitive aminopeptidase,Homo sapiens (Human),reviewed,919,Swiss-Prot
+Q13478,IL18R_HUMAN,IL18R1,Interleukin-18 receptor 1,Homo sapiens (Human),reviewed,541,Swiss-Prot
+P0DKX4,SIM18_HUMAN,SMIM18,Small integral membrane protein 18,Homo sapiens (Human),reviewed,95,Swiss-Prot
+P0DKX0,ZN728_HUMAN,ZNF728,Zinc finger protein 728,Homo sapiens (Human),reviewed,622,Swiss-Prot
+P41226,UBA7_HUMAN,UBA7,Ubiquitin-like modifier-activating enzyme 7,Homo sapiens (Human),reviewed,1012,Swiss-Prot
+P62070,RRAS2_HUMAN,RRAS2,Ras-related protein R-Ras2,Homo sapiens (Human),reviewed,204,Swiss-Prot
+Q15165,PON2_HUMAN,PON2,Serum paraoxonase/arylesterase 2,Homo sapiens (Human),reviewed,354,Swiss-Prot
+O15554,KCNN4_HUMAN,KCNN4,Intermediate conductance calcium-activated potassium channel protein 4,Homo sapiens (Human),reviewed,427,Swiss-Prot
+A6NCT2,A6NCT2_HUMAN,CCDC169,Coiled-coil domain-containing protein 169,Homo sapiens (Human),unreviewed,219,TrEMBL
+P0CG42,F157B_HUMAN,FAM157B,Putative protein FAM157B,Homo sapiens (Human),reviewed,384,Swiss-Prot
+O00444,PLK4_HUMAN,PLK4,Serine/threonine-protein kinase PLK4,Homo sapiens (Human),reviewed,970,Swiss-Prot
+P61604,CH10_HUMAN,HSPE1,"10 kDa heat shock protein, mitochondrial",Homo sapiens (Human),reviewed,102,Swiss-Prot
+P15692,VEGFA_HUMAN,VEGFA,"Vascular endothelial growth factor A, long form",Homo sapiens (Human),reviewed,395,Swiss-Prot
+O14925,TIM23_HUMAN,TIMM23,Mitochondrial import inner membrane translocase subunit Tim23,Homo sapiens (Human),reviewed,209,Swiss-Prot
+P01721,LV657_HUMAN,IGLV6-57,Immunoglobulin lambda variable 6-57,Homo sapiens (Human),reviewed,117,Swiss-Prot
+A7MD48,SRRM4_HUMAN,SRRM4,Serine/arginine repetitive matrix protein 4,Homo sapiens (Human),reviewed,611,Swiss-Prot
+Q05329,DCE2_HUMAN,GAD2,Glutamate decarboxylase 2,Homo sapiens (Human),reviewed,585,Swiss-Prot
+P01742,HV169_HUMAN,IGHV1-69,Immunoglobulin heavy variable 1-69,Homo sapiens (Human),reviewed,117,Swiss-Prot
+P27635,RL10_HUMAN,RPL10,Large ribosomal subunit protein uL16,Homo sapiens (Human),reviewed,214,Swiss-Prot
+P26998,CRBB3_HUMAN,CRYBB3,Beta-crystallin B3,Homo sapiens (Human),reviewed,211,Swiss-Prot
+P08235,MCR_HUMAN,NR3C2,Mineralocorticoid receptor,Homo sapiens (Human),reviewed,984,Swiss-Prot
+A0A087WTH1,TM265_HUMAN,TMEM265,Transmembrane protein 265,Homo sapiens (Human),reviewed,108,Swiss-Prot
+P47872,SCTR_HUMAN,SCTR,Secretin receptor,Homo sapiens (Human),reviewed,440,Swiss-Prot
+Q06124,PTN11_HUMAN,PTPN11,Tyrosine-protein phosphatase non-receptor type 11,Homo sapiens (Human),reviewed,593,Swiss-Prot
+P41212,ETV6_HUMAN,ETV6,Transcription factor ETV6,Homo sapiens (Human),reviewed,452,Swiss-Prot
+Q13946,PDE7A_HUMAN,PDE7A,"High affinity 3',5'-cyclic-AMP phosphodiesterase 7A",Homo sapiens (Human),reviewed,482,Swiss-Prot
+Q15084,PDIA6_HUMAN,PDIA6,Protein disulfide-isomerase A6,Homo sapiens (Human),reviewed,440,Swiss-Prot
+P27482,CALL3_HUMAN,CALML3,Calmodulin-like protein 3,Homo sapiens (Human),reviewed,149,Swiss-Prot
+P0CI00,Z705B_HUMAN,ZNF705B,Zinc finger protein 705B,Homo sapiens (Human),reviewed,300,Swiss-Prot
+P61073,CXCR4_HUMAN,CXCR4,C-X-C chemokine receptor type 4,Homo sapiens (Human),reviewed,352,Swiss-Prot
+A7E2U8,CFA96_HUMAN,CFAP96,Cilia-and flagella-associated protein 96,Homo sapiens (Human),reviewed,309,Swiss-Prot
+P22736,NR4A1_HUMAN,NR4A1,Nuclear receptor subfamily 4immunitygroup A member 1,Homo sapiens (Human),reviewed,598,Swiss-Prot
+P56524,HDAC4_HUMAN,HDAC4,Histone deacetylase 4,Homo sapiens (Human),reviewed,1084,Swiss-Prot
+Q08345,DDR1_HUMAN,DDR1,Epithelial discoidin domain-containing receptor 1,Homo sapiens (Human),reviewed,913,Swiss-Prot

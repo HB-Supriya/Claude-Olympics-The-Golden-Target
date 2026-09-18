@@ -1,0 +1,675 @@
+pmid,target_mention,context_sentence,journal,year
+30022350,BEST1,A screening campaign identified modulators of Bestrophin-1.,Nat Med,2021
+30047746,ROS1,A screening campaign identified modulators of Proto-oncogene tyrosine-protein kinase ROS.,Mol Cell,2022
+30094516,IGKV2D-24,A screening campaign identified modulators of Probable non-functional immunoglobulin kappa variable 2D-24.,Endocrinology,2022
+30045842,FGFR2,A screening campaign identified modulators of Fibroblast growth factor receptor 2.,Blood,2023
+30080152,DCAF7,DDB1- and CUL4-associated factor 7 was investigated as a therapeutic target.,Endocrinology,2023
+30086648,CASQ2,Calsequestrin-2 was investigated as a therapeutic target.,Mol Cell,2024
+30041949,CHRNB3,Inhibition of CHRNB3 altered disease-relevant signalling in vitro.,J Biol Chem,2025
+30082083,RIPK1,RIPK1 expression correlated with treatment response.,Endocrinology,2024
+30015714,IGLV4-3,A screening campaign identified modulators of Immunoglobulin lambda variable 4-3.,Nat Med,2025
+30033960,HMGCR,3-hydroxy-3-methylglutaryl-coenzyme A reductase was investigated as a therapeutic target.,Endocrinology,2021
+30042056,TUBB8B,A screening campaign identified modulators of Tubulin beta 8B.,Nat Rev Drug Discov,2022
+30067134,KDM1A,A screening campaign identified modulators of Lysine-specific histone demethylase 1A.,Circulation,2025
+30039694,HCFC1,A screening campaign identified modulators of Host cell factor 1.,Cancer Res,2025
+30092102,TYRO3,Tyrosine-protein kinase receptor TYRO3 was investigated as a therapeutic target.,Cancer Res,2023
+30067304,TRAV7,T cell receptor alpha variable 7 was investigated as a therapeutic target.,Circulation,2025
+30011329,TIMM10,Inhibition of TIMM10 altered disease-relevant signalling in vitro.,Cell,2025
+30048025,PON2,Inhibition of PON2 altered disease-relevant signalling in vitro.,Diabetes,2021
+30099702,RGS20,Regulator of G protein signaling 20 was investigated as a therapeutic target.,Blood,2023
+30063798,AKT1,RAC-alpha serine/threonine-protein kinase was investigated as a therapeutic target.,Blood,2024
+30013865,CLCA1,Inhibition of CLCA1 altered disease-relevant signalling in vitro.,Mol Cell,2021
+30016869,EIF4H,Inhibition of EIF4H altered disease-relevant signalling in vitro.,Diabetes,2025
+30034742,STXBP1,A screening campaign identified modulators of Syntaxin-binding protein 1.,Diabetes,2023
+30039472,GAGE12G,G antigen 12G was investigated as a therapeutic target.,Circulation,2023
+30062047,UQCRHL,UQCRHL expression correlated with treatment response.,Cell,2023
+30095625,IGLV3-32,Inhibition of IGLV3-32 altered disease-relevant signalling in vitro.,Cancer Res,2021
+30039554,DEUP1,A screening campaign identified modulators of Deuterosome assembly protein 1.,Nat Med,2025
+30056468,CNR1,Cannabinoid receptor 1 was investigated as a therapeutic target.,Diabetes,2024
+30068113,CLCNKA,Inhibition of CLCNKA altered disease-relevant signalling in vitro.,Mol Cell,2024
+30039806,IL1A,A screening campaign identified modulators of Interleukin-1 alpha.,Circulation,2022
+30033601,HIPK2,Inhibition of HIPK2 altered disease-relevant signalling in vitro.,Diabetes,2022
+30044892,CFAP96,Cilia-and flagella-associated protein 96 was investigated as a therapeutic target.,Free Radic Biol Med,2023
+30010267,TNP2,TNP2 expression correlated with treatment response.,Nat Rev Drug Discov,2023
+30027845,USP11,Inhibition of USP11 altered disease-relevant signalling in vitro.,Nat Med,2021
+30050441,DYRK1A,Inhibition of DYRK1A altered disease-relevant signalling in vitro.,Circulation,2022
+30086713,NUDT4B,Inhibition of NUDT4B altered disease-relevant signalling in vitro.,Circulation,2024
+30067046,AURKA,A screening campaign identified modulators of Aurora kinase A.,Free Radic Biol Med,2022
+30077282,EEA1,A screening campaign identified modulators of Early endosome antigen 1.,Nat Rev Drug Discov,2023
+30044092,PMEL,Melanocyte protein PMEL was investigated as a therapeutic target.,Nat Med,2023
+30010982,IL15,Interleukin-15 was investigated as a therapeutic target.,Cell,2023
+30073702,TBC1D3I,A screening campaign identified modulators of TBC1 domain family member 3I.,Diabetes,2023
+30047511,ZNF728,ZNF728 expression correlated with treatment response.,Cancer Res,2022
+30015574,FLT3,Receptor-type tyrosine-protein kinase FLT3 was investigated as a therapeutic target.,Cell,2025
+30016840,LIN7A,A screening campaign identified modulators of Protein lin-7 homolog A.,J Immunol,2021
+30072062,PSA,The cytosolic zinc aminopeptidase degraded tau and mitigated neurofibrillary pathology in transgenic models.,J Biol Chem,2022
+30095284,SAA1,Serum amyloid A-1 protein was investigated as a therapeutic target.,Circulation,2025
+30015693,PSMD7,Inhibition of PSMD7 altered disease-relevant signalling in vitro.,Cell,2024
+30059162,HDAC1,Histone deacetylase 1 was investigated as a therapeutic target.,Blood,2023
+30043970,MET,A screening campaign identified modulators of Hepatocyte growth factor receptor.,Diabetes,2021
+30073889,FAM157B,Inhibition of FAM157B altered disease-relevant signalling in vitro.,Circulation,2025
+30093392,GHRH,A screening campaign identified modulators of Somatoliberin.,J Biol Chem,2023
+30096262,FFAR4,Free fatty acid receptor 4 was investigated as a therapeutic target.,Mol Cell,2023
+30037634,ZNF500,A screening campaign identified modulators of Zinc finger protein 500.,Cancer Res,2025
+30084881,TRBC1,Inhibition of TRBC1 altered disease-relevant signalling in vitro.,J Immunol,2022
+30088045,NCR1,Inhibition of NCR1 altered disease-relevant signalling in vitro.,Cell,2021
+30035846,NFATC2,"A screening campaign identified modulators of Nuclear factor of activated T-cells, cytoplasmic 2.",Cancer Res,2022
+30082691,CCNF,CCNF expression correlated with treatment response.,J Immunol,2022
+30011671,PEA15,PEA15 expression correlated with treatment response.,Cancer Res,2022
+30015929,LIN7A,Inhibition of LIN7A altered disease-relevant signalling in vitro.,Cancer Res,2025
+30036244,MYH7B,Myosin-7B was investigated as a therapeutic target.,Blood,2025
+30018610,SRRM4,Inhibition of SRRM4 altered disease-relevant signalling in vitro.,Nat Rev Drug Discov,2025
+30074800,FAM157B,A screening campaign identified modulators of Putative protein FAM157B.,Cell,2021
+30076356,TBC1D3K,A screening campaign identified modulators of TBC1 domain family member 3K.,Endocrinology,2022
+30089300,IL3RA,Interleukin-3 receptor subunit alpha was investigated as a therapeutic target.,Circulation,2021
+30094529,CYP2D7,Inhibition of CYP2D7 altered disease-relevant signalling in vitro.,Circulation,2025
+30063533,TIMM23,Inhibition of TIMM23 altered disease-relevant signalling in vitro.,Cell,2024
+30060346,SFI1,A screening campaign identified modulators of Protein SFI1 homolog.,Endocrinology,2022
+30052900,POM121C,Nuclear envelope pore membrane protein POM 121C was investigated as a therapeutic target.,Nat Rev Drug Discov,2021
+30058918,IGHV3-9,Immunoglobulin heavy variable 3-9 was investigated as a therapeutic target.,J Biol Chem,2024
+30048862,IGKC,Immunoglobulin kappa constant was investigated as a therapeutic target.,Mol Cell,2023
+30063274,GALR2,Galanin receptor type 2 was investigated as a therapeutic target.,Blood,2025
+30030205,IGLV4-60,Inhibition of IGLV4-60 altered disease-relevant signalling in vitro.,J Biol Chem,2021
+30094212,PTGS2,A screening campaign identified modulators of Prostaglandin G/H synthase 2.,Endocrinology,2023
+30083734,IL2RA,A screening campaign identified modulators of Interleukin-2 receptor subunit alpha.,Cancer Res,2025
+30051622,LSM6,A screening campaign identified modulators of U6 snRNA-associated Sm-like protein LSm6.,Endocrinology,2023
+30076764,IGHV3-53,A screening campaign identified modulators of Immunoglobulin heavy variable 3-53.,Cancer Res,2025
+30032964,EPO,A screening campaign identified modulators of Erythropoietin.,J Biol Chem,2025
+30098583,CBR1,CBR1 expression correlated with treatment response.,Endocrinology,2024
+30027371,TBKBP1,TBKBP1 expression correlated with treatment response.,Endocrinology,2022
+30028331,RND3,RND3 expression correlated with treatment response.,Free Radic Biol Med,2022
+30091952,WNT9B,A screening campaign identified modulators of Protein Wnt-9b.,Nat Med,2023
+30032491,IGKV1-39,IGKV1-39 expression correlated with treatment response.,Cell,2022
+30063787,CRYBB3,CRYBB3 expression correlated with treatment response.,Blood,2023
+30017146,KIT,A screening campaign identified modulators of Mast/stem cell growth factor receptor Kit.,Circulation,2022
+30096968,PTK2,Focal adhesion kinase 1 was investigated as a therapeutic target.,Cell,2024
+30055830,IGKV1-33,A screening campaign identified modulators of Immunoglobulin kappa variable 1-33.,Diabetes,2021
+30012582,PEA15,Astrocytic phosphoprotein PEA-15 was investigated as a therapeutic target.,Circulation,2023
+30058251,HDAC1,HDAC1 expression correlated with treatment response.,J Biol Chem,2022
+30039924,GNB3,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3 was investigated as a therapeutic target.,Endocrinology,2025
+30085845,AXL,Inhibition of AXL altered disease-relevant signalling in vitro.,Cancer Res,2021
+30076072,JCHAIN,A screening campaign identified modulators of Immunoglobulin J chain.,Mol Cell,2023
+30064412,POR,A screening campaign identified modulators of NADPH--cytochrome P450 reductase.,Diabetes,2023
+30075272,CAD,A screening campaign identified modulators of Multifunctional protein CAD.,Cancer Res,2023
+30079834,IGLV5-52,Immunoglobulin lambda variable 5-52 was investigated as a therapeutic target.,J Immunol,2025
+30015084,PDE7A,"High affinity 3',5'-cyclic-AMP phosphodiesterase 7A was investigated as a therapeutic target.",J Immunol,2025
+30062490,ADRA2A,A screening campaign identified modulators of Alpha-2A adrenergic receptor.,J Immunol,2021
+30014604,NR4A1,A screening campaign identified modulators of Nuclear receptor subfamily 4immunitygroup A member 1.,Blood,2025
+30045564,SLC25A16,Mitochondrial coenzyme A transporter SLC25A16 was investigated as a therapeutic target.,J Immunol,2025
+30013971,SNAPC2,SNAPC2 expression correlated with treatment response.,Cancer Res,2022
+30046869,CASR,Inhibition of CASR altered disease-relevant signalling in vitro.,J Immunol,2025
+30031553,COPZ1,Inhibition of COPZ1 altered disease-relevant signalling in vitro.,Cancer Res,2024
+30060045,F12,Inhibition of F12 altered disease-relevant signalling in vitro.,J Biol Chem,2021
+30040634,MAPK11,Mitogen-activated protein kinase 11 was investigated as a therapeutic target.,J Biol Chem,2025
+30050421,SOX15,Inhibition of SOX15 altered disease-relevant signalling in vitro.,Diabetes,2022
+30051352,DYRK1A,A screening campaign identified modulators of Dual specificity tyrosine-phosphorylation-regulated kinase 1A.,Mol Cell,2023
+30084931,TRPM8,TRPM8 expression correlated with treatment response.,Cell,2022
+30095351,FFAR4,FFAR4 expression correlated with treatment response.,Nat Med,2022
+30028630,POU2AF3,A screening campaign identified modulators of POU class 2 homeobox associating factor 3.,Nat Med,2021
+30084200,PREP,A screening campaign identified modulators of Prolyl endopeptidase.,Blood,2021
+30077589,IL18R1,Inhibition of IL18R1 altered disease-relevant signalling in vitro.,Free Radic Biol Med,2025
+30065830,ZNF157,A screening campaign identified modulators of Zinc finger protein 157.,J Immunol,2021
+30061700,BMPR1A,Bone morphogenetic protein receptor type-1A was investigated as a therapeutic target.,Cell,2021
+30034922,IGLV8-61,A screening campaign identified modulators of Immunoglobulin lambda variable 8-61.,Mol Cell,2023
+30098714,NPEPPS,A screening campaign identified modulators of Puromycin-sensitive aminopeptidase.,Free Radic Biol Med,2025
+30034520,VDR,Vitamin D3 receptor was investigated as a therapeutic target.,Endocrinology,2021
+30024583,ZFAND5,ZFAND5 expression correlated with treatment response.,Cell,2024
+30091284,TM7SF2,Delta(14)-sterol reductase TM7SF2 was investigated as a therapeutic target.,Cell,2025
+30047447,RPL7A,RPL7A expression correlated with treatment response.,Blood,2023
+30058420,GIPC1,A screening campaign identified modulators of PDZ domain-containing protein GIPC1.,Nat Med,2021
+30022718,IGLV1-50,Probable non-functional immunoglobulin lambda variable 1-50 was investigated as a therapeutic target.,Nat Rev Drug Discov,2024
+30029184,PLCL1,Inactive phospholipase C-like protein 1 was investigated as a therapeutic target.,J Immunol,2025
+30028567,IGLV2-11,IGLV2-11 expression correlated with treatment response.,Cancer Res,2023
+30085016,OPRL1,A screening campaign identified modulators of Nociceptin receptor.,Mol Cell,2022
+30054142,IGKV2D-30,Immunoglobulin kappa variable 2D-30 was investigated as a therapeutic target.,Endocrinology,2023
+30032053,EPO,Inhibition of EPO altered disease-relevant signalling in vitro.,Nat Rev Drug Discov,2024
+30058169,MAPKBP1,Inhibition of MAPKBP1 altered disease-relevant signalling in vitro.,Cancer Res,2025
+30028282,TBKBP1,TANK-binding kinase 1-binding protein 1 was investigated as a therapeutic target.,J Biol Chem,2023
+30061928,GIMD1,GTPase IMAP family member GIMD1 was investigated as a therapeutic target.,Circulation,2024
+30068796,ETV6,A screening campaign identified modulators of Transcription factor ETV6.,J Immunol,2022
+30013614,KATNIP,A screening campaign identified modulators of Katanin-interacting protein.,Free Radic Biol Med,2025
+30047385,KRT33A,Inhibition of KRT33A altered disease-relevant signalling in vitro.,Cancer Res,2021
+30067414,JTB,A screening campaign identified modulators of Protein JTB.,Cell,2025
+30043076,CLCN2,A screening campaign identified modulators of Chloride channel protein 2.,Free Radic Biol Med,2022
+30041344,MMP9,Matrix metalloproteinase-9 was investigated as a therapeutic target.,J Immunol,2025
+30010420,HTR6,A screening campaign identified modulators of 5-hydroxytryptamine receptor 6.,Mol Cell,2021
+30051332,SOX15,A screening campaign identified modulators of Transcription factor SOX-15.,J Biol Chem,2023
+30050746,MGRN1,A screening campaign identified modulators of E3 ubiquitin-protein ligase MGRN1.,Diabetes,2022
+30084105,OPRL1,Inhibition of OPRL1 altered disease-relevant signalling in vitro.,J Biol Chem,2021
+30084628,ZNF888,Zinc finger protein 888 was investigated as a therapeutic target.,J Biol Chem,2024
+30094178,CTRL,Chymotrypsin-like protease CTRL-1 was investigated as a therapeutic target.,Endocrinology,2024
+30060803,CCL11,CCL11 expression correlated with treatment response.,Cancer Res,2024
+30085842,TRPM8,Transient receptor potential cation channel subfamily M member 8 was investigated as a therapeutic target.,Nat Med,2023
+30048665,CLCN5,Inhibition of CLCN5 altered disease-relevant signalling in vitro.,J Immunol,2021
+30025470,DYRK1B,A screening campaign identified modulators of Dual specificity tyrosine-phosphorylation-regulated kinase 1B.,Mol Cell,2021
+30068546,MAPK10,A screening campaign identified modulators of Mitogen-activated protein kinase 10.,Diabetes,2022
+30033280,RPS7,Small ribosomal subunit protein eS7 was investigated as a therapeutic target.,J Biol Chem,2021
+30087403,EEF1G,EEF1G expression correlated with treatment response.,Nat Rev Drug Discov,2024
+30015470,KISS1R,A screening campaign identified modulators of KiSS-1 receptor.,Cell,2021
+30064253,THRB,Inhibition of THRB altered disease-relevant signalling in vitro.,Mol Cell,2024
+30048900,LSAMP,Limbic system-associated membrane protein was investigated as a therapeutic target.,Endocrinology,2021
+30074706,IGLV1-47,A screening campaign identified modulators of Immunoglobulin lambda variable 1-47.,J Biol Chem,2022
+30023489,CNTF,Inhibition of CNTF altered disease-relevant signalling in vitro.,Mol Cell,2025
+30093605,IGKV2D-24,Inhibition of IGKV2D-24 altered disease-relevant signalling in vitro.,Blood,2021
+30031702,GHSR,Growth hormone secretagogue receptor type 1 was investigated as a therapeutic target.,Circulation,2023
+30072462,CPE,A screening campaign identified modulators of Carboxypeptidase E.,Nat Rev Drug Discov,2023
+30073047,KDR,KDR expression correlated with treatment response.,Blood,2023
+30045866,ADRB2,A screening campaign identified modulators of Beta-2 adrenergic receptor.,Circulation,2022
+30028066,CCR5,A screening campaign identified modulators of C-C chemokine receptor type 5.,Nat Rev Drug Discov,2022
+30085624,IGLV2-14,A screening campaign identified modulators of Immunoglobulin lambda variable 2-14.,J Immunol,2025
+30077480,IGLV5-37,Immunoglobulin lambda variable 5-37 was investigated as a therapeutic target.,Circulation,2021
+30020773,IGHG2,Inhibition of IGHG2 altered disease-relevant signalling in vitro.,Mol Cell,2024
+30093672,PSMC5,26S proteasome regulatory subunit 8 was investigated as a therapeutic target.,Endocrinology,2023
+30013520,LSM3,U6 snRNA-associated Sm-like protein LSm3 was investigated as a therapeutic target.,Circulation,2021
+30039723,MAPK11,MAPK11 expression correlated with treatment response.,J Immunol,2024
+30046652,UBC,A screening campaign identified modulators of Polyubiquitin-C.,Blood,2023
+30067452,GAGE12I,G antigen 12I was investigated as a therapeutic target.,Cancer Res,2023
+30010767,CDK5R1,CDK5R1 expression correlated with treatment response.,Endocrinology,2023
+30022232,MELK,Maternal embryonic leucine zipper kinase was investigated as a therapeutic target.,Diabetes,2023
+30030764,SPDYE6,Speedy protein E6 was investigated as a therapeutic target.,Circulation,2025
+30080584,NPPB,Natriuretic peptides B was investigated as a therapeutic target.,Blood,2025
+30036907,IL7R,IL7R expression correlated with treatment response.,Nat Rev Drug Discov,2023
+30097880,MBTD1,A screening campaign identified modulators of MBT domain-containing protein 1.,Circulation,2021
+30010071,IL15,IL15 expression correlated with treatment response.,Nat Med,2022
+30082994,RIPK1,Receptor-interacting serine/threonine-protein kinase 1 was investigated as a therapeutic target.,Nat Rev Drug Discov,2025
+30035192,MARK3,A screening campaign identified modulators of MAP/microtubule affinity-regulating kinase 3.,Circulation,2023
+30034512,HIPK2,A screening campaign identified modulators of Homeodomain-interacting protein kinase 2.,Circulation,2023
+30017203,ERC2-IT1,ERC2-IT1 expression correlated with treatment response.,Circulation,2024
+30099704,NEK2,Serine/threonine-protein kinase Nek2 was investigated as a therapeutic target.,Cancer Res,2025
+30073208,PTH,Parathyroid hormone was investigated as a therapeutic target.,Blood,2024
+30086102,EZH2,A screening campaign identified modulators of Histone-lysine N-methyltransferase EZH2.,Cancer Res,2023
+30091314,FAAH,A screening campaign identified modulators of Fatty-acid amide hydrolase 1.,J Biol Chem,2025
+30062363,GALR2,GALR2 expression correlated with treatment response.,J Immunol,2024
+30090428,GALR1,Galanin receptor type 1 was investigated as a therapeutic target.,Circulation,2024
+30099494,CBR1,Carbonyl reductase [NADPH] 1 was investigated as a therapeutic target.,Blood,2025
+30094887,SCN10A,SCN10A expression correlated with treatment response.,Endocrinology,2023
+30095644,IGF2,Insulin-like growth factor 2 was investigated as a therapeutic target.,J Immunol,2025
+30031610,STMN1,A screening campaign identified modulators of Stathmin.,Cancer Res,2021
+30049864,SELE,E-selectin was investigated as a therapeutic target.,Cell,2025
+30093674,IGKV1D-12,A screening campaign identified modulators of Immunoglobulin kappa variable 1D-12.,Cell,2025
+30072831,CLCN3,CLCN3 expression correlated with treatment response.,Mol Cell,2022
+30085832,SRC,Proto-oncogene tyrosine-protein kinase Src was investigated as a therapeutic target.,Mol Cell,2023
+30021545,PRKD1,Inhibition of PRKD1 altered disease-relevant signalling in vitro.,Endocrinology,2021
+30025122,GPM6B,Neuronal membrane glycoprotein M6-b was investigated as a therapeutic target.,Endocrinology,2023
+30069992,NEBL,Nebulette was investigated as a therapeutic target.,Nat Rev Drug Discov,2023
+30066809,FGF18,Inhibition of FGF18 altered disease-relevant signalling in vitro.,Free Radic Biol Med,2025
+30026164,TRIO,Triple functional domain protein was investigated as a therapeutic target.,Cell,2025
+30037909,XRCC4,Inhibition of XRCC4 altered disease-relevant signalling in vitro.,Diabetes,2025
+30080114,ACE,A screening campaign identified modulators of Angiotensin-converting enzyme.,Blood,2025
+30091838,SRPK1,SRSF protein kinase 1 was investigated as a therapeutic target.,Mol Cell,2024
+30068388,APEX1,DNA repair nuclease/redox regulator APEX1 was investigated as a therapeutic target.,Nat Med,2024
+30087920,TSPY8,A screening campaign identified modulators of Testis-specific Y-encoded protein 8.,Blood,2021
+30027712,ALOX5,Polyunsaturated fatty acid 5-lipoxygenase was investigated as a therapeutic target.,Cell,2023
+30074361,CAD,Inhibition of CAD altered disease-relevant signalling in vitro.,Blood,2022
+30021745,ADH7,Inhibition of ADH7 altered disease-relevant signalling in vitro.,Nat Rev Drug Discov,2021
+30026285,PAFAH1B3,Inhibition of PAFAH1B3 altered disease-relevant signalling in vitro.,J Biol Chem,2021
+30094760,ATP5MG,"A screening campaign identified modulators of ATP synthase F(0) complex subunit g, mitochondrial.",Blood,2021
+30065564,SETSIP,Protein SETSIP was investigated as a therapeutic target.,Blood,2025
+30065742,NTSR2,Neurotensin receptor type 2 was investigated as a therapeutic target.,Cell,2023
+30012160,FAP,A screening campaign identified modulators of Prolyl endopeptidase FAP.,Endocrinology,2021
+30053231,IGKV2D-30,IGKV2D-30 expression correlated with treatment response.,Endocrinology,2022
+30044176,ARSD,A screening campaign identified modulators of Arylsulfatase D.,Cancer Res,2022
+30074944,OXA1L,Mitochondrial inner membrane protein OXA1L was investigated as a therapeutic target.,Circulation,2025
+30012342,NCR3,A screening campaign identified modulators of Natural cytotoxicity triggering receptor 3.,Blood,2023
+30069512,PTPN12,Tyrosine-protein phosphatase non-receptor type 12 was investigated as a therapeutic target.,Circulation,2023
+30094352,MMP13,A screening campaign identified modulators of Collagenase 3.,Cancer Res,2023
+30014014,STAG3L3,A screening campaign identified modulators of STAG3-like protein 3.,Circulation,2025
+30071438,VARS1,Valine--tRNA ligase was investigated as a therapeutic target.,Nat Med,2024
+30088956,NCR1,A screening campaign identified modulators of Natural cytotoxicity triggering receptor 1.,Mol Cell,2022
+30087819,PSA,Sensitivity to puromycin distinguished this aminopeptidase activity in brain lysates.,Mol Cell,2023
+30067720,FGF18,A screening campaign identified modulators of Fibroblast growth factor 18.,J Biol Chem,2021
+30018114,ERC2-IT1,Putative uncharacterized protein encoded by ERC2-IT1 was investigated as a therapeutic target.,Nat Rev Drug Discov,2025
+30044865,ENO4,Inhibition of ENO4 altered disease-relevant signalling in vitro.,Free Radic Biol Med,2021
+30053080,MAP2K7,Dual specificity mitogen-activated protein kinase kinase 7 was investigated as a therapeutic target.,Nat Med,2021
+30022656,ADH7,A screening campaign identified modulators of All-trans-retinol dehydrogenase [NAD(+)] ADH7.,Diabetes,2022
+30038144,PDE9A,"High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A was investigated as a therapeutic target.",Nat Rev Drug Discov,2025
+30032467,IFNA17,IFNA17 expression correlated with treatment response.,J Immunol,2023
+30066652,IGKV2D-40,Immunoglobulin kappa variable 2D-40 was investigated as a therapeutic target.,Mol Cell,2023
+30050884,TRGV10,Probable non-functional T cell receptor gamma variable 10 was investigated as a therapeutic target.,Blood,2025
+30038820,XRCC4,A screening campaign identified modulators of DNA repair protein XRCC4.,Mol Cell,2021
+30064444,TIMM23,A screening campaign identified modulators of Mitochondrial import inner membrane translocase subunit Tim23.,Blood,2025
+30069294,TRIM49,A screening campaign identified modulators of Tripartite motif-containing protein 49.,Free Radic Biol Med,2025
+30058340,EGFR,Epidermal growth factor receptor was investigated as a therapeutic target.,Nat Med,2021
+30099351,MERTK,MERTK expression correlated with treatment response.,J Immunol,2022
+30026094,NCS1,A screening campaign identified modulators of Neuronal calcium sensor 1.,Nat Rev Drug Discov,2025
+30022967,ABL1,ABL1 expression correlated with treatment response.,J Immunol,2023
+30047676,SUOX,"A screening campaign identified modulators of Sulfite oxidase, mitochondrial.",Cancer Res,2022
+30089772,A2ML1,Alpha-2-macroglobulin-like protein 1 was investigated as a therapeutic target.,Cancer Res,2023
+30077952,DISP2,Protein dispatched homolog 2 was investigated as a therapeutic target.,Nat Med,2023
+30052872,TNF,Tumor necrosis factor was investigated as a therapeutic target.,Free Radic Biol Med,2023
+30042306,SPEGNB,A screening campaign identified modulators of SPEG neighbor protein.,Cancer Res,2022
+30086106,VEGFA,"A screening campaign identified modulators of Vascular endothelial growth factor A, long form.",Circulation,2022
+30091250,PCDHGA12,A screening campaign identified modulators of Protocadherin gamma-A12.,Mol Cell,2021
+30075161,JCHAIN,Inhibition of JCHAIN altered disease-relevant signalling in vitro.,Free Radic Biol Med,2022
+30098791,RGS20,RGS20 expression correlated with treatment response.,Diabetes,2022
+30024066,REG3A,A screening campaign identified modulators of Regenerating islet-derived protein 3-alpha.,Cancer Res,2022
+30023034,EXOSC9,Exosome complex component RRP45 was investigated as a therapeutic target.,Endocrinology,2025
+30014776,CLCA1,A screening campaign identified modulators of Calcium-activated chloride channel regulator 1.,Diabetes,2022
+30056125,IFI27,Inhibition of IFI27 altered disease-relevant signalling in vitro.,Nat Rev Drug Discov,2021
+30093441,MMP13,Inhibition of MMP13 altered disease-relevant signalling in vitro.,Cancer Res,2022
+30011178,TNP2,Nuclear transition protein 2 was investigated as a therapeutic target.,Mol Cell,2024
+30014953,IGLV4-69,Inhibition of IGLV4-69 altered disease-relevant signalling in vitro.,Endocrinology,2024
+30031148,PIM2,Serine/threonine-protein kinase pim-2 was investigated as a therapeutic target.,J Immunol,2024
+30054558,HDAC6,Protein deacetylase HDAC6 was investigated as a therapeutic target.,J Immunol,2024
+30015014,IFNA21,A screening campaign identified modulators of Interferon alpha-21.,Diabetes,2025
+30051140,ZNF705D,A screening campaign identified modulators of Zinc finger protein 705D.,Blood,2021
+30024353,AP1S1,Inhibition of AP1S1 altered disease-relevant signalling in vitro.,Nat Rev Drug Discov,2024
+30045776,ENO4,A screening campaign identified modulators of Enolase 4.,Mol Cell,2022
+30013404,HSP90AA1,A screening campaign identified modulators of Heat shock protein HSP 90-alpha.,Endocrinology,2025
+30057036,IFI27,"A screening campaign identified modulators of Interferon alpha-inducible protein 27, mitochondrial.",J Biol Chem,2022
+30047020,GOLGA8A,Golgin subfamily A member 8A was investigated as a therapeutic target.,Mol Cell,2021
+30035585,ETV5,Inhibition of ETV5 altered disease-relevant signalling in vitro.,Blood,2021
+30038660,CSNK2A1,Casein kinase II subunit alpha was investigated as a therapeutic target.,Mol Cell,2021
+30092481,GHRH,Inhibition of GHRH altered disease-relevant signalling in vitro.,Circulation,2022
+30066765,RRAS2,Inhibition of RRAS2 altered disease-relevant signalling in vitro.,J Biol Chem,2021
+30092934,IFNB1,A screening campaign identified modulators of Interferon beta.,Nat Rev Drug Discov,2025
+30042292,ATP10A,Phospholipid-transporting ATPase VA was investigated as a therapeutic target.,Cancer Res,2023
+30093991,ID1,ID1 expression correlated with treatment response.,Cancer Res,2022
+30065344,MAP3K7,Mitogen-activated protein kinase kinase kinase 7 was investigated as a therapeutic target.,Cell,2025
+30088314,EEF1G,Elongation factor 1-gamma was investigated as a therapeutic target.,Cell,2025
+30085792,TRBC1,A screening campaign identified modulators of T cell receptor beta constant 1.,Circulation,2023
+30039154,CDK6,A screening campaign identified modulators of Cyclin-dependent kinase 6.,J Immunol,2025
+30073742,CLCN3,H(+)/Cl(-) exchange transporter 3 was investigated as a therapeutic target.,Free Radic Biol Med,2023
+30099290,SMAD4,A screening campaign identified modulators of SMAD family member 4.,Diabetes,2021
+30068648,SLC26A3,Chloride anion exchanger was investigated as a therapeutic target.,Nat Rev Drug Discov,2024
+30046765,SUOX,Inhibition of SUOX altered disease-relevant signalling in vitro.,Nat Rev Drug Discov,2021
+30010616,PSA,Serum levels of the glycoprotein guided biopsy decisions in the population screening cohort.,Circulation,2023
+30058520,TRGV11,Probable non-functional T cell receptor gamma variable 11 was investigated as a therapeutic target.,J Immunol,2021
+30090984,URB1,A screening campaign identified modulators of Nucleolar pre-ribosomal-associated protein 1.,Endocrinology,2025
+30093849,ATP5MG,Inhibition of ATP5MG altered disease-relevant signalling in vitro.,Cell,2025
+30093083,MYL12B,MYL12B expression correlated with treatment response.,Circulation,2024
+30058883,UCHL1,UCHL1 expression correlated with treatment response.,Mol Cell,2024
+30061273,DPEP1,Inhibition of DPEP1 altered disease-relevant signalling in vitro.,Blood,2024
+30028966,KCNQ2,A screening campaign identified modulators of Potassium voltage-gated channel subfamily KQT member 2.,Cancer Res,2022
+30029478,IGLV2-11,Immunoglobulin lambda variable 2-11 was investigated as a therapeutic target.,Nat Med,2024
+30064698,CRYBB3,Beta-crystallin B3 was investigated as a therapeutic target.,Nat Rev Drug Discov,2024
+30042165,CLCN2,Inhibition of CLCN2 altered disease-relevant signalling in vitro.,Free Radic Biol Med,2021
+30038401,MAST3,Inhibition of MAST3 altered disease-relevant signalling in vitro.,Blood,2022
+30045763,CA12,CA12 expression correlated with treatment response.,Nat Med,2024
+30049549,DUX4L5,Inhibition of DUX4L5 altered disease-relevant signalling in vitro.,Mol Cell,2025
+30062893,LRRIQ3,Inhibition of LRRIQ3 altered disease-relevant signalling in vitro.,J Immunol,2024
+30050410,ZNF292,A screening campaign identified modulators of Zinc finger protein 292.,Nat Rev Drug Discov,2021
+30014404,WEE1,Wee1-like protein kinase was investigated as a therapeutic target.,Nat Med,2025
+30079856,CHML,A screening campaign identified modulators of Rab proteins geranylgeranyltransferase component A 2.,Free Radic Biol Med,2022
+30033378,IFNA17,Interferon alpha-17 was investigated as a therapeutic target.,Nat Rev Drug Discov,2024
+30087478,SIPA1L3,Signal-induced proliferation-associated 1-like protein 3 was investigated as a therapeutic target.,J Biol Chem,2024
+30092858,IFNA2,Interferon alpha-2 was investigated as a therapeutic target.,J Immunol,2024
+30078945,CHML,Inhibition of CHML altered disease-relevant signalling in vitro.,J Immunol,2021
+30060125,SOBP,Inhibition of SOBP altered disease-relevant signalling in vitro.,Free Radic Biol Med,2021
+30028328,CCR6,C-C chemokine receptor type 6 was investigated as a therapeutic target.,Circulation,2024
+30040901,SCGN,Inhibition of SCGN altered disease-relevant signalling in vitro.,Cell,2022
+30030760,DPP9,A screening campaign identified modulators of Dipeptidyl peptidase 9.,Cancer Res,2021
+30012024,YWHAQ,A screening campaign identified modulators of 14-3-3 protein theta.,Circulation,2025
+30095168,IGHE,Immunoglobulin heavy constant epsilon was investigated as a therapeutic target.,Diabetes,2024
+30078923,IGLV5-52,IGLV5-52 expression correlated with treatment response.,J Biol Chem,2024
+30068487,SP9,SP9 expression correlated with treatment response.,Endocrinology,2023
+30024074,CREB1,A screening campaign identified modulators of Cyclic AMP-responsive element-binding protein 1.,J Biol Chem,2025
+30054403,KCNN4,KCNN4 expression correlated with treatment response.,Circulation,2024
+30010262,MERTK,Tyrosine-protein kinase Mer was investigated as a therapeutic target.,Diabetes,2023
+30083538,SLC22A5,Organic cation/carnitine transporter 2 was investigated as a therapeutic target.,Free Radic Biol Med,2024
+30036249,DHODH,Inhibition of DHODH altered disease-relevant signalling in vitro.,Free Radic Biol Med,2025
+30098138,TTLL13,Tubulin polyglutamylase TTLL13 was investigated as a therapeutic target.,Blood,2024
+30052004,OR2J2,Olfactory receptor 2J2 was investigated as a therapeutic target.,J Immunol,2025
+30068572,PBX2,Pre-B-cell leukemia transcription factor 2 was investigated as a therapeutic target.,Circulation,2023
+30068944,ESR1,Estrogen receptor was investigated as a therapeutic target.,J Immunol,2025
+30096536,IGLV3-32,A screening campaign identified modulators of Probable non-functional immunoglobulin lambda variable 3-32.,Free Radic Biol Med,2022
+30043265,ARSD,Inhibition of ARSD altered disease-relevant signalling in vitro.,Blood,2021
+30093994,MYL12B,Myosin regulatory light chain 12B was investigated as a therapeutic target.,Endocrinology,2025
+30020967,TRAV9-1,TRAV9-1 expression correlated with treatment response.,Diabetes,2023
+30049624,TRAV27,A screening campaign identified modulators of T cell receptor alpha variable 27.,Nat Rev Drug Discov,2025
+30020564,SEC61A1,A screening campaign identified modulators of Protein transport protein Sec61 subunit alpha isoform 1.,J Immunol,2025
+30013990,NTRK2,A screening campaign identified modulators of BDNF/NT-3 growth factors receptor.,Mol Cell,2021
+30057709,MAP3K5,Inhibition of MAP3K5 altered disease-relevant signalling in vitro.,Blood,2025
+30033331,IKBKB,IKBKB expression correlated with treatment response.,Cell,2022
+30048936,PON2,A screening campaign identified modulators of Serum paraoxonase/arylesterase 2.,Circulation,2022
+30033152,KIAA0040,Uncharacterized protein KIAA0040 was investigated as a therapeutic target.,Cell,2023
+30033910,LZTS3,A screening campaign identified modulators of Leucine zipper putative tumor suppressor 3.,Cancer Res,2021
+30098268,PAX6,Paired box protein Pax-6 was investigated as a therapeutic target.,Cell,2024
+30015518,SLC5A2,Sodium/glucose cotransporter 2 was investigated as a therapeutic target.,Diabetes,2024
+30044162,CCDC28A-AS1,A screening campaign identified modulators of Putative uncharacterized protein CCDC28A-AS1.,Diabetes,2023
+30011404,AQR,RNA helicase aquarius was investigated as a therapeutic target.,Nat Med,2025
+30045180,NMUR2,Neuromedin-U receptor 2 was investigated as a therapeutic target.,Cancer Res,2021
+30041117,PSA,Serum levels of the glycoprotein guided biopsy decisions in the population screening cohort.,J Immunol,2022
+30019848,TTLL8,Protein monoglycylase TTLL8 was investigated as a therapeutic target.,Nat Med,2024
+30085406,GAGE7,A screening campaign identified modulators of G antigen 7.,Endocrinology,2022
+30013693,NR4A1,Inhibition of NR4A1 altered disease-relevant signalling in vitro.,Blood,2024
+30031224,PARP1,Poly [ADP-ribose] polymerase 1 was investigated as a therapeutic target.,Diabetes,2025
+30067676,RRAS2,A screening campaign identified modulators of Ras-related protein R-Ras2.,Nat Med,2022
+30081661,KLRK1,Inhibition of KLRK1 altered disease-relevant signalling in vitro.,J Biol Chem,2022
+30099332,SOX3,Transcription factor SOX-3 was investigated as a therapeutic target.,Free Radic Biol Med,2023
+30046432,IFNG,Interferon gamma was investigated as a therapeutic target.,Cell,2023
+30093924,GAD2,Glutamate decarboxylase 2 was investigated as a therapeutic target.,Circulation,2025
+30086203,TRAV9-2,TRAV9-2 expression correlated with treatment response.,Free Radic Biol Med,2024
+30036301,IGHV4-39,Inhibition of IGHV4-39 altered disease-relevant signalling in vitro.,Free Radic Biol Med,2022
+30020892,USP14,Ubiquitin carboxyl-terminal hydrolase 14 was investigated as a therapeutic target.,Blood,2023
+30080214,DRD2,D(2) dopamine receptor was investigated as a therapeutic target.,J Biol Chem,2025
+30061664,KLKB1,A screening campaign identified modulators of Plasma kallikrein.,J Biol Chem,2025
+30066992,CTDSPL2,CTD small phosphatase-like protein 2 was investigated as a therapeutic target.,Diabetes,2023
+30096686,AIM2,A screening campaign identified modulators of Interferon-inducible protein AIM2.,J Immunol,2022
+30040803,IFNA5,IFNA5 expression correlated with treatment response.,Nat Med,2024
+30083602,CCNF,Cyclin-F was investigated as a therapeutic target.,J Biol Chem,2023
+30078896,H1-2,A screening campaign identified modulators of Histone H1.2.,Blood,2022
+30047564,SIRT3,"A screening campaign identified modulators of NAD-dependent protein deacetylase sirtuin-3, mitochondrial.",Mol Cell,2025
+30096752,PDE10A,"A screening campaign identified modulators of cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A.",Cell,2023
+30050214,CXCR4,C-X-C chemokine receptor type 4 was investigated as a therapeutic target.,Mol Cell,2025
+30062887,AKT1,AKT1 expression correlated with treatment response.,Diabetes,2023
+30069285,BIRC2,Inhibition of BIRC2 altered disease-relevant signalling in vitro.,Nat Rev Drug Discov,2021
+30067842,DAD1,A screening campaign identified modulators of Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit DAD1.,Mol Cell,2023
+30015968,IL6,Interleukin-6 was investigated as a therapeutic target.,Free Radic Biol Med,2024
+30082617,PSA,Rising titres after radical prostatectomy signalled biochemical recurrence ahead of imaging.,Nat Med,2024
+30087624,NUDT4B,A screening campaign identified modulators of Diphosphoinositol polyphosphate phosphohydrolase NUDT4B.,Endocrinology,2025
+30019521,SRRM4,A screening campaign identified modulators of Serine/arginine repetitive matrix protein 4.,Endocrinology,2021
+30015864,IGLV4-69,A screening campaign identified modulators of Immunoglobulin lambda variable 4-69.,Nat Rev Drug Discov,2025
+30050472,NR3C2,A screening campaign identified modulators of Mineralocorticoid receptor.,Endocrinology,2023
+30050224,TSPY10,A screening campaign identified modulators of Testis-specific Y-encoded protein 10.,Mol Cell,2025
+30018609,RPL10,Inhibition of RPL10 altered disease-relevant signalling in vitro.,J Biol Chem,2025
+30065708,KNCN,Kinocilin was investigated as a therapeutic target.,Blood,2024
+30019520,RPL10,A screening campaign identified modulators of Large ribosomal subunit protein uL16.,Blood,2021
+30016522,MRC1,A screening campaign identified modulators of Macrophage mannose receptor 1.,Circulation,2023
+30012560,SNRPD3,A screening campaign identified modulators of Small nuclear ribonucleoprotein Sm D3.,Cell,2021
+30043414,IGLV3-19,Immunoglobulin lambda variable 3-19 was investigated as a therapeutic target.,Cell,2025
+30060956,F12,A screening campaign identified modulators of Coagulation factor XII.,Circulation,2022
+30051644,ARHGEF6,Rho guanine nucleotide exchange factor 6 was investigated as a therapeutic target.,Cell,2025
+30068772,PRKCD,A screening campaign identified modulators of Protein kinase C delta type.,Cancer Res,2023
+30097227,TTLL13,TTLL13 expression correlated with treatment response.,Circulation,2023
+30049561,NR3C2,Inhibition of NR3C2 altered disease-relevant signalling in vitro.,Cancer Res,2022
+30034245,PDE5A,Inhibition of PDE5A altered disease-relevant signalling in vitro.,Endocrinology,2021
+30016603,RPS16,RPS16 expression correlated with treatment response.,Endocrinology,2024
+30065982,IGLV1-40,A screening campaign identified modulators of Immunoglobulin lambda variable 1-40.,Diabetes,2023
+30079160,IDH2,"Isocitrate dehydrogenase [NADP], mitochondrial was investigated as a therapeutic target.",Diabetes,2021
+30044308,AQP7B,Putative aquaporin-7B was investigated as a therapeutic target.,Mol Cell,2024
+30095592,PCSK9,Proprotein convertase subtilisin/kexin type 9 was investigated as a therapeutic target.,J Biol Chem,2023
+30082572,KLRK1,A screening campaign identified modulators of NKG2-D type II integral membrane protein.,Cancer Res,2023
+30034242,IKBKB,Inhibitor of nuclear factor kappa-B kinase subunit beta was investigated as a therapeutic target.,Nat Rev Drug Discov,2023
+30021807,IGLV1-50,IGLV1-50 expression correlated with treatment response.,Circulation,2023
+30079303,DRD2,DRD2 expression correlated with treatment response.,Mol Cell,2024
+30062618,KRT34,"Keratin, type I cuticular Ha4 was investigated as a therapeutic target.",Diabetes,2024
+30091041,WNT9B,Inhibition of WNT9B altered disease-relevant signalling in vitro.,J Immunol,2022
+30085703,ANXA13,ANXA13 expression correlated with treatment response.,Mol Cell,2024
+30042532,KCNA2,Potassium voltage-gated channel subfamily A member 2 was investigated as a therapeutic target.,Cancer Res,2023
+30079568,ZNF146,Zinc finger protein OZF was investigated as a therapeutic target.,Nat Rev Drug Discov,2024
+30024211,GPM6B,GPM6B expression correlated with treatment response.,J Immunol,2022
+30069088,FHIP1A,FHF complex subunit HOOK-interacting protein 1A was investigated as a therapeutic target.,Mol Cell,2024
+30046500,RHOA,A screening campaign identified modulators of Transforming protein RhoA.,Cell,2021
+30011622,CFTR,A screening campaign identified modulators of Cystic fibrosis transmembrane conductance regulator.,J Immunol,2023
+30049303,CXCR4,CXCR4 expression correlated with treatment response.,J Immunol,2024
+30039312,MAST3,A screening campaign identified modulators of Microtubule-associated serine/threonine-protein kinase 3.,Diabetes,2023
+30077985,H1-2,Inhibition of H1-2 altered disease-relevant signalling in vitro.,Blood,2021
+30055406,CSH1,A screening campaign identified modulators of Chorionic somatomammotropin hormone 1.,J Immunol,2022
+30050523,KCNH2,KCNH2 expression correlated with treatment response.,Cancer Res,2024
+30026104,IGKV3D-11,Immunoglobulin kappa variable 3D-11 was investigated as a therapeutic target.,Circulation,2025
+30021089,ABTB3,Inhibition of ABTB3 altered disease-relevant signalling in vitro.,Circulation,2025
+30044067,HNF4A,HNF4A expression correlated with treatment response.,Nat Med,2023
+30023780,PPARG,Peroxisome proliferator-activated receptor gamma was investigated as a therapeutic target.,Endocrinology,2021
+30045589,RHOA,Inhibition of RHOA altered disease-relevant signalling in vitro.,Cancer Res,2025
+30061714,CCL11,Eotaxin was investigated as a therapeutic target.,Mol Cell,2025
+30075853,IGHV3-53,Inhibition of IGHV3-53 altered disease-relevant signalling in vitro.,Nat Rev Drug Discov,2024
+30094874,IGKV1D-33,Immunoglobulin kappa variable 1D-33 was investigated as a therapeutic target.,Blood,2025
+30037854,PIGR,A screening campaign identified modulators of Polymeric immunoglobulin receptor.,Nat Med,2025
+30045185,CACNA1C,Inhibition of CACNA1C altered disease-relevant signalling in vitro.,Nat Med,2021
+30069389,ANKRD36,Inhibition of ANKRD36 altered disease-relevant signalling in vitro.,Free Radic Biol Med,2025
+30019653,SEC61A1,Inhibition of SEC61A1 altered disease-relevant signalling in vitro.,Free Radic Biol Med,2024
+30047040,IGHV4-30-2,Immunoglobulin heavy variable 4-30-2 was investigated as a therapeutic target.,Diabetes,2021
+30065164,THRB,A screening campaign identified modulators of Thyroid hormone receptor beta.,Cancer Res,2025
+30048358,RPL7A,Large ribosomal subunit protein eL8 was investigated as a therapeutic target.,Free Radic Biol Med,2024
+30033204,NR1H4,A screening campaign identified modulators of Bile acid receptor.,J Immunol,2025
+30068261,ESRRA,Inhibition of ESRRA altered disease-relevant signalling in vitro.,J Immunol,2022
+30014607,SLC5A2,SLC5A2 expression correlated with treatment response.,Cancer Res,2023
+30048713,TRAV27,Inhibition of TRAV27 altered disease-relevant signalling in vitro.,Nat Med,2024
+30082627,SLC22A5,SLC22A5 expression correlated with treatment response.,Diabetes,2023
+30077068,GAST,Gastrin was investigated as a therapeutic target.,Nat Med,2024
+30092704,DCK,Deoxycytidine kinase was investigated as a therapeutic target.,Cancer Res,2025
+30097386,HTR7,A screening campaign identified modulators of 5-hydroxytryptamine receptor 7.,J Biol Chem,2022
+30052388,DHRS7C,Dehydrogenase/reductase SDR family member 7C was investigated as a therapeutic target.,Diabetes,2024
+30087114,TRAV9-2,T cell receptor alpha variable 9-2 was investigated as a therapeutic target.,Circulation,2025
+30074291,IGLV6-57,IGLV6-57 expression correlated with treatment response.,Endocrinology,2022
+30050724,RIPK2,Receptor-interacting serine/threonine-protein kinase 2 was investigated as a therapeutic target.,Circulation,2025
+30093301,PTGS2,Inhibition of PTGS2 altered disease-relevant signalling in vitro.,Cancer Res,2022
+30065880,CCDC169,Coiled-coil domain-containing protein 169 was investigated as a therapeutic target.,Free Radic Biol Med,2021
+30091947,IFNA2,IFNA2 expression correlated with treatment response.,Endocrinology,2023
+30054682,TRAV23DV6,A screening campaign identified modulators of T cell receptor alpha variable 23/delta variable 6.,J Immunol,2023
+30074160,DPP8,A screening campaign identified modulators of Dipeptidyl peptidase 8.,Endocrinology,2021
+30086614,ANXA13,Annexin A13 was investigated as a therapeutic target.,Nat Rev Drug Discov,2025
+30096510,RPS11,A screening campaign identified modulators of Small ribosomal subunit protein uS17.,Cell,2021
+30027960,MCM3AP,Germinal-center associated nuclear protein was investigated as a therapeutic target.,J Biol Chem,2021
+30070527,VARS1,VARS1 expression correlated with treatment response.,J Immunol,2023
+30011249,FAP,Inhibition of FAP altered disease-relevant signalling in vitro.,Cell,2025
+30078744,EPB42,A screening campaign identified modulators of Protein 4.2.,Cell,2025
+30027087,NUTF2,NUTF2 expression correlated with treatment response.,Diabetes,2023
+30012568,IFNA7,Interferon alpha-7 was investigated as a therapeutic target.,Nat Med,2024
+30049576,CLCN5,A screening campaign identified modulators of H(+)/Cl(-) exchange transporter 5.,Nat Med,2022
+30043652,CALR,A screening campaign identified modulators of Calreticulin.,Mol Cell,2023
+30017780,EIF4H,A screening campaign identified modulators of Eukaryotic translation initiation factor 4H.,Nat Med,2021
+30026770,IGLV3-9,A screening campaign identified modulators of Immunoglobulin lambda variable 3-9.,Nat Rev Drug Discov,2021
+30095618,HSPE1,"10 kDa heat shock protein, mitochondrial was investigated as a therapeutic target.",Mol Cell,2024
+30058007,IGHV3-9,IGHV3-9 expression correlated with treatment response.,Cell,2023
+30077782,PLD2,Phospholipase D2 was investigated as a therapeutic target.,Blood,2023
+30030886,LRRC37A3,A screening campaign identified modulators of Leucine-rich repeat-containing protein 37A3.,J Biol Chem,2022
+30030720,ITIH3,Inter-alpha-trypsin inhibitor heavy chain H3 was investigated as a therapeutic target.,Mol Cell,2021
+30073411,PTGDS,PTGDS expression correlated with treatment response.,Cancer Res,2022
+30080672,YJEFN3,YjeF N-terminal domain-containing protein 3 was investigated as a therapeutic target.,Mol Cell,2023
+30073108,UQCRQ,Cytochrome b-c1 complex subunit 8 was investigated as a therapeutic target.,Cancer Res,2024
+30022456,PRKD1,A screening campaign identified modulators of Serine/threonine-protein kinase D1.,Cancer Res,2022
+30096803,PDIA6,PDIA6 expression correlated with treatment response.,Cancer Res,2024
+30075991,IRAK1,IRAK1 expression correlated with treatment response.,Diabetes,2022
+30042503,IGLV3-19,IGLV3-19 expression correlated with treatment response.,Mol Cell,2024
+30071840,SNAPC5,snRNA-activating protein complex subunit 5 was investigated as a therapeutic target.,Cancer Res,2021
+30047780,CASR,A screening campaign identified modulators of Extracellular calcium-sensing receptor.,Blood,2021
+30078500,IL18R1,A screening campaign identified modulators of Interleukin-18 receptor 1.,Cell,2021
+30029290,SAA2,A screening campaign identified modulators of Serum amyloid A-2 protein.,Blood,2021
+30070196,BIRC2,A screening campaign identified modulators of Baculoviral IAP repeat-containing protein 2.,Free Radic Biol Med,2022
+30059794,UCHL1,Ubiquitin carboxyl-terminal hydrolase isozyme L1 was investigated as a therapeutic target.,Free Radic Biol Med,2025
+30055531,CLCN4,CLCN4 expression correlated with treatment response.,Nat Med,2022
+30036160,ARHGAP10,A screening campaign identified modulators of Rho GTPase-activating protein 10.,Cell,2021
+30041254,GAGE12F,A screening campaign identified modulators of G antigen 12F.,Blood,2025
+30024146,IGHV3-30,A screening campaign identified modulators of Immunoglobulin heavy variable 3-30.,Endocrinology,2022
+30077925,MGLL,Inhibition of MGLL altered disease-relevant signalling in vitro.,Nat Med,2021
+30089638,GPR55,G protein-coupled receptor 55 was investigated as a therapeutic target.,Cell,2024
+30046990,PLXNA3,A screening campaign identified modulators of Plexin-A3.,Endocrinology,2021
+30048296,KRT33A,"A screening campaign identified modulators of Keratin, type I cuticular Ha3-I.",Mol Cell,2022
+30067885,ETV6,Inhibition of ETV6 altered disease-relevant signalling in vitro.,J Immunol,2021
+30070626,UBE2D1,A screening campaign identified modulators of Ubiquitin-conjugating enzyme E2 D1.,Endocrinology,2022
+30073954,MXD1,A screening campaign identified modulators of Max dimerization protein 1.,Blood,2025
+30017514,RPS16,Small ribosomal subunit protein uS9 was investigated as a therapeutic target.,Mol Cell,2025
+30011678,CDK5R1,Cyclin-dependent kinase 5 activator 1 was investigated as a therapeutic target.,Mol Cell,2024
+30047951,IGKC,IGKC expression correlated with treatment response.,J Biol Chem,2022
+30034281,MARK3,Inhibition of MARK3 altered disease-relevant signalling in vitro.,J Biol Chem,2022
+30015600,TM4SF5,Transmembrane 4 L6 family member 5 was investigated as a therapeutic target.,Blood,2021
+30076871,PLD2,PLD2 expression correlated with treatment response.,Mol Cell,2022
+30084713,IGLV2-14,Inhibition of IGLV2-14 altered disease-relevant signalling in vitro.,J Biol Chem,2024
+30074322,PTGDS,Prostaglandin-H2 D-isomerase was investigated as a therapeutic target.,Cancer Res,2023
+30056888,ST18,Suppression of tumorigenicity 18 protein was investigated as a therapeutic target.,Free Radic Biol Med,2024
+30053854,ATP6V0C,A screening campaign identified modulators of V-type proton ATPase 16 kDa proteolipid subunit c.,Nat Med,2025
+30027196,PAFAH1B3,A screening campaign identified modulators of Platelet-activating factor acetylhydrolase IB subunit alpha1.,Mol Cell,2022
+30037160,DHODH,"A screening campaign identified modulators of Dihydroorotate dehydrogenase (quinone), mitochondrial.",J Biol Chem,2021
+30097714,PDIA6,Protein disulfide-isomerase A6 was investigated as a therapeutic target.,J Biol Chem,2025
+30055768,CLCN6,H(+)/Cl(-) exchange transporter 6 was investigated as a therapeutic target.,Nat Med,2024
+30055153,UBE2L6,Ubiquitin/ISG15-conjugating enzyme E2 L6 was investigated as a therapeutic target.,Free Radic Biol Med,2023
+30096969,MBTD1,Inhibition of MBTD1 altered disease-relevant signalling in vitro.,Mol Cell,2025
+30071084,CLGN,A screening campaign identified modulators of Calmegin.,J Biol Chem,2025
+30087022,GPC3,Glypican-3 was investigated as a therapeutic target.,J Immunol,2023
+30041714,IFNA5,Interferon alpha-5 was investigated as a therapeutic target.,Circulation,2025
+30070300,ANKRD36,A screening campaign identified modulators of Ankyrin repeat domain-containing protein 36A.,Cancer Res,2021
+30095841,PDE10A,Inhibition of PDE10A altered disease-relevant signalling in vitro.,Free Radic Biol Med,2022
+30021684,IGHG2,A screening campaign identified modulators of Immunoglobulin heavy constant gamma 2.,Mol Cell,2025
+30073249,DPP8,Inhibition of DPP8 altered disease-relevant signalling in vitro.,Cell,2025
+30028756,USP11,A screening campaign identified modulators of Ubiquitin carboxyl-terminal hydrolase 11.,J Immunol,2022
+30099162,PSA,The kallikrein-family serine protease liquefies seminal coagulum through cleavage of semenogelins.,J Biol Chem,2023
+30059080,MAPKBP1,A screening campaign identified modulators of Mitogen-activated protein kinase-binding protein 1.,Nat Rev Drug Discov,2021
+30073608,SLC30A4,Probable proton-coupled zinc antiporter SLC30A4 was investigated as a therapeutic target.,J Biol Chem,2024
+30049176,H1-3,A screening campaign identified modulators of Histone H1.3.,Circulation,2022
+30091191,TYRO3,TYRO3 expression correlated with treatment response.,Endocrinology,2022
+30087009,TSPY8,Inhibition of TSPY8 altered disease-relevant signalling in vitro.,Cancer Res,2025
+30014224,ALOX15,Polyunsaturated fatty acid lipoxygenase ALOX15 was investigated as a therapeutic target.,J Immunol,2025
+30053647,HDAC6,HDAC6 expression correlated with treatment response.,Cancer Res,2023
+30042741,CALR,Inhibition of CALR altered disease-relevant signalling in vitro.,Cancer Res,2022
+30091825,IFNA13,Inhibition of IFNA13 altered disease-relevant signalling in vitro.,Free Radic Biol Med,2021
+30049313,TSPY10,Inhibition of TSPY10 altered disease-relevant signalling in vitro.,Diabetes,2024
+30087292,IGHV3-23,Immunoglobulin heavy variable 3-23 was investigated as a therapeutic target.,J Immunol,2023
+30080868,ZBTB16,Zinc finger and BTB domain-containing protein 16 was investigated as a therapeutic target.,Nat Med,2024
+30031116,IGLV4-60,A screening campaign identified modulators of Immunoglobulin lambda variable 4-60.,Blood,2022
+30024400,CNTF,A screening campaign identified modulators of Ciliary neurotrophic factor.,Circulation,2021
+30084532,KDM5C,Lysine-specific demethylase 5C was investigated as a therapeutic target.,Blood,2023
+30094707,HSPE1,HSPE1 expression correlated with treatment response.,Endocrinology,2023
+30098648,GOLGA4,Golgin subfamily A member 4 was investigated as a therapeutic target.,Cell,2024
+30063804,LRRIQ3,A screening campaign identified modulators of Leucine-rich repeat and IQ domain-containing protein 3.,Nat Rev Drug Discov,2025
+30055152,RIMBP3B,RIMS-binding protein 3B was investigated as a therapeutic target.,J Biol Chem,2023
+30048422,ZNF728,Zinc finger protein 728 was investigated as a therapeutic target.,Nat Med,2023
+30013914,LCMT2,tRNA wybutosine-synthesizing protein 4 was investigated as a therapeutic target.,Mol Cell,2025
+30070173,CLGN,Inhibition of CLGN altered disease-relevant signalling in vitro.,Nat Med,2024
+30051434,KCNH2,Voltage-gated inwardly rectifying potassium channel KCNH2 was investigated as a therapeutic target.,Nat Med,2025
+30036342,IGLV1-44,A screening campaign identified modulators of Immunoglobulin lambda variable 1-44.,Endocrinology,2023
+30046309,IGHV1-45,Inhibition of IGHV1-45 altered disease-relevant signalling in vitro.,Free Radic Biol Med,2025
+30040382,MKRN4P,A screening campaign identified modulators of Putative E3 ubiquitin-protein ligase makorin-4.,Diabetes,2023
+30012493,HSP90AA1,Inhibition of HSP90AA1 altered disease-relevant signalling in vitro.,Nat Rev Drug Discov,2024
+30073792,KIF5C,Kinesin heavy chain isoform 5C was investigated as a therapeutic target.,Nat Rev Drug Discov,2023
+30023878,ABL1,Tyrosine-protein kinase ABL1 was investigated as a therapeutic target.,J Immunol,2024
+30081466,PTPN11,A screening campaign identified modulators of Tyrosine-protein phosphatase non-receptor type 11.,J Immunol,2022
+30070613,RNASEL,Inhibition of RNASEL altered disease-relevant signalling in vitro.,J Immunol,2024
+30058620,MAP3K5,A screening campaign identified modulators of Mitogen-activated protein kinase kinase kinase 5.,Nat Med,2021
+30037818,IL7R,Interleukin-7 receptor subunit alpha was investigated as a therapeutic target.,Nat Rev Drug Discov,2024
+30013003,LCMT2,LCMT2 expression correlated with treatment response.,Endocrinology,2024
+30069024,CLCNKA,A screening campaign identified modulators of Chloride channel protein ClC-Ka.,Cancer Res,2025
+30019510,HCRTR2,A screening campaign identified modulators of Orexin receptor type 2.,Cell,2021
+30093486,BRDT,A screening campaign identified modulators of Bromodomain testis-specific protein.,Circulation,2022
+30046504,TRBV18,T cell receptor beta variable 18 was investigated as a therapeutic target.,Blood,2025
+30041145,TUBB8B,Inhibition of TUBB8B altered disease-relevant signalling in vitro.,Nat Med,2021
+30074041,BMX,Inhibition of BMX altered disease-relevant signalling in vitro.,Blood,2022
+30037992,SETD2,Histone-lysine N-methyltransferase SETD2 was investigated as a therapeutic target.,Diabetes,2023
+30073183,EEF1A2,EEF1A2 expression correlated with treatment response.,J Immunol,2024
+30043840,CSH2,Chorionic somatomammotropin hormone 2 was investigated as a therapeutic target.,Cancer Res,2021
+30078782,CIAO1,A screening campaign identified modulators of Probable cytosolic iron-sulfur protein assembly protein CIAO1.,Nat Rev Drug Discov,2023
+30014882,SNAPC2,snRNA-activating protein complex subunit 2 was investigated as a therapeutic target.,Nat Rev Drug Discov,2023
+30036348,AGER,Advanced glycation end product-specific receptor was investigated as a therapeutic target.,Cancer Res,2024
+30056884,F11,Coagulation factor XI was investigated as a therapeutic target.,Nat Med,2025
+30022000,ABTB3,A screening campaign identified modulators of Ankyrin repeat- and BTB/POZ domain-containing protein 3.,Circulation,2021
+30086756,AXL,A screening campaign identified modulators of Tyrosine-protein kinase receptor UFO.,J Biol Chem,2022
+30069172,ESRRA,A screening campaign identified modulators of Steroid hormone receptor ERR1.,J Immunol,2023
+30029849,DPP9,Inhibition of DPP9 altered disease-relevant signalling in vitro.,Cancer Res,2025
+30096982,STAG3L1,A screening campaign identified modulators of Putative STAG3-like protein 1.,Blood,2023
+30060753,KLKB1,Inhibition of KLKB1 altered disease-relevant signalling in vitro.,J Immunol,2024
+30050229,ZNF705D,Inhibition of ZNF705D altered disease-relevant signalling in vitro.,Diabetes,2025
+30029242,RND3,Rho-related GTP-binding protein RhoE was investigated as a therapeutic target.,Nat Med,2023
+30075091,NR3C1,NR3C1 expression correlated with treatment response.,Nat Med,2022
+30054370,XDH,A screening campaign identified modulators of Xanthine dehydrogenase/oxidase.,Free Radic Biol Med,2021
+30027354,SMO,A screening campaign identified modulators of Protein smoothened.,Endocrinology,2025
+30074952,BMX,A screening campaign identified modulators of Cytoplasmic tyrosine-protein kinase BMX.,Circulation,2023
+30073958,KDR,Vascular endothelial growth factor receptor 2 was investigated as a therapeutic target.,Nat Rev Drug Discov,2024
+30095798,SCN10A,Sodium channel protein type 10 subunit alpha was investigated as a therapeutic target.,Circulation,2024
+30047220,IGHV1-45,A screening campaign identified modulators of Immunoglobulin heavy variable 1-45.,Endocrinology,2021
+30026840,DUX4L3,Double homeobox protein 4-like protein 3 was investigated as a therapeutic target.,Diabetes,2021
+30092486,NEK7,A screening campaign identified modulators of Serine/threonine-protein kinase Nek7.,Nat Rev Drug Discov,2022
+30077046,TSPY4,A screening campaign identified modulators of Testis-specific Y-encoded protein 4.,J Biol Chem,2022
+30011649,SNRPD3,Inhibition of SNRPD3 altered disease-relevant signalling in vitro.,Cancer Res,2025
+30065754,IKBKE,A screening campaign identified modulators of Inhibitor of nuclear factor kappa-B kinase subunit epsilon.,Cancer Res,2025
+30037212,IGHV4-39,A screening campaign identified modulators of Immunoglobulin heavy variable 4-39.,Blood,2023
+30061707,KRT34,KRT34 expression correlated with treatment response.,Nat Med,2023
+30063824,IGKV3-20,Immunoglobulin kappa variable 3-20 was investigated as a therapeutic target.,Cell,2025
+30012240,TIMM10,A screening campaign identified modulators of Mitochondrial import inner membrane translocase subunit Tim10.,Cancer Res,2021
+30099509,HTR6,Inhibition of HTR6 altered disease-relevant signalling in vitro.,Blood,2025
+30046096,CACNA1C,A screening campaign identified modulators of Voltage-dependent L-type calcium channel subunit alpha-1C.,Blood,2022
+30092736,IFNA13,A screening campaign identified modulators of Interferon alpha-13.,Free Radic Biol Med,2022
+30074094,EEF1A2,Elongation factor 1-alpha 2 was investigated as a therapeutic target.,Diabetes,2025
+30067861,PRKCD,Inhibition of PRKCD altered disease-relevant signalling in vitro.,Nat Rev Drug Discov,2022
+30075202,IGLV6-57,Immunoglobulin lambda variable 6-57 was investigated as a therapeutic target.,Nat Med,2023
+30093963,IGKV1D-33,IGKV1D-33 expression correlated with treatment response.,J Biol Chem,2024
+30078836,MGLL,A screening campaign identified modulators of Monoglyceride lipase.,Endocrinology,2022
+30083289,PREP,Inhibition of PREP altered disease-relevant signalling in vitro.,Blood,2025
+30032821,HTR1B,Inhibition of HTR1B altered disease-relevant signalling in vitro.,Endocrinology,2022
+30035782,IGHV4-4,A screening campaign identified modulators of Immunoglobulin heavy variable 4-4.,Nat Med,2023
+30022400,CAMKK2,Calcium/calmodulin-dependent protein kinase kinase 2 was investigated as a therapeutic target.,J Biol Chem,2021
+30055070,PLCG2,"A screening campaign identified modulators of 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2.",Free Radic Biol Med,2021
+30033980,PIM1,Serine/threonine-protein kinase pim-1 was investigated as a therapeutic target.,Free Radic Biol Med,2021
+30055314,KCNN4,Intermediate conductance calcium-activated potassium channel protein 4 was investigated as a therapeutic target.,Nat Rev Drug Discov,2025
+30098822,TGFBR1,A screening campaign identified modulators of TGF-beta receptor type-1.,Blood,2023
+30046548,SYK,Tyrosine-protein kinase SYK was investigated as a therapeutic target.,Nat Rev Drug Discov,2024
+30088727,GPR55,GPR55 expression correlated with treatment response.,J Immunol,2023
+30014663,FLT3,FLT3 expression correlated with treatment response.,Diabetes,2024
+30027998,NUTF2,Nuclear transport factor 2 was investigated as a therapeutic target.,J Biol Chem,2024
+30094926,HSD3B2,A screening campaign identified modulators of 3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 2.,J Biol Chem,2022
+30036780,RGS2,Regulator of G protein signaling 2 was investigated as a therapeutic target.,J Immunol,2021
+30077030,MNDA,A screening campaign identified modulators of Myeloid cell nuclear differentiation antigen.,Endocrinology,2021
+30042860,CHRNB3,A screening campaign identified modulators of Neuronal acetylcholine receptor subunit beta-3.,Cell,2021
+30072304,MLNR,Motilin receptor was investigated as a therapeutic target.,Circulation,2025
+30032293,NR1H4,Inhibition of NR1H4 altered disease-relevant signalling in vitro.,Free Radic Biol Med,2024
+30040292,IGHV3-48,Immunoglobulin heavy variable 3-48 was investigated as a therapeutic target.,Cancer Res,2023
+30091664,IGHG3,Immunoglobulin heavy constant gamma 3 was investigated as a therapeutic target.,Free Radic Biol Med,2025
+30095440,CYP2D7,A screening campaign identified modulators of Cytochrome P450 2D7.,Cell,2021
+30090180,IGHV1-46,Immunoglobulin heavy variable 1-46 was investigated as a therapeutic target.,Mol Cell,2021
+30032464,COPZ1,A screening campaign identified modulators of Coatomer subunit zeta-1.,Circulation,2025
+30040514,SLC1A2,A screening campaign identified modulators of Excitatory amino acid transporter 2.,Diabetes,2025
+30044978,HNF4A,Hepatocyte nuclear factor 4-alpha was investigated as a therapeutic target.,Cancer Res,2024
+30071306,RFC3,A screening campaign identified modulators of Replication factor C subunit 3.,J Biol Chem,2022
+30059120,PSMC6,A screening campaign identified modulators of 26S proteasome regulatory subunit 10B.,Cancer Res,2021
+30076902,IRAK1,Interleukin-1 receptor-associated kinase 1 was investigated as a therapeutic target.,Blood,2023
+30044724,HSD17B4,Peroxisomal multifunctional enzyme type 2 was investigated as a therapeutic target.,Nat Med,2025
+30093184,TRBV16,T cell receptor beta variable 16 was investigated as a therapeutic target.,Diabetes,2025
+30042978,HDAC4,Histone deacetylase 4 was investigated as a therapeutic target.,Blood,2024
+30058209,PSMC6,Inhibition of PSMC6 altered disease-relevant signalling in vitro.,Nat Rev Drug Discov,2025
+30025146,FAM106C,A screening campaign identified modulators of Protein FAM106C.,Mol Cell,2022
+30090927,SRPK1,SRPK1 expression correlated with treatment response.,Cell,2023
+30063501,POR,Inhibition of POR altered disease-relevant signalling in vitro.,Diabetes,2022
+30056442,CLCN4,H(+)/Cl(-) exchange transporter 4 was investigated as a therapeutic target.,Free Radic Biol Med,2023
+30040908,BCKDK,Branched-chain alpha-ketoacid dehydrogenase kinase was investigated as a therapeutic target.,Free Radic Biol Med,2024
+30094902,ID1,DNA-binding protein inhibitor ID-1 was investigated as a therapeutic target.,Blood,2023
+30011113,YWHAQ,Inhibition of YWHAQ altered disease-relevant signalling in vitro.,Cancer Res,2024
+30097292,CA9,Carbonic anhydrase 9 was investigated as a therapeutic target.,Circulation,2023
+30022123,EXOSC9,EXOSC9 expression correlated with treatment response.,Nat Med,2024
+30053232,UNC119,Protein unc-119 homolog A was investigated as a therapeutic target.,Diabetes,2023
+30076002,NR3C1,Glucocorticoid receptor was investigated as a therapeutic target.,Cancer Res,2023
+30077833,EPB42,Inhibition of EPB42 altered disease-relevant signalling in vitro.,Diabetes,2024
+30041812,SCGN,A screening campaign identified modulators of Secretagogin.,Cancer Res,2023
+30033732,HTR1B,A screening campaign identified modulators of 5-hydroxytryptamine receptor 1B.,Diabetes,2023
+30035684,CASK,Peripheral plasma membrane protein CASK was investigated as a therapeutic target.,J Biol Chem,2025
+30067416,PSA,Free-to-total ratio of the circulating antigen improved specificity for malignant versus benign hyperplasia.,Free Radic Biol Med,2022
+30033402,IGKV1-39,Immunoglobulin kappa variable 1-39 was investigated as a therapeutic target.,J Biol Chem,2023
+30046653,SIRT3,Inhibition of SIRT3 altered disease-relevant signalling in vitro.,Mol Cell,2024
+30095030,IGKV6D-21,A screening campaign identified modulators of Immunoglobulin kappa variable 6D-21.,Endocrinology,2021
+30087914,USP46,A screening campaign identified modulators of Ubiquitin carboxyl-terminal hydrolase 46.,Diabetes,2025
+30086567,SIPA1L3,SIPA1L3 expression correlated with treatment response.,Circulation,2023
+30099216,FFAR3,A screening campaign identified modulators of Free fatty acid receptor 3.,J Biol Chem,2022
+30098305,FFAR3,Inhibition of FFAR3 altered disease-relevant signalling in vitro.,Circulation,2021
+30064831,NTSR2,NTSR2 expression correlated with treatment response.,Diabetes,2022
+30086111,GPC3,GPC3 expression correlated with treatment response.,J Biol Chem,2022
+30035249,ARHGAP10,Inhibition of ARHGAP10 altered disease-relevant signalling in vitro.,Blood,2025
+30038080,NQO1,NAD(P)H dehydrogenase [quinone] 1 was investigated as a therapeutic target.,Circulation,2021
+30062958,UQCRHL,"Cytochrome b-c1 complex subunit 6-like, mitochondrial was investigated as a therapeutic target.",Blood,2024
+30093267,CTRL,CTRL expression correlated with treatment response.,Nat Med,2023
+30097372,FAH,Fumarylacetoacetase was investigated as a therapeutic target.,Mol Cell,2023
+30025112,SCTR,Secretin receptor was investigated as a therapeutic target.,Circulation,2023
+30031006,RPL13,A screening campaign identified modulators of Large ribosomal subunit protein eL13.,Mol Cell,2022
+30042067,HDAC4,HDAC4 expression correlated with treatment response.,J Biol Chem,2023
+30045274,NCALD,Neurocalcin-delta was investigated as a therapeutic target.,Circulation,2025
+30062184,DPEP1,A screening campaign identified modulators of Dipeptidase 1.,Mol Cell,2025
+30018104,ACAP2,"Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2 was investigated as a therapeutic target.",Cell,2025
+30016334,IKZF1,A screening campaign identified modulators of Isoform Ik3 of DNA-binding protein Ikaros.,Mol Cell,2025
+30050324,AKAP3,A-kinase anchor protein 3 was investigated as a therapeutic target.,Diabetes,2025
+30099504,U2AF2,Splicing factor U2AF 65 kDa subunit was investigated as a therapeutic target.,Diabetes,2025
+30057509,GIPC1,Inhibition of GIPC1 altered disease-relevant signalling in vitro.,Diabetes,2025
+30025494,ZFAND5,AN1-type zinc finger protein 5 was investigated as a therapeutic target.,Cell,2025
+30035156,PDE5A,"A screening campaign identified modulators of cGMP-specific 3',5'-cyclic phosphodiesterase.",Mol Cell,2022
+30091170,DDR1,A screening campaign identified modulators of Epithelial discoidin domain-containing receptor 1.,Nat Med,2021
+30050460,DUX4L5,A screening campaign identified modulators of Double homeobox protein 4-like protein 5.,Cell,2021
+30063550,ALDH3A2,A screening campaign identified modulators of Aldehyde dehydrogenase family 3 member A2.,J Immunol,2021
+30018180,GPM6A,A screening campaign identified modulators of Neuronal membrane glycoprotein M6-a.,J Biol Chem,2021
+30025264,AP1S1,A screening campaign identified modulators of AP-1 complex subunit sigma-1A.,Cell,2025
+30071524,RNASEL,A screening campaign identified modulators of 2-5A-dependent ribonuclease.,J Biol Chem,2025
+30045741,UBC,Inhibition of UBC altered disease-relevant signalling in vitro.,J Biol Chem,2022
+30016604,PSMD7,A screening campaign identified modulators of 26S proteasome non-ATPase regulatory subunit 7.,Endocrinology,2025
+30065130,CTSL,A screening campaign identified modulators of Procathepsin L.,J Biol Chem,2021
+30046674,CA12,Carbonic anhydrase 12 was investigated as a therapeutic target.,Nat Med,2025
+30091092,CTSK,Cathepsin K was investigated as a therapeutic target.,Endocrinology,2023
+30044363,NCALD,NCALD expression correlated with treatment response.,Blood,2024
+30075445,TBC1D3K,Inhibition of TBC1D3K altered disease-relevant signalling in vitro.,Circulation,2021
+30090073,URB1,Inhibition of URB1 altered disease-relevant signalling in vitro.,Cancer Res,2024
+30069398,SP9,Transcription factor Sp9 was investigated as a therapeutic target.,Blood,2024
+30036834,TRGV1,A screening campaign identified modulators of Probable non-functional T cell receptor gamma variable.,Cancer Res,2025
+30030791,GHSR,GHSR expression correlated with treatment response.,Nat Rev Drug Discov,2022
+30054700,USP7,Ubiquitin C-terminal hydrolase 7 was investigated as a therapeutic target.,Nat Rev Drug Discov,2021
+30024432,IGHG1,Immunoglobulin heavy constant gamma 1 was investigated as a therapeutic target.,Mol Cell,2023
+30048265,H1-3,Inhibition of H1-3 altered disease-relevant signalling in vitro.,Endocrinology,2021
+30036950,VBP1,A screening campaign identified modulators of Prefoldin subunit 3.,Endocrinology,2021
+30021878,TRAV9-1,T cell receptor alpha variable 9-1 was investigated as a therapeutic target.,J Immunol,2024
+30017269,GPM6A,Inhibition of GPM6A altered disease-relevant signalling in vitro.,Cancer Res,2025
+30061036,SOBP,A screening campaign identified modulators of Sine oculis-binding protein homolog.,Nat Rev Drug Discov,2022
+30036496,ETV5,A screening campaign identified modulators of ETS translocation variant 5.,Cancer Res,2022

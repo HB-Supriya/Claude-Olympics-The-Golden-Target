@@ -1,0 +1,12 @@
+target_name,species,uniprot_id,gene_symbol,assay_count,binding_type
+PIM1 protein,H. sapiens,P11309,PIM1,120,Kd
+PIM2 protein,human,Q9P1W9,PIM2,88,Kd
+Ephrin type-A receptor 2,Homo sapiens,P29317,EPHA2,240,IC50
+ADAM17,Human,O60226,CSVP,310,Ki
+Prostate-specific antigen,Human,P07288,KLK3,71,Ki
+puromycin-sensitive aminopeptidase,Human,P55786,NPEPPS,356,EC50
+Histone deacetylase 4,human,E9PGB9,KIAA0288,45,IC50
+Interleukin-1 beta,human,P01584,,112,IC50
+KISS1,Human,Q969F8,KISS1,17,IC50
+Metastasis-suppressor KiSS-1,Homo sapiens,Q15726,KISS1,9,IC50
+IKZF1 protein,Human,Q13422-3,IKZF1,339,IC50

@@ -1,0 +1,13 @@
+accession,entry_name,gene_names,protein_name,organism,reviewed,length,database
+P11309,PIM1_HUMAN,PIM1,Serine/threonine-protein kinase pim-1,Homo sapiens (Human),reviewed,313,Swiss-Prot
+Q9P1W9,PIM2_HUMAN,PIM2,Serine/threonine-protein kinase pim-2,Homo sapiens (Human),reviewed,311,Swiss-Prot
+P29317,EPHA2_HUMAN,EPHA2,Ephrin type-A receptor 2,Homo sapiens (Human),reviewed,976,Swiss-Prot
+B5A968,B5A968_HUMAN,EPHA2,Ephrin type-A receptor 2,Homo sapiens (Human),unreviewed,956,TrEMBL
+P78536,ADA17_HUMAN,ADAM17,Disintegrin and metalloproteinase domain-containing protein 17,Homo sapiens (Human),reviewed,824,Swiss-Prot
+P07288,KLK3_HUMAN,KLK3,Prostate-specific antigen,Homo sapiens (Human),reviewed,261,Swiss-Prot
+P55786,PSA_HUMAN,NPEPPS,Puromycin-sensitive aminopeptidase,Homo sapiens (Human),reviewed,919,Swiss-Prot
+P56524,HDAC4_HUMAN,HDAC4,Histone deacetylase 4,Homo sapiens (Human),reviewed,1084,Swiss-Prot
+P01584,IL1B_HUMAN,IL1B,Interleukin-1 beta,Homo sapiens (Human),reviewed,269,Swiss-Prot
+Q13946,PDE7A_HUMAN,PDE7A,"High affinity cAMP-specific 3',5'-cyclic phosphodiesterase 7A",Homo sapiens (Human),reviewed,482,Swiss-Prot
+Q9Y233,PDE10_HUMAN,PDE10A,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",Homo sapiens (Human),reviewed,779,Swiss-Prot
+Q13422-3,IKZF1_HUMAN,IKZF1,Isoform Ik3 of DNA-binding protein Ikaros,Homo sapiens (Human),reviewed,432,Swiss-Prot

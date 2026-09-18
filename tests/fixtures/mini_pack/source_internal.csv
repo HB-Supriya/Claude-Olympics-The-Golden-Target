@@ -1,0 +1,7 @@
+internal_id,registered_name,gene_symbol,source_db,external_id,uniprot_ref,registered_by,registration_date,status
+TGT-1401,Serine/threonine-protein kinase pim-1,PIM1,Manual,CHEMBL2147,P11309,kwilson,2020-01-22,active
+TGT-1402,Serine/threonine-protein kinase pim-2,PIM2,UniProt,CHEMBL4523,Q9P1W9,kwilson,2020-02-11,active
+TGT-2001,Ephrin type-A receptor 2,EPHA2,ChEMBL,CHEMBL2068,P29317,lpatel,2021-03-04,active
+TGT-2002,Interleukin-1 beta,,Manual,,P01584,jsmith,2023-04-19,active
+TGT-2003,Histone deacetylase 4,HDAC4,Manual,,P56524,njain,2022-06-01,active
+TGT-2004,Nuclear receptor binding SET domain protein 2,WHSC1,Manual,,O96028,adas,2021-09-09,active

@@ -1,0 +1,438 @@
+internal_id,registered_name,gene_symbol,source_db,external_id,uniprot_ref,registered_by,registration_date,status
+TGT-1181,Golgin subfamily A member 8A,GOLGA8A,Manual,,A7E2F4,kwilson,2020-01-22,active
+TGT-1029,Rho guanine nucleotide exchange factor 6,ARHGEF6,ChEMBL,CHEMBL5725019,Q15052,kwilson,2024-05-11,active
+TGT-1363,Natriuretic peptides B,NPPB,Manual,,P16860,lpatel,2020-01-25,active
+TGT-1585,DNA repair protein XRCC4,XRCC4,UniProt,CHEMBL4296097,Q13426,jsmith,2023-10-19,active
+TGT-1048,Carbonic anhydrase 12,CA12,UniProt,CHEMBL3242,O43570,jsmith,2023-04-25,active
+TGT-1538,T cell receptor alpha variable 9-1,TRAV9-1,Manual,,A0A075B6T8,adas,2025-12-24,active
+TGT-2433,SEPT9,SEPT9,Manual,,Q9UHD8,jsmith,2019-03-15,active
+TGT-1515,Tyrosine-protein kinase SYK,SYK,ChEMBL,CHEMBL2599,P43405,jsmith,2022-09-27,active
+TGT-1564,Ubiquitin/ISG15-conjugating enzyme E2 L6,UBE2L6,Manual,CHEMBL5725040,O14933,kwilson,2022-09-27,active
+TGT-1405,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2",PLCG2,ChEMBL,CHEMBL4100,P16885,jsmith,2024-11-17,active
+TGT-1087,Cannabinoid receptor 1,CNR1,UniProt,CHEMBL218,P21554,njain,2024-05-20,active
+TGT-1021,Polyunsaturated fatty acid 5-lipoxygenase,ALOX5,UniProt,CHEMBL215,P09917,njain,2020-01-01,active
+TGT-1224,Immunoglobulin heavy constant gamma 3,IGHG3,ChEMBL,,P01860,adas,2024-05-08,active
+TGT-1112,Dipeptidase 1,DPEP1,UniProt,CHEMBL1989,P16444,kwilson,2023-10-01,active
+TGT-1282,Interleukin-18 receptor 1,IL18R1,UniProt,CHEMBL4804253,Q13478,lpatel,2025-06-09,active
+TGT-1071,Cyclin-dependent kinase 5 activator 1,CDK5R1,Manual,CHEMBL2783,Q15078,jsmith,2025-12-12,active
+TGT-1380,Mitochondrial inner membrane protein OXA1L,OXA1L,UniProt,CHEMBL6067076,Q15070,kwilson,2020-01-19,active
+TGT-1566,Ubiquitin carboxyl-terminal hydrolase isozyme L1,UCHL1,Manual,CHEMBL6159,P09936,jsmith,2021-08-14,active
+TGT-1154,Free fatty acid receptor 3,FFAR3,ChEMBL,CHEMBL5201,O14843,kwilson,2023-10-25,active
+TGT-1210,"Isocitrate dehydrogenase [NADP], mitochondrial",IDH2,UniProt,CHEMBL3991501,P48735,adas,2024-05-05,active
+TGT-1167,Galanin receptor type 1,GALR1,UniProt,CHEMBL4894,P47211,lpatel,2024-05-05,active
+TGT-1164,G antigen 12G,GAGE12G,Manual,,P0CL81,kwilson,2020-01-25,active
+TGT-1331,MAP/microtubule affinity-regulating kinase 3,MARK3,UniProt,CHEMBL5600,P27448,njain,2025-06-27,active
+TGT-1483,Chloride anion exchanger,SLC26A3,Manual,CHEMBL4523223,P40879,lpatel,2024-05-05,active
+TGT-1235,Immunoglobulin heavy variable 3-9,IGHV3-9,UniProt,,P01782,jsmith,2021-08-02,active
+TGT-1389,Proprotein convertase subtilisin/kexin type 9,PCSK9,ChEMBL,CHEMBL2929,Q8NBP7,adas,2022-09-03,active
+TGT-1354,Natural cytotoxicity triggering receptor 1,NCR1,ChEMBL,CHEMBL6066290,O76036,adas,2023-10-16,active
+TGT-1346,Matrix metalloproteinase-9,MMP9,ChEMBL,CHEMBL321,P14780,adas,2020-01-07,active
+TGT-1180,Golgin subfamily A member 4,GOLGA4,UniProt,,Q13439,adas,2024-05-26,active
+TGT-1148,Fumarylacetoacetase,FAH,UniProt,CHEMBL6066391,P16930,njain,2020-01-10,active
+TGT-1025,DNA repair nuclease/redox regulator APEX1,APEX1,Manual,CHEMBL5619,P27695,jsmith,2022-09-15,active
+TGT-1195,Histone deacetylase 1,HDAC1,Manual,CHEMBL325,Q13547,jsmith,2025-12-21,active
+TGT-1288,Interleukin-1 receptor-associated kinase 1,IRAK1,ChEMBL,CHEMBL3357,P51617,adas,2023-04-13,active
+TGT-1032,Phospholipid-transporting ATPase VA,ATP10A,ChEMBL,,O60312,kwilson,2020-01-10,active
+TGT-1572,Ubiquitin carboxyl-terminal hydrolase 11,USP11,UniProt,CHEMBL4630820,P51784,kwilson,2021-02-08,active
+TGT-1176,PDZ domain-containing protein GIPC1,GIPC1,Manual,,O14908,kwilson,2021-02-17,active
+TGT-1594,Zinc finger protein 292,ZNF292,ChEMBL,,O60281,lpatel,2020-07-01,active
+TGT-1054,Calreticulin,CALR,UniProt,CHEMBL6066425,P27797,njain,2025-06-27,active
+TGT-1144,Histone-lysine N-methyltransferase EZH2,EZH2,Manual,CHEMBL2189110,Q15910,kwilson,2024-11-17,active
+TGT-1080,H(+)/Cl(-) exchange transporter 3,CLCN3,Manual,CHEMBL2401603,P51790,jsmith,2025-12-21,active
+TGT-1340,Monoglyceride lipase,MGLL,ChEMBL,CHEMBL4191,Q99685,jsmith,2025-06-03,active
+TGT-1216,Interferon alpha-5,IFNA5,Manual,,P01569,kwilson,2025-12-15,active
+TGT-1455,Large ribosomal subunit protein eL8,RPL7A,UniProt,CHEMBL6067558,P62424,lpatel,2021-08-26,active
+TGT-1310,Kinocilin,KNCN,Manual,,A6PVL3,adas,2024-05-26,active
+TGT-1501,SPEG neighbor protein,SPEGNB,Manual,,A0A087WV53,jsmith,2022-03-06,active
+TGT-1194,Orexin receptor type 2,HCRTR2,UniProt,CHEMBL4792,O43614,kwilson,2020-07-07,active
+TGT-1522,Mitochondrial import inner membrane translocase subunit Tim10,TIMM10,ChEMBL,CHEMBL6067408,P62072,njain,2023-10-07,active
+TGT-1162,Glutamate decarboxylase 2,GAD2,ChEMBL,CHEMBL2952,Q05329,kwilson,2022-09-18,active
+TGT-1568,Protein unc-119 homolog A,UNC119,ChEMBL,CHEMBL6066441,Q13432,lpatel,2022-09-06,active
+TGT-1138,Estrogen receptor,ESR1,UniProt,CHEMBL206,P03372,njain,2020-01-13,active
+TGT-1206,5-hydroxytryptamine receptor 1B,HTR1B,UniProt,CHEMBL1898,P28222,kwilson,2023-10-16,active
+TGT-1350,Myosin-7B,MYH7B,Manual,CHEMBL3831286,A7E2Y1,jsmith,2020-01-19,active
+TGT-1516,TBC1 domain family member 3I,TBC1D3I,ChEMBL,,A0A087WXS9,jsmith,2020-07-01,active
+TGT-1081,H(+)/Cl(-) exchange transporter 4,CLCN4,ChEMBL,,P51793,kwilson,2023-04-19,active
+TGT-1275,Immunoglobulin lambda variable 5-52,IGLV5-52,ChEMBL,,A0A0A0MRZ9,kwilson,2021-08-20,active
+TGT-1512,Stathmin,STMN1,Manual,CHEMBL3879843,P16949,adas,2024-11-02,active
+TGT-1484,Probable proton-coupled zinc antiporter SLC30A4,SLC30A4,UniProt,,O14863,kwilson,2022-09-06,active
+TGT-1347,Myeloid cell nuclear differentiation antigen,MNDA,UniProt,,P41218,lpatel,2024-11-17,active
+TGT-1150,Putative protein FAM157B,FAM157B,ChEMBL,,P0CG42,jsmith,2021-02-08,active
+TGT-1065,C-C chemokine receptor type 6,CCR6,UniProt,CHEMBL4423,P51684,jsmith,2024-05-14,active
+TGT-1525,Delta(14)-sterol reductase TM7SF2,TM7SF2,Manual,CHEMBL5839,O76062,njain,2022-09-06,active
+TGT-1311,"Keratin, type I cuticular Ha3-I",KRT33A,ChEMBL,,O76009,kwilson,2025-06-27,active
+TGT-1357,Nebulette,NEBL,ChEMBL,,O76041,adas,2024-05-26,active
+TGT-1563,Ubiquitin-conjugating enzyme E2 D1,UBE2D1,UniProt,CHEMBL4105766,P51668,kwilson,2022-03-12,active
+TGT-1597,Zinc finger protein 705D,ZNF705D,UniProt,,P0CH99,njain,2025-06-27,active
+TGT-1341,E3 ubiquitin-protein ligase MGRN1,MGRN1,ChEMBL,,O60291,njain,2020-07-04,active
+TGT-1530,Nuclear transition protein 2,TNP2,Manual,,Q05952,adas,2023-04-16,active
+TGT-1253,Immunoglobulin kappa variable 3D-11,IGKV3D-11,ChEMBL,,A0A0A0MRZ8,njain,2020-01-22,active
+TGT-1186,G protein-coupled receptor 55,GPR55,UniProt,CHEMBL1075322,Q9Y2T6,njain,2021-08-05,active
+TGT-1141,ETS translocation variant 5,ETV5,UniProt,,P41161,adas,2021-02-26,active
+TGT-1028,Rho GTPase-activating protein 10,ARHGAP10,ChEMBL,,A1A4S6,jsmith,2021-02-14,active
+TGT-1115,D(2) dopamine receptor,DRD2,ChEMBL,CHEMBL217,P14416,njain,2023-04-22,active
+TGT-1121,Dual specificity tyrosine-phosphorylation-regulated kinase 1B,DYRK1B,ChEMBL,CHEMBL5543,Q9Y463,njain,2022-03-27,active
+TGT-9529,VIP peptides,,Manual,,P01282,adas,2021-02-26,active
+TGT-1536,T cell receptor alpha variable 27,TRAV27,UniProt,,A0A087WT01,jsmith,2021-02-23,active
+TGT-1285,Interleukin-3 receptor subunit alpha,IL3RA,Manual,CHEMBL3712987,P26951,jsmith,2024-05-02,active
+TGT-1325,Mitogen-activated protein kinase kinase kinase 7,MAP3K7,UniProt,CHEMBL5776,O43318,adas,2020-01-13,active
+TGT-1142,Transcription factor ETV6,ETV6,UniProt,CHEMBL2401606,P41212,kwilson,2023-10-16,active
+TGT-1090,Coatomer subunit zeta-1,COPZ1,ChEMBL,,P61923,adas,2021-02-26,active
+TGT-1392,"High affinity 3',5'-cyclic-AMP phosphodiesterase 7A",PDE7A,Manual,CHEMBL3012,Q13946,lpatel,2022-09-09,active
+TGT-1396,Astrocytic phosphoprotein PEA-15,PEA15,ChEMBL,,Q15121,adas,2023-04-25,active
+TGT-1520,TGF-beta receptor type-1,TGFBR1,UniProt,CHEMBL4439,P36897,kwilson,2024-11-11,active
+TGT-1243,Immunoglobulin kappa variable 1-39,IGKV1-39,UniProt,,P01597,lpatel,2023-04-01,active
+TGT-1446,Receptor-interacting serine/threonine-protein kinase 1,RIPK1,Manual,CHEMBL5464,Q13546,kwilson,2025-12-21,active
+TGT-1075,Rab proteins geranylgeranyltransferase component A 2,CHML,UniProt,,P26374,lpatel,2025-06-06,active
+TGT-1199,Homeodomain-interacting protein kinase 2,HIPK2,ChEMBL,CHEMBL4576,Q9H2X6,jsmith,2023-10-04,active
+TGT-1583,Protein Wnt-9b,WNT9B,Manual,,O14905,lpatel,2025-06-06,active
+TGT-1077,Probable cytosolic iron-sulfur protein assembly protein CIAO1,CIAO1,ChEMBL,,O76071,jsmith,2024-11-05,active
+TGT-1015,A-kinase anchor protein 3,AKAP3,Manual,,O75969,adas,2024-05-23,active
+TGT-1343,Motilin receptor,MLNR,Manual,CHEMBL2203,O43193,lpatel,2020-01-07,active
+TGT-2425,WHSC1,WHSC1,Manual,,O96028,jsmith,2019-03-15,active
+TGT-1020,Polyunsaturated fatty acid lipoxygenase ALOX15,ALOX15,UniProt,CHEMBL2903,P16050,njain,2020-01-13,active
+TGT-1470,E-selectin,SELE,Manual,CHEMBL3890,P16581,kwilson,2020-01-22,active
+TGT-1316,Leucine-rich repeat-containing protein 37A3,LRRC37A3,UniProt,,O60309,adas,2020-07-16,active
+TGT-1276,Immunoglobulin lambda variable 6-57,IGLV6-57,UniProt,CHEMBL4739844,P01721,jsmith,2021-08-05,active
+TGT-1000,Alpha-2-macroglobulin-like protein 1,A2ML1,ChEMBL,,A8K2U0,lpatel,2022-09-06,active
+TGT-1342,Putative E3 ubiquitin-protein ligase makorin-4,MKRN4P,UniProt,,Q13434,lpatel,2024-11-08,active
+TGT-1213,Interferon alpha-17,IFNA17,ChEMBL,,P01571,njain,2023-04-13,active
+TGT-1460,Small ribosomal subunit protein eS7,RPS7,UniProt,CHEMBL6067572,P62081,kwilson,2020-01-07,active
+TGT-1236,Immunoglobulin heavy variable 4-30-2,IGHV4-30-2,UniProt,,A0A087WSY4,lpatel,2022-09-24,active
+TGT-1031,Arylsulfatase D,ARSD,ChEMBL,,P51689,lpatel,2021-02-20,active
+TGT-1093,Beta-crystallin B3,CRYBB3,Manual,,P26998,njain,2023-04-22,active
+TGT-1118,Double homeobox protein 4-like protein 5,DUX4L5,UniProt,,P0CJ88,njain,2023-10-13,active
+TGT-1426,26S proteasome regulatory subunit 8,PSMC5,UniProt,CHEMBL3831208,P62195,kwilson,2022-09-27,active
+TGT-1290,Immunoglobulin J chain,JCHAIN,UniProt,,P01591,kwilson,2021-02-02,active
+TGT-1413,NADPH--cytochrome P450 reductase,POR,UniProt,CHEMBL2169731,P16435,njain,2025-06-06,active
+TGT-1540,T cell receptor beta constant 1,TRBC1,UniProt,,P01850,lpatel,2021-02-20,active
+TGT-1158,FHF complex subunit HOOK-interacting protein 1A,FHIP1A,ChEMBL,,Q05DH4,adas,2020-01-04,active
+TGT-1110,Protein dispatched homolog 2,DISP2,UniProt,,A7MBM2,kwilson,2022-09-03,active
+TGT-1326,Mitogen-activated protein kinase 10,MAPK10,Manual,CHEMBL2637,P53779,njain,2024-11-02,active
+TGT-1406,Inactive phospholipase C-like protein 1,PLCL1,Manual,,Q15111,adas,2022-09-06,active
+TGT-1246,Immunoglobulin kappa variable 1D-33,IGKV1D-33,Manual,,P01593,njain,2025-12-12,active
+TGT-1293,Potassium voltage-gated channel subfamily A member 2,KCNA2,ChEMBL,CHEMBL2086,P16389,jsmith,2020-01-16,active
+TGT-1146,Coagulation factor XII,F12,ChEMBL,CHEMBL2821,P00748,jsmith,2025-06-15,active
+TGT-1463,Serum amyloid A-1 protein,SAA1,Manual,,P0DJI8,njain,2020-01-19,active
+TGT-1096,Casein kinase II subunit alpha,CSNK2A1,ChEMBL,CHEMBL3629,P68400,lpatel,2024-05-23,active
+TGT-1327,Mitogen-activated protein kinase 11,MAPK11,ChEMBL,CHEMBL3961,Q15759,adas,2025-12-06,active
+TGT-1169,Gastrin,GAST,ChEMBL,,P01350,kwilson,2020-01-19,active
+TGT-1537,T cell receptor alpha variable 7,TRAV7,Manual,,A0A075B6U4,kwilson,2024-05-20,active
+TGT-1301,Kinesin heavy chain isoform 5C,KIF5C,ChEMBL,CHEMBL2029194,O60282,jsmith,2020-01-19,active
+TGT-1355,Natural cytotoxicity triggering receptor 3,NCR3,Manual,,O14931,lpatel,2022-03-12,active
+TGT-1321,Leucine zipper putative tumor suppressor 3,LZTS3,ChEMBL,,O60299,adas,2020-07-16,active
+TGT-1026,Putative aquaporin-7B,AQP7B,Manual,,A0A075B734,lpatel,2020-01-10,active
+TGT-1273,Immunoglobulin lambda variable 5-37,IGLV5-37,UniProt,,A0A075B6J1,kwilson,2024-05-17,active
+TGT-1573,Ubiquitin carboxyl-terminal hydrolase 14,USP14,UniProt,CHEMBL1293295,P54578,njain,2022-09-21,active
+TGT-1517,TBC1 domain family member 3K,TBC1D3K,Manual,,A0A087X1G2,njain,2023-10-16,active
+TGT-1474,Protein SETSIP,SETSIP,UniProt,,P0DME0,kwilson,2024-05-26,active
+TGT-1498,Transcription factor SOX-3,SOX3,UniProt,,P41225,adas,2024-05-26,active
+TGT-1299,Vascular endothelial growth factor receptor 2,KDR,Manual,CHEMBL279,P35968,jsmith,2025-12-12,active
+TGT-1320,U6 snRNA-associated Sm-like protein LSm6,LSM6,UniProt,,P62312,njain,2020-07-16,active
+TGT-1125,Elongation factor 1-gamma,EEF1G,Manual,CHEMBL4295735,P26641,njain,2023-04-22,active
+TGT-1295,Intermediate conductance calcium-activated potassium channel protein 4,KCNN4,UniProt,CHEMBL4305,O15554,adas,2023-04-16,active
+TGT-1435,Tyrosine-protein phosphatase non-receptor type 12,PTPN12,UniProt,CHEMBL3236,Q05209,kwilson,2024-05-23,active
+TGT-1060,Coiled-coil domain-containing protein 169,CCDC169,ChEMBL,,A6NNP5,njain,2022-09-09,active
+TGT-1447,Receptor-interacting serine/threonine-protein kinase 2,RIPK2,Manual,CHEMBL5014,O43353,jsmith,2022-09-27,active
+TGT-1104,DDB1- and CUL4-associated factor 7,DCAF7,UniProt,CHEMBL6067213,P61962,kwilson,2020-01-16,active
+TGT-1001,Tyrosine-protein kinase ABL1,ABL1,UniProt,CHEMBL1862,P00519,kwilson,2021-08-26,active
+TGT-1443,Transforming protein RhoA,RHOA,UniProt,CHEMBL6052,P61586,njain,2023-10-13,active
+TGT-1136,Putative uncharacterized protein encoded by ERC2-IT1,ERC2-IT1,ChEMBL,,O76042,jsmith,2023-04-22,active
+TGT-1271,Immunoglobulin lambda variable 4-60,IGLV4-60,Manual,,A0A075B6I1,njain,2023-10-10,active
+TGT-9061,Protein S100-A4,,Manual,,P26447,lpatel,2021-02-17,active
+TGT-1074,Cystic fibrosis transmembrane conductance regulator,CFTR,ChEMBL,CHEMBL4051,P13569,adas,2022-03-21,active
+TGT-1419,Prolyl endopeptidase,PREP,UniProt,CHEMBL3202,P48147,adas,2025-06-12,active
+TGT-1414,POU class 2 homeobox associating factor 3,POU2AF3,Manual,,A8K830,kwilson,2020-07-10,active
+TGT-1428,26S proteasome non-ATPase regulatory subunit 7,PSMD7,Manual,CHEMBL3831214,P51665,njain,2025-06-15,active
+TGT-1062,Eotaxin,CCL11,UniProt,CHEMBL3286077,P51671,lpatel,2021-08-08,active
+TGT-1368,Nuclear receptor subfamily 4immunitygroup A member 1,NR4A1,ChEMBL,CHEMBL1293229,P22736,njain,2023-10-22,active
+TGT-1557,Tubulin beta 8B,TUBB8B,UniProt,CHEMBL3832942,A6NNZ2,kwilson,2025-06-06,active
+TGT-1013,Advanced glycation end product-specific receptor,AGER,ChEMBL,CHEMBL2176846,Q15109,adas,2022-09-15,active
+TGT-1468,Secretin receptor,SCTR,ChEMBL,CHEMBL1925,P47872,lpatel,2024-05-20,active
+TGT-1017,RAC-alpha serine/threonine-protein kinase,AKT1,UniProt,CHEMBL4282,P31749,njain,2023-04-04,active
+TGT-1318,Limbic system-associated membrane protein,LSAMP,ChEMBL,,Q13449,njain,2022-09-12,active
+TGT-1050,Carbonic anhydrase 9,CA9,UniProt,CHEMBL3594,Q16790,kwilson,2024-05-11,active
+TGT-9855,Interleukin-1 beta,,Manual,,P01584,jsmith,2023-04-19,active
+TGT-1157,Fibroblast growth factor receptor 2,FGFR2,ChEMBL,CHEMBL4142,P21802,njain,2024-11-23,active
+TGT-1442,Regulator of G protein signaling 20,RGS20,ChEMBL,,O76081,lpatel,2023-04-07,active
+TGT-1549,Triple functional domain protein,TRIO,ChEMBL,CHEMBL4523153,O75962,adas,2020-01-10,active
+TGT-1421,Serine/threonine-protein kinase D1,PRKD1,ChEMBL,CHEMBL3863,Q15139,njain,2021-02-17,active
+TGT-1478,"NAD-dependent protein deacetylase sirtuin-3, mitochondrial",SIRT3,UniProt,CHEMBL4461,Q9NTG7,njain,2025-06-15,active
+TGT-1256,Immunoglobulin lambda variable 1-40,IGLV1-40,Manual,,P01703,jsmith,2022-03-21,active
+TGT-1197,Protein deacetylase HDAC6,HDAC6,Manual,CHEMBL1865,Q9UBN7,kwilson,2023-04-25,active
+TGT-1541,T cell receptor beta variable 16,TRBV16,UniProt,,A0A087WV62,njain,2020-01-16,active
+TGT-9369,Hepatocyte growth factor-regulated tyrosine kinase substrate,,Manual,,O14964,njain,2023-10-10,active
+TGT-1377,Nociceptin receptor,OPRL1,ChEMBL,CHEMBL2014,P41146,kwilson,2025-06-18,active
+TGT-1372,Neurotensin receptor type 2,NTSR2,ChEMBL,CHEMBL2514,O95665,kwilson,2023-04-04,active
+TGT-1461,Ras-related protein R-Ras2,RRAS2,ChEMBL,CHEMBL4879446,P62070,jsmith,2025-06-21,active
+TGT-1504,SRSF protein kinase 1,SRPK1,UniProt,CHEMBL4375,Q96SB4,kwilson,2025-12-27,active
+TGT-1011,Alpha-2A adrenergic receptor,ADRA2A,Manual,CHEMBL1867,P08913,lpatel,2022-03-21,active
+TGT-1278,Inhibitor of nuclear factor kappa-B kinase subunit beta,IKBKB,Manual,CHEMBL1991,O14920,jsmith,2023-04-13,active
+TGT-1012,Beta-2 adrenergic receptor,ADRB2,ChEMBL,CHEMBL210,P07550,lpatel,2024-11-11,active
+TGT-1261,Immunoglobulin lambda variable 2-14,IGLV2-14,UniProt,,P01704,kwilson,2021-02-14,active
+TGT-1255,Immunoglobulin kappa variable 6D-21,IGKV6D-21,ChEMBL,,A0A0A0MT36,adas,2024-11-26,active
+TGT-1211,"Interferon alpha-inducible protein 27, mitochondrial",IFI27,UniProt,,P40305,njain,2023-10-19,active
+TGT-1094,Chorionic somatomammotropin hormone 1,CSH1,UniProt,,P0DML2,lpatel,2024-11-02,active
+TGT-1208,5-hydroxytryptamine receptor 7,HTR7,Manual,CHEMBL3155,P34969,njain,2022-03-15,active
+TGT-1334,Germinal-center associated nuclear protein,MCM3AP,ChEMBL,,O60318,kwilson,2022-09-24,active
+TGT-1508,Putative STAG3-like protein 1,STAG3L1,ChEMBL,,P0CL83,jsmith,2020-07-07,active
+TGT-1410,Melanocyte protein PMEL,PMEL,Manual,CHEMBL3712988,P40967,kwilson,2020-01-10,active
+TGT-1571,Nucleolar pre-ribosomal-associated protein 1,URB1,Manual,,O60287,njain,2023-10-10,active
+TGT-1258,Immunoglobulin lambda variable 1-47,IGLV1-47,UniProt,,P01700,lpatel,2022-03-15,active
+TGT-1056,Peripheral plasma membrane protein CASK,CASK,Manual,CHEMBL1908381,O14936,njain,2024-05-08,active
+TGT-1351,Myosin regulatory light chain 12B,MYL12B,UniProt,CHEMBL4295652,O14950,kwilson,2021-08-14,active
+TGT-1459,Small ribosomal subunit protein uS9,RPS16,UniProt,CHEMBL6067569,P62249,lpatel,2023-04-25,active
+TGT-1131,Enolase 4,ENO4,UniProt,,A6NNW6,adas,2025-06-27,active
+TGT-1450,Rho-related GTP-binding protein RhoE,RND3,ChEMBL,,P61587,njain,2021-08-17,active
+TGT-1230,Immunoglobulin heavy variable 3-23,IGHV3-23,UniProt,,P01764,njain,2020-01-19,active
+TGT-1219,Interferon gamma,IFNG,Manual,CHEMBL3286073,P01579,njain,2020-01-19,active
+TGT-1217,Interferon alpha-7,IFNA7,UniProt,,P01567,adas,2020-01-13,active
+TGT-1003,Ankyrin repeat- and BTB/POZ domain-containing protein 3,ABTB3,Manual,,A6QL63,njain,2021-02-11,active
+TGT-1593,Zinc finger protein 157,ZNF157,Manual,,P51786,jsmith,2020-07-22,active
+TGT-1456,Small ribosomal subunit protein uS17,RPS11,ChEMBL,CHEMBL6067557,P62280,adas,2022-03-03,active
+TGT-1554,Testis-specific Y-encoded protein 8,TSPY8,UniProt,,P0CW00,jsmith,2025-06-06,active
+TGT-1123,Early endosome antigen 1,EEA1,Manual,CHEMBL6067333,Q15075,njain,2024-11-17,active
+TGT-1145,Coagulation factor XI,F11,Manual,CHEMBL2820,P03951,lpatel,2020-01-04,active
+TGT-1098,Chymotrypsin-like protease CTRL-1,CTRL,Manual,CHEMBL4873,P40313,njain,2025-12-27,active
+TGT-1579,"Vascular endothelial growth factor A, long form",VEGFA,UniProt,CHEMBL1783,P15692,lpatel,2022-03-03,active
+TGT-1348,Macrophage mannose receptor 1,MRC1,UniProt,CHEMBL2176854,P22897,jsmith,2020-07-16,active
+TGT-1043,Cytoplasmic tyrosine-protein kinase BMX,BMX,UniProt,CHEMBL3834,P51813,jsmith,2023-10-25,active
+TGT-1452,Large ribosomal subunit protein uL16,RPL10,ChEMBL,CHEMBL6066928,P27635,jsmith,2025-06-15,active
+TGT-1260,Immunoglobulin lambda variable 2-11,IGLV2-11,UniProt,,P01706,lpatel,2023-04-19,active
+TGT-1108,"Dihydroorotate dehydrogenase (quinone), mitochondrial",DHODH,ChEMBL,CHEMBL1966,Q02127,adas,2025-06-15,active
+TGT-1519,TANK-binding kinase 1-binding protein 1,TBKBP1,Manual,CHEMBL4523108,A7MCY6,adas,2021-08-11,active
+TGT-1378,Olfactory receptor 2J2,OR2J2,UniProt,,O76002,kwilson,2024-05-11,active
+TGT-1434,Tyrosine-protein phosphatase non-receptor type 11,PTPN11,ChEMBL,CHEMBL3864,Q06124,lpatel,2020-07-25,active
+TGT-1386,Pre-B-cell leukemia transcription factor 2,PBX2,Manual,,P40425,jsmith,2020-01-10,active
+TGT-1296,Potassium voltage-gated channel subfamily KQT member 2,KCNQ2,Manual,CHEMBL2476,O43526,jsmith,2020-07-13,active
+TGT-1577,Prefoldin subunit 3,VBP1,Manual,,P61758,jsmith,2024-11-23,active
+TGT-1233,Immunoglobulin heavy variable 3-53,IGHV3-53,Manual,,P01767,kwilson,2023-10-01,active
+TGT-1430,Prostaglandin-H2 D-isomerase,PTGDS,Manual,CHEMBL3430865,P41222,adas,2023-04-16,active
+TGT-1097,CTD small phosphatase-like protein 2,CTDSPL2,Manual,,Q05D32,lpatel,2024-05-23,active
+TGT-1252,Immunoglobulin kappa variable 3-20,IGKV3-20,ChEMBL,,P01619,kwilson,2024-05-14,active
+TGT-1041,Baculoviral IAP repeat-containing protein 2,BIRC2,Manual,CHEMBL5462,Q13490,lpatel,2025-06-03,active
+TGT-1091,Carboxypeptidase E,CPE,UniProt,,P16870,adas,2022-03-03,active
+TGT-1359,Serine/threonine-protein kinase Nek7,NEK7,UniProt,CHEMBL4849,Q8TDX7,jsmith,2024-11-11,active
+TGT-9328,SLIT-ROBO Rho GTPase-activating protein 2C,,Manual,,P0DJJ0,lpatel,2024-05-05,active
+TGT-1384,Paired box protein Pax-6,PAX6,ChEMBL,,P26367,jsmith,2022-09-06,active
+TGT-1309,NKG2-D type II integral membrane protein,KLRK1,UniProt,CHEMBL5483005,P26718,lpatel,2023-10-13,active
+TGT-1202,Peroxisomal multifunctional enzyme type 2,HSD17B4,ChEMBL,CHEMBL5814,P51659,kwilson,2022-09-03,active
+TGT-1451,Proto-oncogene tyrosine-protein kinase ROS,ROS1,UniProt,CHEMBL5568,P08922,adas,2020-07-19,active
+TGT-1338,Tyrosine-protein kinase Mer,MERTK,ChEMBL,CHEMBL5331,Q12866,adas,2025-12-09,active
+TGT-1469,Protein transport protein Sec61 subunit alpha isoform 1,SEC61A1,ChEMBL,CHEMBL5725113,P61619,njain,2025-06-06,active
+TGT-1329,Mitogen-activated protein kinase-binding protein 1,MAPKBP1,ChEMBL,,O60336,njain,2021-02-11,active
+TGT-1132,Protein 4.2,EPB42,UniProt,,P16452,njain,2023-10-19,active
+TGT-1237,Immunoglobulin heavy variable 4-39,IGHV4-39,ChEMBL,,P01824,njain,2023-10-13,active
+TGT-1584,Xanthine dehydrogenase/oxidase,XDH,UniProt,CHEMBL1929,P47989,adas,2020-07-10,active
+TGT-1034,"ATP synthase F(0) complex subunit g, mitochondrial",ATP5MG,Manual,CHEMBL6066998,O75964,lpatel,2025-06-06,active
+TGT-1103,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit DAD1,DAD1,UniProt,CHEMBL6067390,P61803,adas,2022-03-09,active
+TGT-1339,Hepatocyte growth factor receptor,MET,UniProt,CHEMBL3717,P08581,njain,2024-11-23,active
+TGT-1010,All-trans-retinol dehydrogenase [NAD(+)] ADH7,ADH7,Manual,CHEMBL3867,P40394,njain,2023-10-10,active
+TGT-1272,Immunoglobulin lambda variable 4-69,IGLV4-69,Manual,,A0A075B6H9,lpatel,2023-10-13,active
+TGT-9751,Probable non-functional immunoglobulin lambda variable 11-55,,Manual,,A0A075B6I3,lpatel,2021-08-14,active
+TGT-1140,Steroid hormone receptor ERR1,ESRRA,ChEMBL,CHEMBL3429,P11474,adas,2021-02-05,active
+TGT-1449,2-5A-dependent ribonuclease,RNASEL,UniProt,CHEMBL3575,Q05823,adas,2021-02-08,active
+TGT-1333,MBT domain-containing protein 1,MBTD1,UniProt,CHEMBL1287625,Q05BQ5,kwilson,2025-06-03,active
+TGT-1201,Hepatocyte nuclear factor 4-alpha,HNF4A,ChEMBL,CHEMBL5398,P41235,njain,2025-12-03,active
+TGT-1289,Inter-alpha-trypsin inhibitor heavy chain H3,ITIH3,ChEMBL,,Q06033,jsmith,2022-09-12,active
+TGT-1251,Immunoglobulin kappa variable 2D-40,IGKV2D-40,Manual,,P01614,lpatel,2020-01-07,active
+TGT-1225,Immunoglobulin heavy variable 1-45,IGHV1-45,ChEMBL,,A0A0A0MS14,kwilson,2023-10-04,active
+TGT-1467,Sodium channel protein type 10 subunit alpha,SCN10A,ChEMBL,CHEMBL5451,Q9Y5Y9,adas,2025-12-27,active
+TGT-1306,Plasma kallikrein,KLKB1,UniProt,CHEMBL2000,P03952,kwilson,2025-06-03,active
+TGT-1099,Cathepsin K,CTSK,Manual,CHEMBL268,P43235,lpatel,2022-09-21,active
+TGT-1117,Double homeobox protein 4-like protein 3,DUX4L3,ChEMBL,,P0CJ86,lpatel,2024-05-11,active
+TGT-1495,Small nuclear ribonucleoprotein Sm D3,SNRPD3,UniProt,CHEMBL5725034,P62318,lpatel,2025-06-12,active
+TGT-1298,Lysine-specific demethylase 5C,KDM5C,UniProt,CHEMBL2163176,P41229,jsmith,2020-01-22,active
+TGT-1505,Serine/arginine repetitive matrix protein 4,SRRM4,Manual,,A7MD48,lpatel,2025-06-15,active
+TGT-1600,Zinc finger protein 888,ZNF888,UniProt,,P0CJ79,jsmith,2020-01-01,active
+TGT-1361,Neuromedin-U receptor 2,NMUR2,Manual,CHEMBL1075144,Q9GZQ4,adas,2022-09-18,active
+TGT-1250,Immunoglobulin kappa variable 2D-30,IGKV2D-30,UniProt,,A0A075B6S6,lpatel,2021-08-23,active
+TGT-1591,AN1-type zinc finger protein 5,ZFAND5,ChEMBL,,O76080,lpatel,2023-04-13,active
+TGT-1570,Cytochrome b-c1 complex subunit 8,UQCRQ,ChEMBL,,O14949,jsmith,2020-01-19,active
+TGT-1535,T cell receptor alpha variable 23/delta variable 6,TRAV23DV6,ChEMBL,,A0A075B6W5,njain,2020-07-16,active
+TGT-1036,Aurora kinase A,AURKA,Manual,CHEMBL4722,O14965,njain,2024-11-05,active
+TGT-1027,RNA helicase aquarius,AQR,ChEMBL,,O60306,adas,2020-01-10,active
+TGT-1073,Cilia-and flagella-associated protein 96,CFAP96,ChEMBL,,A7E2U8,adas,2022-09-18,active
+TGT-1040,Bestrophin-1,BEST1,Manual,,O76090,jsmith,2022-03-03,active
+TGT-1287,Interleukin-7 receptor subunit alpha,IL7R,ChEMBL,,P16871,jsmith,2023-04-25,active
+TGT-1360,"Nuclear factor of activated T-cells, cytoplasmic 2",NFATC2,UniProt,,Q13469,lpatel,2024-11-08,active
+TGT-1514,"Sulfite oxidase, mitochondrial",SUOX,ChEMBL,,P51687,kwilson,2023-10-10,active
+TGT-1314,tRNA wybutosine-synthesizing protein 4,LCMT2,ChEMBL,,O60294,jsmith,2023-04-07,active
+TGT-1502,Proto-oncogene tyrosine-protein kinase Src,SRC,ChEMBL,CHEMBL267,P12931,jsmith,2024-05-17,active
+TGT-1553,Testis-specific Y-encoded protein 4,TSPY4,Manual,,P0CV99,jsmith,2022-03-06,active
+TGT-1569,"Cytochrome b-c1 complex subunit 6-like, mitochondrial",UQCRHL,UniProt,,A0A096LP55,jsmith,2023-04-01,active
+TGT-1365,Bile acid receptor,NR1H4,UniProt,CHEMBL2047,Q96RI1,jsmith,2023-10-19,active
+TGT-1373,Diphosphoinositol polyphosphate phosphohydrolase NUDT4B,NUDT4B,ChEMBL,,A0A024RBG1,adas,2023-10-07,active
+TGT-1204,Heat shock protein HSP 90-alpha,HSP90AA1,Manual,CHEMBL3880,P07900,njain,2023-10-01,active
+TGT-1550,Transient receptor potential cation channel subfamily M member 8,TRPM8,ChEMBL,CHEMBL1075319,Q7Z2W7,adas,2023-04-07,active
+TGT-1203,3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 2,HSD3B2,Manual,CHEMBL3670,P26439,adas,2022-03-12,active
+TGT-1120,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,DYRK1A,UniProt,CHEMBL2292,Q13627,kwilson,2021-02-05,active
+TGT-1231,Immunoglobulin heavy variable 3-30,IGHV3-30,UniProt,,P01768,adas,2024-11-08,active
+TGT-1024,AP-1 complex subunit sigma-1A,AP1S1,ChEMBL,CHEMBL6067198,P61966,lpatel,2021-02-17,active
+TGT-1156,Fibroblast growth factor 18,FGF18,Manual,,O76093,kwilson,2021-02-02,active
+TGT-1575,Ubiquitin C-terminal hydrolase 7,USP7,UniProt,CHEMBL2157850,Q93009,adas,2020-01-07,active
+TGT-1057,Calsequestrin-2,CASQ2,UniProt,,O14958,kwilson,2024-05-05,active
+TGT-1101,C-X-C chemokine receptor type 4,CXCR4,ChEMBL,CHEMBL2107,P61073,kwilson,2023-04-10,active
+TGT-1431,Prostaglandin G/H synthase 2,PTGS2,UniProt,CHEMBL230,P35354,njain,2023-10-25,active
+TGT-1277,Immunoglobulin lambda variable 8-61,IGLV8-61,Manual,,A0A075B6I0,lpatel,2024-11-20,active
+TGT-1018,Aldehyde dehydrogenase family 3 member A2,ALDH3A2,Manual,CHEMBL4295779,P51648,njain,2020-07-10,active
+TGT-1524,Transmembrane 4 L6 family member 5,TM4SF5,ChEMBL,CHEMBL4523127,O14894,lpatel,2022-09-03,active
+TGT-1390,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",PDE10A,Manual,CHEMBL4409,Q9Y233,adas,2025-06-09,active
+TGT-1374,Nuclear transport factor 2,NUTF2,ChEMBL,CHEMBL6067085,P61970,adas,2025-12-06,active
+TGT-1059,Carbonyl reductase [NADPH] 1,CBR1,UniProt,CHEMBL5586,P16152,kwilson,2025-12-06,active
+TGT-1438,Replication factor C subunit 3,RFC3,ChEMBL,CHEMBL5725144,P40938,lpatel,2024-11-26,active
+TGT-1562,Polyubiquitin-C,UBC,ChEMBL,CHEMBL4523179,P0CG48,jsmith,2025-06-03,active
+TGT-1382,Platelet-activating factor acetylhydrolase IB subunit alpha1,PAFAH1B3,UniProt,CHEMBL5108,Q15102,kwilson,2021-02-14,active
+TGT-1105,Deoxycytidine kinase,DCK,ChEMBL,CHEMBL2447,P27707,adas,2020-01-04,active
+TGT-1395,Protein disulfide-isomerase A6,PDIA6,UniProt,CHEMBL2146308,Q15084,lpatel,2021-08-17,active
+TGT-1076,Neuronal acetylcholine receptor subunit beta-3,CHRNB3,UniProt,CHEMBL2109233,Q05901,kwilson,2025-06-09,active
+TGT-1496,Sine oculis-binding protein homolog,SOBP,Manual,,A7XYQ1,adas,2021-02-23,active
+TGT-1242,Immunoglobulin kappa variable 1-33,IGKV1-33,UniProt,,P01594,njain,2022-03-12,active
+TGT-1352,Neurocalcin-delta,NCALD,ChEMBL,,P61601,adas,2021-08-02,active
+TGT-1300,Uncharacterized protein KIAA0040,KIAA0040,UniProt,,Q15053,njain,2024-05-05,active
+TGT-1476,Protein SFI1 homolog,SFI1,ChEMBL,,A8K8P3,njain,2020-07-19,active
+TGT-1482,Mitochondrial coenzyme A transporter SLC25A16,SLC25A16,Manual,,P16260,njain,2022-09-06,active
+TGT-1084,Chloride channel protein ClC-Ka,CLCNKA,ChEMBL,,P51800,jsmith,2023-10-19,active
+TGT-1257,Immunoglobulin lambda variable 1-44,IGLV1-44,UniProt,,P01699,kwilson,2022-03-09,active
+TGT-1555,Tubulin polyglutamylase TTLL13,TTLL13,UniProt,,A6NNM8,adas,2025-12-18,active
+TGT-1149,Protein FAM106C,FAM106C,ChEMBL,,P0CH98,lpatel,2022-03-09,active
+TGT-1200,3-hydroxy-3-methylglutaryl-coenzyme A reductase,HMGCR,ChEMBL,CHEMBL402,P04035,njain,2022-09-21,active
+TGT-1499,Transcription factor Sp9,SP9,Manual,,P0CG40,adas,2025-12-24,active
+TGT-1409,Plexin-A3,PLXNA3,UniProt,,P51805,kwilson,2020-07-19,active
+TGT-1437,Regenerating islet-derived protein 3-alpha,REG3A,UniProt,,Q06141,jsmith,2022-03-09,active
+TGT-1113,Dipeptidyl peptidase 8,DPP8,ChEMBL,CHEMBL4657,Q6V1X1,kwilson,2023-10-25,active
+TGT-1364,NAD(P)H dehydrogenase [quinone] 1,NQO1,Manual,CHEMBL3623,P15559,lpatel,2020-01-10,active
+TGT-1559,Tyrosine-protein kinase receptor TYRO3,TYRO3,Manual,CHEMBL5314,Q06418,kwilson,2025-12-03,active
+TGT-1221,Immunoglobulin heavy constant epsilon,IGHE,ChEMBL,CHEMBL1834,P01854,lpatel,2024-05-02,active
+TGT-1226,Immunoglobulin heavy variable 1-46,IGHV1-46,UniProt,,P01743,lpatel,2022-09-09,active
+TGT-1387,Protocadherin gamma-A12,PCDHGA12,Manual,,O60330,kwilson,2024-11-17,active
+TGT-1207,5-hydroxytryptamine receptor 6,HTR6,UniProt,CHEMBL3371,P50406,kwilson,2021-02-05,active
+TGT-1220,Insulin-like growth factor 2,IGF2,UniProt,CHEMBL3712957,P01344,lpatel,2020-01-19,active
+TGT-1521,Thyroid hormone receptor beta,THRB,UniProt,CHEMBL1947,P10828,lpatel,2021-02-20,active
+TGT-1239,Immunoglobulin kappa constant,IGKC,ChEMBL,,P01834,kwilson,2021-08-26,active
+TGT-1037,Tyrosine-protein kinase receptor UFO,AXL,Manual,CHEMBL4895,P30530,njain,2025-06-12,active
+TGT-1143,Exosome complex component RRP45,EXOSC9,ChEMBL,CHEMBL5725197,Q06265,njain,2023-04-01,active
+TGT-1061,Putative uncharacterized protein CCDC28A-AS1,CCDC28A-AS1,ChEMBL,,A0A096LPI5,kwilson,2024-11-17,active
+TGT-1427,26S proteasome regulatory subunit 10B,PSMC6,Manual,CHEMBL3831206,P62333,kwilson,2025-06-15,active
+TGT-1473,Histone-lysine N-methyltransferase SETD2,SETD2,Manual,CHEMBL3108647,Q9BYW2,njain,2022-09-12,active
+TGT-1317,Leucine-rich repeat and IQ domain-containing protein 3,LRRIQ3,Manual,,A6PVS8,adas,2023-10-01,active
+TGT-1064,C-C chemokine receptor type 5,CCR5,UniProt,CHEMBL274,P51681,adas,2020-07-13,active
+TGT-1205,"10 kDa heat shock protein, mitochondrial",HSPE1,Manual,CHEMBL3808268,P61604,kwilson,2025-12-27,active
+TGT-1174,GTPase IMAP family member GIMD1,GIMD1,Manual,,P0DJR0,kwilson,2024-05-26,active
+TGT-1214,Interferon alpha-2,IFNA2,ChEMBL,CHEMBL3713000,P01563,kwilson,2025-12-12,active
+TGT-1152,Prolyl endopeptidase FAP,FAP,Manual,CHEMBL4683,Q12884,adas,2021-02-26,active
+TGT-1038,Branched-chain alpha-ketoacid dehydrogenase kinase,BCKDK,ChEMBL,CHEMBL4879410,O14874,jsmith,2022-09-12,active
+TGT-1052,Multifunctional protein CAD,CAD,ChEMBL,CHEMBL3093,P27708,kwilson,2025-06-03,active
+TGT-1323,Dual specificity mitogen-activated protein kinase kinase 7,MAP2K7,Manual,CHEMBL3530,O14733,jsmith,2020-01-07,active
+TGT-1453,Large ribosomal subunit protein eL13,RPL13,ChEMBL,CHEMBL6066931,P26373,njain,2020-07-01,active
+TGT-1190,Histone H1.3,H1-3,ChEMBL,CHEMBL6066306,P16402,adas,2023-10-25,active
+TGT-1319,U6 snRNA-associated Sm-like protein LSm3,LSM3,UniProt,,P62310,adas,2024-05-02,active
+TGT-1126,Epidermal growth factor receptor,EGFR,UniProt,CHEMBL203,P00533,jsmith,2024-05-11,active
+TGT-1337,Maternal embryonic leucine zipper kinase,MELK,ChEMBL,CHEMBL4578,Q14680,adas,2024-05-02,active
+TGT-1172,Somatoliberin,GHRH,UniProt,,P01286,njain,2025-06-06,active
+TGT-1401,Serine/threonine-protein kinase pim-1,PIM1,Manual,CHEMBL2147,P11309,adas,2024-05-05,active
+TGT-1088,Ciliary neurotrophic factor,CNTF,UniProt,,P26441,jsmith,2021-02-17,active
+TGT-1576,Valine--tRNA ligase,VARS1,UniProt,CHEMBL2612,P26640,jsmith,2025-12-03,active
+TGT-1464,Serum amyloid A-2 protein,SAA2,UniProt,,P0DJI9,kwilson,2020-07-22,active
+TGT-1358,Serine/threonine-protein kinase Nek2,NEK2,UniProt,CHEMBL3835,P51955,adas,2024-05-02,active
+TGT-1500,Speedy protein E6,SPDYE6,ChEMBL,,P0CI01,jsmith,2024-05-20,active
+TGT-1371,BDNF/NT-3 growth factors receptor,NTRK2,UniProt,CHEMBL4898,Q16620,jsmith,2020-07-04,active
+TGT-1481,Organic cation/carnitine transporter 2,SLC22A5,UniProt,CHEMBL2073693,O76082,lpatel,2023-04-25,active
+TGT-1303,Mast/stem cell growth factor receptor Kit,KIT,UniProt,CHEMBL1936,P10721,njain,2020-07-01,active
+TGT-1106,Epithelial discoidin domain-containing receptor 1,DDR1,Manual,CHEMBL5319,Q08345,jsmith,2022-03-27,active
+TGT-1173,Growth hormone secretagogue receptor type 1,GHSR,ChEMBL,CHEMBL4616,Q92847,njain,2021-08-11,active
+TGT-1402,Serine/threonine-protein kinase pim-2,PIM2,UniProt,CHEMBL4523,Q9P1W9,jsmith,2024-05-08,active
+TGT-1412,Serum paraoxonase/arylesterase 2,PON2,Manual,CHEMBL4295823,Q15165,jsmith,2023-10-19,active
+TGT-1266,Immunoglobulin lambda variable 3-19,IGLV3-19,UniProt,,P01714,adas,2021-08-14,active
+TGT-1283,Interleukin-1 alpha,IL1A,Manual,CHEMBL3580496,P01583,jsmith,2024-11-17,active
+TGT-1527,Tumor necrosis factor,TNF,Manual,CHEMBL1825,P01375,njain,2022-09-06,active
+TGT-1497,Transcription factor SOX-15,SOX15,ChEMBL,,O60248,kwilson,2025-06-21,active
+TGT-1232,Immunoglobulin heavy variable 3-48,IGHV3-48,ChEMBL,,P01763,adas,2024-05-08,active
+TGT-1185,Neuronal membrane glycoprotein M6-b,GPM6B,ChEMBL,,Q13491,jsmith,2023-04-01,active
+TGT-1324,Mitogen-activated protein kinase kinase kinase 5,MAP3K5,Manual,CHEMBL5285,Q99683,kwilson,2023-10-01,active
+TGT-1491,snRNA-activating protein complex subunit 2,SNAPC2,UniProt,,Q13487,kwilson,2025-12-21,active
+TGT-1598,Zinc finger protein 728,ZNF728,Manual,,P0DKX0,lpatel,2025-12-27,active
+TGT-1582,Wee1-like protein kinase,WEE1,ChEMBL,CHEMBL5491,P30291,lpatel,2020-01-04,active
+TGT-1042,Bone morphogenetic protein receptor type-1A,BMPR1A,ChEMBL,CHEMBL5275,P36894,kwilson,2024-05-14,active
+TGT-1556,Protein monoglycylase TTLL8,TTLL8,UniProt,,A6PVC2,jsmith,2022-09-12,active
+TGT-1445,RIMS-binding protein 3B,RIMBP3B,Manual,,A6NNM3,kwilson,2022-09-09,active
+TGT-1488,SMAD family member 4,SMAD4,Manual,CHEMBL5725109,Q13485,lpatel,2024-11-11,active
+TGT-1420,Protein kinase C delta type,PRKCD,ChEMBL,CHEMBL2996,Q05655,adas,2023-10-10,active
+TGT-1592,Zinc finger protein OZF,ZNF146,ChEMBL,,Q15072,adas,2024-05-08,active
+TGT-1022,Ankyrin repeat domain-containing protein 36A,ANKRD36,Manual,,A6QL64,adas,2021-02-17,active
+TGT-1114,Dipeptidyl peptidase 9,DPP9,ChEMBL,CHEMBL4793,Q86TI2,adas,2021-02-23,active
+TGT-1542,T cell receptor beta variable 18,TRBV18,ChEMBL,,A0A087X0M5,adas,2020-01-01,active
+TGT-1477,Signal-induced proliferation-associated 1-like protein 3,SIPA1L3,Manual,,O60292,jsmith,2021-08-23,active
+TGT-1485,Sodium/glucose cotransporter 2,SLC5A2,Manual,CHEMBL3884,P31639,lpatel,2025-12-27,active
+TGT-1492,snRNA-activating protein complex subunit 5,SNAPC5,ChEMBL,,O75971,jsmith,2024-05-11,active
+TGT-1085,Calmegin,CLGN,ChEMBL,CHEMBL4295653,O14967,kwilson,2025-06-27,active
+TGT-1547,Probable non-functional T cell receptor gamma variable 11,TRGV11,UniProt,,A0A075B6L2,adas,2024-05-02,active
+TGT-1589,Zinc finger and BTB domain-containing protein 16,ZBTB16,Manual,CHEMBL4105726,Q05516,adas,2022-09-03,active
+TGT-1058,Extracellular calcium-sensing receptor,CASR,UniProt,CHEMBL1878,P41180,njain,2025-06-15,active
+TGT-1578,Vitamin D3 receptor,VDR,UniProt,CHEMBL1977,P11473,jsmith,2024-05-14,active
+TGT-1560,Splicing factor U2AF 65 kDa subunit,U2AF2,ChEMBL,CHEMBL5724607,P26368,kwilson,2022-09-18,active
+TGT-1209,DNA-binding protein inhibitor ID-1,ID1,UniProt,CHEMBL1075116,P41134,jsmith,2023-04-04,active
+TGT-1523,Mitochondrial import inner membrane translocase subunit Tim23,TIMM23,UniProt,,O14925,kwilson,2021-02-02,active
+TGT-1466,Secretagogin,SCGN,ChEMBL,,O76038,lpatel,2021-02-14,active
+TGT-1302,KiSS-1 receptor,KISS1R,Manual,CHEMBL5413,Q969F8,lpatel,2024-11-17,active
+TGT-1249,Probable non-functional immunoglobulin kappa variable 2D-24,IGKV2D-24,UniProt,,A0A075B6R9,jsmith,2021-02-23,active
+TGT-1063,Cyclin-F,CCNF,Manual,,P41002,lpatel,2021-08-26,active
+TGT-1100,Procathepsin L,CTSL,UniProt,CHEMBL3837,P07711,jsmith,2022-03-15,active
+TGT-1269,Immunoglobulin lambda variable 3-9,IGLV3-9,UniProt,,A0A075B6K5,njain,2020-07-13,active
+TGT-1079,Chloride channel protein 2,CLCN2,ChEMBL,CHEMBL1628478,P51788,kwilson,2025-06-09,active
+TGT-1223,Immunoglobulin heavy constant gamma 2,IGHG2,UniProt,,P01859,adas,2023-10-01,active
+TGT-1155,Free fatty acid receptor 4,FFAR4,Manual,CHEMBL5339,Q5NUL3,lpatel,2021-08-23,active
+TGT-1212,Interferon alpha-13,IFNA13,ChEMBL,,A0A087WWS6,jsmith,2023-10-25,active
+TGT-1441,Regulator of G protein signaling 2,RGS2,UniProt,,P41220,kwilson,2022-09-24,active
+TGT-1189,Histone H1.2,H1-2,Manual,CHEMBL5724671,P16403,njain,2025-06-27,active
+TGT-1004,"Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2",ACAP2,ChEMBL,,Q15057,njain,2024-05-05,active
+TGT-1134,Erythropoietin,EPO,UniProt,CHEMBL5837,P01588,jsmith,2023-10-04,active
+TGT-1312,"Keratin, type I cuticular Ha4",KRT34,Manual,,O76011,jsmith,2025-12-12,active
+TGT-1507,Suppression of tumorigenicity 18 protein,ST18,UniProt,,O60284,lpatel,2024-05-17,active
+TGT-1366,Glucocorticoid receptor,NR3C1,UniProt,CHEMBL2034,P04150,lpatel,2023-04-04,active
+TGT-1051,Voltage-dependent L-type calcium channel subunit alpha-1C,CACNA1C,Manual,CHEMBL1940,Q13936,kwilson,2021-02-14,active
+TGT-1407,Phospholipase D2,PLD2,UniProt,CHEMBL2734,O14939,njain,2021-08-11,active
+TGT-1184,Neuronal membrane glycoprotein M6-a,GPM6A,ChEMBL,,P51674,njain,2023-10-25,active
+TGT-1268,Probable non-functional immunoglobulin lambda variable 3-32,IGLV3-32,Manual,,A0A0A0MS00,lpatel,2025-06-09,active
+TGT-1183,Glypican-3,GPC3,ChEMBL,CHEMBL4630889,P51654,jsmith,2021-08-08,active
+TGT-1082,H(+)/Cl(-) exchange transporter 5,CLCN5,ChEMBL,,P51795,kwilson,2021-02-20,active
+TGT-1391,"cGMP-specific 3',5'-cyclic phosphodiesterase",PDE5A,UniProt,CHEMBL1827,O76074,njain,2025-06-18,active
+TGT-1286,Interleukin-6,IL6,Manual,CHEMBL1795129,P05231,jsmith,2024-05-11,active
+TGT-1332,Microtubule-associated serine/threonine-protein kinase 3,MAST3,Manual,CHEMBL2417352,O60307,njain,2023-10-07,active
+TGT-1587,14-3-3 protein theta,YWHAQ,ChEMBL,CHEMBL3710408,P27348,lpatel,2023-10-07,active
+TGT-1166,G antigen 7,GAGE7,UniProt,,O76087,lpatel,2024-11-14,active
+TGT-1586,YjeF N-terminal domain-containing protein 3,YJEFN3,Manual,,A6XGL0,jsmith,2024-05-05,active
+TGT-1383,Poly [ADP-ribose] polymerase 1,PARP1,ChEMBL,CHEMBL3105,P09874,lpatel,2022-09-21,active
+TGT-1023,Annexin A13,ANXA13,Manual,,P27216,jsmith,2021-08-14,active
+TGT-1367,Mineralocorticoid receptor,NR3C2,UniProt,CHEMBL1994,P08235,adas,2023-10-25,active
+TGT-1393,"High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A",PDE9A,UniProt,CHEMBL3535,O76083,adas,2024-05-11,active
+TGT-1433,Focal adhesion kinase 1,PTK2,Manual,CHEMBL2695,Q05397,adas,2024-05-11,active
+TGT-1014,Interferon-inducible protein AIM2,AIM2,ChEMBL,CHEMBL4630802,O14862,jsmith,2024-11-08,active
+TGT-1546,Probable non-functional T cell receptor gamma variable 10,TRGV10,UniProt,,A0A0A0MS01,kwilson,2020-01-07,active
+TGT-1259,Probable non-functional immunoglobulin lambda variable 1-50,IGLV1-50,Manual,,A0A075B6I6,kwilson,2025-12-09,active
+TGT-1095,Chorionic somatomammotropin hormone 2,CSH2,Manual,,P0DML3,jsmith,2020-01-19,active
+TGT-1165,G antigen 12I,GAGE12I,ChEMBL,,P0CL82,kwilson,2022-09-24,active
+TGT-1055,Calcium/calmodulin-dependent protein kinase kinase 2,CAMKK2,Manual,CHEMBL5284,Q96RR4,kwilson,2024-05-08,active
+TGT-1411,Nuclear envelope pore membrane protein POM 121C,POM121C,UniProt,,A8CG34,kwilson,2020-01-25,active
+TGT-1552,Testis-specific Y-encoded protein 10,TSPY10,Manual,,P0CW01,njain,2021-02-02,active
+TGT-1345,Collagenase 3,MMP13,Manual,CHEMBL280,P45452,kwilson,2025-06-21,active
+TGT-1513,Syntaxin-binding protein 1,STXBP1,Manual,CHEMBL6067178,P61764,njain,2024-11-11,active
+TGT-1045,Bromodomain testis-specific protein,BRDT,UniProt,CHEMBL1795185,Q58F21,adas,2022-03-12,active
+TGT-1102,Cytochrome P450 2D7,CYP2D7,Manual,CHEMBL3542437,A0A087X1C5,kwilson,2021-02-20,active
+TGT-1281,Interleukin-15,IL15,UniProt,CHEMBL3712954,P40933,kwilson,2025-12-18,active
+TGT-1179,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3,GNB3,Manual,,P16520,kwilson,2022-09-09,active
+TGT-1078,Calcium-activated chloride channel regulator 1,CLCA1,Manual,CHEMBL2364708,A8K7I4,jsmith,2021-02-05,active
+TGT-1415,Peroxisome proliferator-activated receptor gamma,PPARG,UniProt,CHEMBL235,P37231,njain,2024-05-20,active
+TGT-1109,Dehydrogenase/reductase SDR family member 7C,DHRS7C,Manual,,A6NNS2,njain,2024-05-26,active
+TGT-1196,Histone deacetylase 4,HDAC4,ChEMBL,CHEMBL3524,P56524,jsmith,2023-04-01,active
+TGT-1222,Immunoglobulin heavy constant gamma 1,IGHG1,UniProt,,P01857,njain,2022-09-06,active
+TGT-1124,Elongation factor 1-alpha 2,EEF1A2,Manual,CHEMBL1795122,Q05639,lpatel,2023-04-22,active
+TGT-1083,H(+)/Cl(-) exchange transporter 6,CLCN6,UniProt,,P51797,njain,2020-01-13,active
+TGT-1539,T cell receptor alpha variable 9-2,TRAV9-2,ChEMBL,,A0A087WT02,njain,2023-04-10,active
+TGT-1294,Voltage-gated inwardly rectifying potassium channel KCNH2,KCNH2,UniProt,CHEMBL240,Q12809,jsmith,2025-12-15,active
+TGT-1315,Protein lin-7 homolog A,LIN7A,ChEMBL,,O14910,njain,2021-02-17,active
+TGT-1128,Eukaryotic translation initiation factor 4H,EIF4H,Manual,CHEMBL1293274,Q15056,jsmith,2025-06-12,active
+TGT-1160,Receptor-type tyrosine-protein kinase FLT3,FLT3,UniProt,CHEMBL1974,P36888,lpatel,2021-08-20,active
+TGT-1432,Parathyroid hormone,PTH,ChEMBL,,P01270,kwilson,2024-05-02,active
+TGT-1168,Galanin receptor type 2,GALR2,ChEMBL,CHEMBL3176,O43603,lpatel,2021-08-02,active
+TGT-1238,Immunoglobulin heavy variable 4-4,IGHV4-4,ChEMBL,,A0A075B6R2,jsmith,2020-07-25,active
