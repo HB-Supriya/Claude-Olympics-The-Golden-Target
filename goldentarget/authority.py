@@ -20,6 +20,7 @@ import json
 import threading
 from concurrent.futures import ThreadPoolExecutor
 
+from . import httpjson
 from . import normalize
 from .httpjson import encode_query
 
@@ -368,6 +369,11 @@ class Authority(object):
             payload, final_url = self.client.get_json(
                 UNIPROT_ENTRY % accession, follow_redirects=False
             )
+            if payload is httpjson.UNREACHABLE:
+                # We never reached the authority. Record nothing: an absent record reads as
+                # "unresolved" downstream, whereas STATUS_UNKNOWN would assert non-existence and
+                # manufacture an invalid_accession finding out of a timeout.
+                return accession, None
             if not isinstance(payload, dict):
                 # Reached the authority and it has no such entry: an unknown identifier.
                 record = ProteinRecord(accession, STATUS_UNKNOWN)
@@ -377,6 +383,8 @@ class Authority(object):
 
         with ThreadPoolExecutor(max_workers=min(MAX_WORKERS, len(leftovers))) as pool:
             for accession, record in pool.map(fetch_single, leftovers):
+                if record is None:
+                    continue
                 with self._lock:
                     self._records[accession] = record
 

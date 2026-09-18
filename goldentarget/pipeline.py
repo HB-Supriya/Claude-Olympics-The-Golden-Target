@@ -12,13 +12,14 @@ Ordering matters and is not arbitrary:
    definable once the target set exists.
 """
 
+import json
 import os
 import sys
 import time
 
 from . import contract, detectors, golden, normalize
 from .authority import Authority
-from .findings import merge_findings
+from .findings import drop_redundant_symbol_findings, merge_findings, restrict_to_contract
 from .httpjson import Deadline, HttpJsonClient, JsonCache
 from .loaders import identity_rows, load_pack
 
@@ -208,7 +209,17 @@ def run(pack_dir, options=None):
 
     golden.attach_publications(clusters, publication_rows, mention_corrections)
 
-    findings = merge_findings(raw_findings)
+    # Withhold undocumented labels first, so a canonicalised accession defect is visible to the
+    # redundancy pass that follows it.
+    reportable, withheld = restrict_to_contract(raw_findings)
+    if withheld:
+        _log(options, "withheld undocumented classifications: %s" % json.dumps(withheld, sort_keys=True))
+    reportable, redundant_symbols = drop_redundant_symbol_findings(reportable)
+    if redundant_symbols:
+        _log(options, "withheld %d stale-symbol findings on rows already reported for their accession"
+             % redundant_symbols)
+
+    findings = merge_findings(reportable)
     records = golden.golden_records(clusters)
 
     payload = {

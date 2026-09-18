@@ -4,8 +4,12 @@ Deliberately stdlib-only (``urllib``): the grading harness installs from an inte
 index, so a tool with zero third-party dependencies removes an entire class of submission risk.
 
 Everything here exists to make one guarantee: a network problem degrades the run, it never
-crashes it and never fabricates evidence. Callers get ``None`` for "authority did not answer",
-which detectors treat as "cannot prove a defect" — so a bad network costs recall, never precision.
+crashes it and never fabricates evidence.
+
+That guarantee needs two distinguishable failures, not one. ``None`` means the authority answered
+and has no such record; ``UNREACHABLE`` means we never got an answer. Collapsing them would let a
+429 or a DNS blip read as "this accession does not exist", which is a fabricated high-severity
+claim — the exact opposite of the guarantee. Detectors may only draw conclusions from ``None``.
 """
 
 import json
@@ -23,6 +27,21 @@ USER_AGENT = "golden-target-reconciler/1.0 (Claude Olympics; discovery informati
 
 _RETRY_STATUS = frozenset((408, 425, 429, 500, 502, 503, 504))
 _REDIRECT_STATUS = frozenset((301, 302, 303, 307, 308))
+
+
+class _Unreachable(object):
+    """Sentinel: the request never produced an answer (timeout, DNS, TLS, retries, deadline)."""
+
+    __slots__ = ()
+
+    def __repr__(self):
+        return "UNREACHABLE"
+
+    def __bool__(self):
+        return False
+
+
+UNREACHABLE = _Unreachable()
 
 
 def _env_flag(name):
@@ -207,7 +226,7 @@ class HttpJsonClient(object):
         for attempt in range(self.max_attempts):
             if self.deadline.expired(reserve=2.0):
                 self._log("deadline reached, abandoning %s" % url)
-                return None, url
+                return UNREACHABLE, url
             try:
                 request = urllib.request.Request(
                     url, headers={"Accept": "application/json", "User-Agent": USER_AGENT}
@@ -250,7 +269,7 @@ class HttpJsonClient(object):
 
         self._bump("errors")
         self._log("giving up on %s (%s)" % (url, last_error))
-        return None, url
+        return UNREACHABLE, url
 
 
 def encode_query(params):

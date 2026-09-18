@@ -4,6 +4,8 @@ The harness parses the tool's entire stdout as one JSON value: a shape error sco
 crash. So the contract is asserted in code, on every run, before anything is printed.
 """
 
+from . import findings as findings_module
+
 REQUIRED_TOP_LEVEL = ("unique_target_count", "golden_records", "findings")
 REQUIRED_FINDING_FIELDS = ("gene", "observed", "correct", "retrieved_evidence", "evidence_source")
 REQUIRED_RECORD_FIELDS = ("gene", "primary_accession", "sources")
@@ -58,4 +60,10 @@ def validate(payload):
                 # The rubric only awards full credit for a finding that carries its correction and
                 # its proof, so an incomplete one is a bug, not something to ship quietly.
                 raise ContractError("findings[%d] has empty %r" % (index, field))
+        classification = finding.get("classification")
+        if classification not in findings_module.REPORTABLE:
+            # Fail here rather than publish a label the report never documented.
+            raise ContractError(
+                "findings[%d] has undocumented classification %r" % (index, classification)
+            )
     return payload

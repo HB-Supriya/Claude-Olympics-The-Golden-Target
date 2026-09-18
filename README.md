@@ -24,8 +24,9 @@ Zero third-party dependencies (stdlib only). Python 3.11.
 
 ## 1. Result on the shipped `exam/` pack
 
-609 unique targets from 2,578 identity rows carrying 639 distinct accession values, and **65
+609 unique targets from 2,578 identity rows carrying 639 distinct accession values, and **45
 findings**, each carrying its observed value, its correction, and the authority's literal response.
+Cold, with an empty cache and live network, the run takes **38s** against the 5-minute budget.
 
 | classification | n | severity | what it is |
 |---|---|---|---|
@@ -34,8 +35,8 @@ findings**, each carrying its observed value, its correction, and the authority'
 | `isoform_accession` | 2 | medium | keyed on a splice isoform (`Q13422-3`) instead of the protein entry |
 | `wrong_crossreference` | 1 | medium | ChEMBL id belongs to a different UniProt entry |
 | `ambiguous_mention` | 2 | medium | a literature alias shared by two proteins, resolved from context |
-| `stale_gene_symbol` | 22 | low | a former official symbol, still a recorded synonym |
 | `missing_gene_symbol` | 6 | low | blank symbol, filled from the authority |
+| `stale_gene_symbol` | 2 | low | the row's symbol is a recorded synonym, not the approved symbol |
 
 Full evidence for every finding: [`reports/findings_exam.md`](reports/findings_exam.md) (readable) and
 [`reports/findings_exam.json`](reports/findings_exam.json) (the tool's exact stdout).
@@ -46,6 +47,27 @@ Two classes are implemented and tested but **found zero instances here**, honest
 rather than padded: `organism_mismatch` (all 641 resolved entries are taxon 9606) and
 `invalid_accession` (every accession value resolves). Both fire in the test pack, so they are ready
 for a pack that does contain them.
+
+### What is deliberately *not* reported
+
+The detectors produce 82 candidates; 45 are published. The gap is not a confidence threshold — it is
+three rules that withhold a claim the evidence does not support:
+
+**One defective row is one finding.** A row carrying a retired accession usually carries that era's
+gene symbol as well. Reporting both turns one injected defect into two findings, and the symbol half
+is the weaker claim. So a `stale_gene_symbol` finding is withheld wherever that same row is already
+reported for its accession — 20 of them on this pack. The 2 that remain (`WHSC1`→`NSD2`,
+`SEPT9`→`SEPTIN9`) stand on their own rows, with a correct accession.
+
+**Only what the payload proves.** UniProt's `gene.synonyms` carries no historicity flag: it mixes
+symbols that were once official with aliases that never were. So the evidence text claims only what
+is literally true — "listed by the authority as a synonym of X, not its approved symbol" — and never
+asserts that a symbol was formerly official, because the authority does not say so.
+
+**Only documented labels.** The internal vocabulary is wider than the report's nine classifications.
+Anything outside them is mapped to a documented equivalent (`secondary_accession` →
+`obsolete_accession`) or withheld and counted on stderr. `contract.py` fails the run rather than
+print a label the report never defined.
 
 ## 2. The authority
 
@@ -83,7 +105,7 @@ goldentarget/
   pipeline.py                orchestration and phase budgeting
 tools/report.py              regenerate reports/ artifacts
 tools/record_fixtures.py     re-record the offline test fixture
-tests/                       72 tests, fully offline
+tests/                       90 tests, fully offline
 ```
 
 Pipeline order is deliberate: **resolve → detect row-level → cluster → detect corpus-level**. Row
@@ -91,12 +113,21 @@ detection has to come before clustering, because a row whose accession points at
 must be re-filed under the target it actually describes — otherwise the wrong mapping corrupts a
 golden record as well as producing a finding.
 
-Two design rules do most of the work:
+Three design rules do most of the work:
 
 1. **No authority answer, no finding.** If a lookup fails or the endpoint is unreachable, the row is
    left alone. Missing evidence costs recall, never precision.
-2. **`Finding` refuses to be constructed** without all four evidence fields. A detector cannot emit
+2. **"No such entry" and "no answer" are different values.** `httpjson` returns `None` when the
+   authority answered and holds no such record, and `UNREACHABLE` when nothing came back. Only
+   `None` licenses a conclusion. Collapsing the two would let a 429 or a DNS blip read as "this
+   accession does not exist" and manufacture a high-severity `invalid_accession` out of a timeout —
+   so with the network pulled, the tool emits 637 golden records and **zero** findings, not false
+   ones.
+3. **`Finding` refuses to be constructed** without all four evidence fields. A detector cannot emit
    an unproven claim even by accident.
+
+Where the authority returns several candidate entries for one symbol or cross-reference, no
+correction is emitted at all: `alternatives[0]` out of many is search relevance order, not evidence.
 
 Nothing is keyed to a value seen in the exam pack — no gene allow-lists, no accession patches. Every
 rule is a procedure that queries the authority, so it behaves identically on an unseen pack.
@@ -121,7 +152,7 @@ Precision counts against you when you get it wrong, so these were each investiga
 ## 5. Validation
 
 ```bash
-python3 -m pytest tests -q      # 72 tests, no network access required
+python3 -m pytest tests -q      # 90 tests, no network access required
 ```
 
 The suite replays a **recorded** authority response set (`tests/fixtures/recorded_authority.json`),

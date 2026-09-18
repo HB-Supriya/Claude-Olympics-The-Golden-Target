@@ -13,6 +13,7 @@ import sys
 import pytest
 
 from goldentarget import contract, golden
+from goldentarget import findings as findings_module
 from goldentarget.contract import ContractError
 
 from .stubs import MINI_PACK, resolved_offline
@@ -163,6 +164,25 @@ class TestSubprocessInvocation(object):
             "organism_mismatch", "obsolete_accession", "wrong_crossreference",
             "ambiguous_mention", "stale_gene_symbol", "missing_gene_symbol",
         } <= classes
+
+    def test_no_finding_carries_an_undocumented_classification(self):
+        payload = json.loads(self.run_tool(MINI_PACK).stdout.decode())
+        for finding in payload["findings"]:
+            assert finding["classification"] in findings_module.REPORTABLE, finding
+
+    def test_undocumented_classification_is_rejected_before_printing(self):
+        payload = {
+            "unique_target_count": 0,
+            "golden_records": [],
+            "findings": [{
+                "gene": "PIM1", "observed": "Q9P1W9", "correct": "P11309",
+                "retrieved_evidence": "{}", "evidence_source": "EBI",
+                "severity": "medium", "classification": "duplicate_identity",
+            }],
+        }
+        with pytest.raises(contract.ContractError) as excinfo:
+            contract.validate(payload)
+        assert "duplicate_identity" in str(excinfo.value)
 
     def test_missing_argument_is_an_error_not_a_crash(self):
         result = subprocess.run([sys.executable, SOLVE], stdout=subprocess.PIPE,

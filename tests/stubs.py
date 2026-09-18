@@ -9,7 +9,7 @@ silently slip past the suite.
 
 import os
 
-from goldentarget.httpjson import Deadline, JsonCache
+from goldentarget.httpjson import UNREACHABLE, Deadline, JsonCache
 
 FIXTURE_DIR = os.path.dirname(os.path.abspath(__file__))
 RECORDED = os.path.join(FIXTURE_DIR, "fixtures", "recorded_authority.json")
@@ -41,7 +41,9 @@ class OfflineClient(object):
                     "test attempted an un-recorded request: %s\n"
                     "Re-run tools/record_fixtures.py if the mini pack changed." % key
                 )
-            return None, url
+            # An un-recorded request is one we could not answer, not one the authority denied.
+            self.stats["errors"] += 1
+            return UNREACHABLE, url
         self.stats["cache_hits"] += 1
         return entry.get("payload"), entry.get("status") or url
 

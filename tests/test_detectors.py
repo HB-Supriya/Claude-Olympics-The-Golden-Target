@@ -5,6 +5,8 @@ just as importantly — the near-miss cases it must stay silent about.
 """
 
 from goldentarget import detectors, golden
+from goldentarget.authority import Authority
+from goldentarget.httpjson import UNREACHABLE
 from .stubs import resolved_offline
 
 
@@ -57,6 +59,44 @@ class TestInvalidAccession(object):
         observed = by_observed(detectors.detect_invalid_accession(authority, rows))
         assert "P11309" not in observed
         assert "B5A968" not in observed  # obsolete, but well-formed and known
+
+
+class TestUnreachableAuthorityMakesNoClaim(object):
+    """A network failure must cost recall, never precision.
+
+    ``get_json`` returns ``None`` when the authority answered and holds no such entry, and
+    ``UNREACHABLE`` when no answer arrived at all. Conflating them lets a 429 or a DNS blip read as
+    "this accession does not exist" — a fabricated high-severity ``invalid_accession``.
+    """
+
+    class _Client(object):
+        def __init__(self, payload):
+            self.payload = payload
+            self.stats = {"requests": 0, "cache_hits": 0, "errors": 0, "not_found": 0, "retries": 0}
+
+        def get_json(self, url, allow_not_found=True, follow_redirects=True):
+            if "proteins?" in url:
+                return [], url  # the batch answered and omitted this accession
+            return self.payload, url
+
+    def test_unreachable_lookup_records_nothing(self):
+        authority = Authority(self._Client(UNREACHABLE))
+        authority.resolve_accessions(["P11309"])
+        # No record at all: detectors read that as "unresolved" and stay silent.
+        assert authority.record("P11309") is None
+
+    def test_authoritative_absence_is_recorded_as_unknown(self):
+        authority = Authority(self._Client(None))
+        authority.resolve_accessions(["P0521X"])
+        record = authority.record("P0521X")
+        assert record is not None
+        assert not record.known
+
+    def test_unreachable_never_yields_an_invalid_accession_finding(self):
+        _, _, rows = resolved_pack()
+        authority = Authority(self._Client(UNREACHABLE))
+        authority.resolve_accessions([row.accession for row in rows if row.accession])
+        assert detectors.detect_invalid_accession(authority, rows) == []
 
 
 class TestIsoformAccession(object):

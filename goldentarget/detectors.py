@@ -532,7 +532,9 @@ def detect_symbol(authority, rows):
                 name_backs_alternative = True
                 best_alternative = candidate
                 break
-        if best_alternative is None and alternatives:
+        if best_alternative is None and len(alternatives) == 1:
+            # Only an unambiguous single owner may stand in without a name match; alternatives[0]
+            # out of several would be search relevance order masquerading as a correction.
             best_alternative = alternatives[0]
         # BindingDB-style rows often restate the symbol as the target name ("KISS1", "KISS1
         # protein", "IGLV1-47 protein"); that still counts as the name backing the symbol rather
@@ -669,8 +671,10 @@ def detect_crossreferences(authority, rows):
 
         owners = authority.find_by_xref("chembl", external)
         owners = [owner for owner in owners if owner.primary]
-        if not owners:
-            continue  # cannot prove the id belongs elsewhere, so make no claim
+        if len(owners) != 1:
+            # No owner, or several: the authority has not singled out one entry, and picking the
+            # first would be an artefact of search relevance order rather than evidence.
+            continue
         owner = owners[0]
         if owner.primary == live.primary:
             continue

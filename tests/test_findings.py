@@ -6,7 +6,13 @@ assert the contract is enforced structurally, so no future detector can emit an 
 
 import pytest
 
-from goldentarget.findings import EvidenceError, Finding, merge_findings
+from goldentarget.findings import (
+    EvidenceError,
+    Finding,
+    drop_redundant_symbol_findings,
+    merge_findings,
+    restrict_to_contract,
+)
 
 
 def make(**overrides):
@@ -72,3 +78,66 @@ class TestMerge(object):
             make(classification="obsolete_accession", observed="C", locations=["r3"]),
         ])
         assert [f.severity for f in findings] == ["high", "medium", "low"]
+
+
+class TestReportableVocabulary(object):
+    """Only documented classifications may reach stdout."""
+
+    def test_secondary_accession_is_reported_as_obsolete(self):
+        kept, withheld = restrict_to_contract([make(classification="secondary_accession")])
+        assert [f.classification for f in kept] == ["obsolete_accession"]
+        assert kept[0].severity == "medium"
+        assert withheld == {}
+
+    @pytest.mark.parametrize("classification", [
+        "wrong_gene_symbol", "unknown_gene_symbol", "duplicate_identity", "duplicate_registration",
+    ])
+    def test_undocumented_classifications_are_withheld_and_counted(self, classification):
+        kept, withheld = restrict_to_contract([make(classification=classification)])
+        assert kept == []
+        assert withheld == {classification: 1}
+
+    def test_documented_classifications_pass_through_untouched(self):
+        original = make(classification="obsolete_accession")
+        kept, withheld = restrict_to_contract([original])
+        assert kept == [original]
+        assert withheld == {}
+
+
+class TestRedundantSymbolSuppression(object):
+    """A stale symbol riding along with a defective accession is one defect, not two."""
+
+    def test_stale_symbol_is_withheld_when_its_row_is_already_reported(self):
+        accession = make(classification="obsolete_accession", observed="Q8N5L2",
+                         correct="P30530", locations=["source_bindingdb.csv row 146 (Q8N5L2)"])
+        symbol = make(classification="stale_gene_symbol", observed="UFO", correct="AXL",
+                      locations=["source_bindingdb.csv row 146 (Q8N5L2)"])
+        kept, dropped = drop_redundant_symbol_findings([accession, symbol])
+        assert dropped == 1
+        assert [f.classification for f in kept] == ["obsolete_accession"]
+
+    def test_standalone_stale_symbol_survives(self):
+        symbol = make(classification="stale_gene_symbol", observed="SEPT9", correct="SEPTIN9",
+                      locations=["source_internal.csv row 8 (TGT-2433)"])
+        kept, dropped = drop_redundant_symbol_findings([symbol])
+        assert dropped == 0
+        assert kept == [symbol]
+
+    def test_only_the_explained_rows_are_removed_from_a_pooled_finding(self):
+        accession = make(classification="obsolete_accession", locations=["row_a"])
+        symbol = make(classification="stale_gene_symbol", observed="UFO", correct="AXL",
+                      locations=["row_a", "row_b"])
+        kept, dropped = drop_redundant_symbol_findings([accession, symbol])
+        assert dropped == 0
+        survivor = [f for f in kept if f.classification == "stale_gene_symbol"][0]
+        assert survivor.locations == ["row_b"]
+
+    @pytest.mark.parametrize("accession_defect", [
+        "obsolete_accession", "wrong_accession_mapping", "isoform_accession", "invalid_accession",
+    ])
+    def test_any_accession_defect_explains_the_row(self, accession_defect):
+        accession = make(classification=accession_defect, locations=["row_a"])
+        symbol = make(classification="stale_gene_symbol", observed="UFO", correct="AXL",
+                      locations=["row_a"])
+        _, dropped = drop_redundant_symbol_findings([accession, symbol])
+        assert dropped == 1
