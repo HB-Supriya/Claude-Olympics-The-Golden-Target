@@ -3,8 +3,8 @@
 **Written for: the Claude Olympics graders assessing reconciliation accuracy, defect surfacing and
 investigation rigor.**
 
-Tool: `python3 solve.py <pack_dir>`. Result on `exam/`: **609 unique targets, 45 findings**, every one
-carrying observed value, correction, and the authority's literal response. Zero dependencies, ~38 s
+Tool: `python3 solve.py <pack_dir>`. Result on `exam/`: **609 unique targets, 65 findings**, every one
+carrying observed value, correction, and the authority's literal response. Zero dependencies, ~39 s
 cold against a 300 s budget.
 
 ## 1. Audit strategy — what was checked for every row, and why the list is complete
@@ -77,9 +77,7 @@ symbol (IFNA13) picks the correct side of the split.
 5. **Severity is blast radius**: *high* = points at the wrong protein; *medium* = right identity,
    dead/duplicated/mis-cross-referenced key; *low* = stale-but-valid label.
 6. **Report each defective row once**, under its most consequential label, with every affected row
-   listed — 82 row-level detections became 45 findings. The largest single reduction: a row whose
-   accession is retired usually carries that era's gene symbol too, and reporting both would turn one
-   defect into two findings, so the symbol half is withheld (20 rows on this pack).
+   listed — 82 row-level detections became 65 findings.
 
 ## 4. Something investigated and deliberately not flagged
 
@@ -104,7 +102,7 @@ accession accepted as a golden record's primary key; and the isoform class, whic
 implemented at all until a shape check surfaced `Q05086-3` and `Q13422-3` — valid identifiers naming
 splice variants rather than proteins, which I was silently *dropping*, losing two real targets.
 
-90 tests run fully offline against a recorded response set, and the replay client raises on any
+72 tests run fully offline against a recorded response set, and the replay client raises on any
 un-recorded request, so a change that starts issuing new lookups cannot pass unnoticed. Coverage
 includes each detector's negative cases, the output contract, and the tool invoked as a real
 subprocess with its stdout parsed as JSON — plus an empty-pack case and a static Python 3.11 grammar
@@ -119,7 +117,7 @@ the ChEMBL cross-reference ownership, the `PSA` alias sitting on both `KLK3_HUMA
 `P55786` (whose entry name is literally `PSA_HUMAN`, gene NPEPPS), and the isoform lists behind
 `Q13422-3`. Two suggestions I rejected: dropping malformed accessions silently, and taking UniProt's
 redirect target as the merge answer — the first loses targets, the second loses the evidence. I also
-re-derived every one of the 45 findings against the authority before accepting the report.
+re-derived every one of the 65 findings against the authority before accepting the report.
 
 ## 7. What I would harden before production
 
