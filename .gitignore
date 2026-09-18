@@ -50,6 +50,10 @@ Thumbs.db
 *.swo
 
 # ── Project-specific ─────────────────────────────────────────────────────────
+# The authority-response cache is deliberately NOT committed. It is a ~50 MB artefact that buys
+# about 9 s off an already 38 s cold run (budget: 300 s), and its entries expire after 7 days by
+# design — the brief says to re-verify at submission time, so a stale cached answer is a liability,
+# not a speed-up. It is rebuilt on first run.
 .gtcache/
 cache/
 legacy/

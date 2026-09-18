@@ -1,0 +1,34 @@
+# The Dockerfile uses `COPY . .`, which does not consult .gitignore. Without this file the image
+# picks up ~54 MB of local-only artefacts — chiefly the authority cache, whose entries expire after
+# 7 days and so would ship already stale.
+
+# Authority-response cache: rebuilt on first run, never shipped.
+.gtcache/
+cache/
+
+# Superseded first implementation, kept locally for reference only.
+legacy/
+
+# Version control and local environments
+.git/
+.gitignore
+.venv/
+venv/
+
+# Python build/test noise
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Editor and OS noise
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Source briefing material, not needed at runtime
+*.pdf
+*.pptx
